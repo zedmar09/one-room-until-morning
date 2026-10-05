@@ -3,29 +3,30 @@
 ## Identity
 
 **Name:** Yoo Min-jae  
-**Age:** 18  
-**Role:** Warm, quietly affectionate classmate  
-**Height:** 183 cm  
-**Build:** Lean, lightly athletic
+**Age:** 23  
+**Role:** University student; warm, composed, quietly bold  
+**Height:** 184 cm  
+**Build:** Lean, lightly athletic, broad enough through the shoulders to contrast with Seo-jun
 
 ## Face
 
 - Warm fair / light beige skin
-- Handsome, approachable young masculine face
-- Clean jawline
+- Handsome adult masculine face
+- Clean defined jawline
 - Warm brown eyes
-- Relaxed eyes with gentle direct eye contact
-- Natural, small smile
+- Relaxed eyes with confident direct eye contact
+- Natural restrained smile
 - Slightly stronger facial structure than Seo-jun without looking rugged
 
 ## Hair
 
 - Dark brown
 - Soft, slightly tousled texture
-- Medium-short manhwa hairstyle
-- Natural layered strands
-- No wet-look gloss or mirror-like shine
-- Hair shape and length must remain fixed throughout the story
+- Medium-short layered manhwa hairstyle
+- Natural separation of hair masses and selected strands
+- No mirror-like shine
+- No wet-look gloss
+- Hair shape and length must remain consistent
 
 ## Personality
 
@@ -35,47 +36,68 @@
 - Attentive
 - Quietly confident
 - Affectionate without being loud
-- Never arrogant
+- Capable of teasing, but never cruel
 - Never aggressive or possessive
-- Notices Seo-jun's small emotional changes
+- More willing than Seo-jun to say what he feels
+- Respects a boundary immediately when Seo-jun says "Don't"
 
-## School Uniform
+## Canonical Story Outfit
 
-- White long-sleeve school shirt
-- Dark navy tie
-- Charcoal / very dark gray trousers
-- Plain black school shoes
-- Slightly more relaxed styling than Seo-jun
-- Sleeves may be lightly rolled
-- Collar may be subtly relaxed while remaining neat
+Use this outfit for the entire storm-night sequence unless the storyboard explicitly says otherwise:
 
-Once sleeve and collar treatment is established in the approved reference, keep it unchanged throughout the story.
+- dark navy overshirt or light jacket, worn open
+- muted black crew-neck shirt
+- dark charcoal trousers
+- black casual leather shoes
+- simple dark travel bag
+- minimal watch
+
+After entering the hotel, the wet outer layer may be removed. The black shirt and dark trousers remain his canonical indoor outfit.
+
+Clothing must remain opaque, matte, tasteful, and consistent. Rain may make fabric look damp, but never transparent or overly clingy.
 
 ## Body Language
 
 - Relaxed shoulders
 - Comfortable posture
-- Gentle direct eye contact
+- Steady direct eye contact
 - Moves closer gradually rather than suddenly
-- Never corners Seo-jun aggressively
-- Matches Seo-jun's pace while walking
+- Stops immediately when Seo-jun sets a boundary
+- Often holds still and lets tension build rather than over-gesturing
+- When nervous, his usual small smile disappears
 
 ## Expression Language
 
-Preferred expressions:
+Preferred:
 
 - small knowing smile
 - gentle eye contact
 - calm seriousness
-- subtle warmth
-- restrained happiness
+- restrained frustration
+- momentary vulnerability
+- subtle relief
+- softened smile after the kiss
 
 Avoid:
 
 - smug grin
-- exaggerated flirting face
+- exaggerated seduction
 - comedic reactions
 - aggressive intensity
+- threatening body language
+
+## Relationship Behavior
+
+Min-jae has wanted Seo-jun for months but interpreted Seo-jun pulling away from their almost-kiss as rejection.
+
+His attraction should appear through:
+
+- noticing Seo-jun looking at him
+- controlled proximity
+- direct verbal honesty
+- pausing before touch
+- giving Seo-jun space when asked
+- asking clearly before crossing the final romantic boundary
 
 ## Fixed Continuity Rules
 
@@ -86,9 +108,9 @@ Never change:
 - warm brown eyes
 - warm fair skin tone
 - facial proportions
-- lean athletic build
+- lean athletic adult build
 - height
-- uniform palette
+- canonical clothing palette
 
 Min-jae must always be visibly taller than Han Seo-jun.
 
@@ -97,13 +119,13 @@ Min-jae must always be visibly taller than Han Seo-jun.
 When generating Min-jae's approved reference image:
 
 - generate Min-jae alone
-- neutral or simple background
+- simple neutral background
 - no dialogue
 - no story action
 - no dramatic effects
-- normal school uniform
+- use his canonical story outfit in a dry, clean state
 - clearly show his face
 - include a clean portrait or three-quarter view
 - optionally include a full-body view if composition permits
 - use the project's flat, premium manhwa rendering rules
-- prioritize a reusable, easy-to-recognize design over a dramatic illustration
+- prioritize a reusable, recognizable character design over a dramatic poster pose
