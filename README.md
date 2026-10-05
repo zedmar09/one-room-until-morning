@@ -21,11 +21,11 @@ one-room-until-morning/
 
 ## Story Setup
 
-Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking after an almost-kiss six months ago. A storm strands them overnight in a hotel with one room and one bed. Each believes the other regretted what happened. Min-jae is leaving the city the next morning, forcing them to finally confront the misunderstanding before their chance disappears.
+Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking after an almost-kiss six months ago. A storm strands them overnight in a hotel with one room and one bed. Each believes the other regretted what happened. Min-jae is leaving the city the next morning for a six-month internship in Busan, forcing them to finally confront the misunderstanding before distance makes avoidance easy again.
 
 **Title:** One Room Until Morning  
 **Format:** Standalone one-shot  
-**Genre:** Adult BL / Romance / Rivals-to-Lovers / Emotional Tension  
+**Genre:** Adult BL / Forced Proximity / Mutual Pining / One Bed / Emotional Tension  
 **Length:** 17 vertical images  
 **Ending:** Complete; no Part 2 or sequel hook required.
 
