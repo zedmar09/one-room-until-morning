@@ -174,9 +174,10 @@ The visual arc should move through:
 2. irritation
 3. unresolved attraction
 4. vulnerability
-5. intimate confrontation
-6. consensual romantic climax
-7. quiet morning relief
+5. mutually permitted physical closeness
+6. intimate confrontation
+7. consensual romantic climax
+8. quiet morning relief
 
 ## Color Direction
 
@@ -200,16 +201,16 @@ Stormy night with warm hotel interior light.
 ### Images 5 and 7
 Rooftop flashback: cooler night air with restrained warm festival light.
 
-### Images 6 and 8–13
-Warm hotel room light against cool rain-window ambience; contrast rises as emotional tension rises.
-
-### Image 14
-The kiss: intimate warm-neutral light, no glow effect, no decorative sparkles.
+### Images 6 and 8–14
+Warm hotel room light against cool rain-window ambience; contrast rises as emotional tension rises. Image 11 introduces the first clearly permitted present-day touch and should feel especially close without becoming glossy or eroticized.
 
 ### Image 15
-Same night, quieter and softer after the kiss.
+The kiss: intimate warm-neutral light, no glow effect, no decorative sparkles.
 
 ### Image 16
+Same night, quieter and softer after the kiss.
+
+### Image 17
 Natural morning window light.
 
 ## Camera Language
@@ -222,7 +223,8 @@ Use deliberate variety:
 - confrontation close-ups
 - memory flashback
 - side-profile tension
-- hand detail
+- hand-pausing-before-contact detail
+- towel/collar proximity close framing
 - shirt-grab close framing
 - pre-kiss face-to-face close-up
 - kiss medium close-up
@@ -244,7 +246,10 @@ The heat comes from:
 - eye contact
 - interrupted movement
 - restrained touch
+- a hand visibly pausing before contact
+- explicit permission before close physical contact
 - damp hair and post-rain atmosphere
+- a brief, permitted towel/collar adjustment that creates proximity without undressing
 - a hand stopping someone from walking away
 - a shirt-grab at the turning point
 - forehead-level closeness
@@ -267,7 +272,10 @@ Do not rely on:
 
 Both characters are adults.
 
-- Min-jae stops immediately when Seo-jun says "Don't."
+- In the midpoint touch scene, Min-jae pauses before touching Seo-jun and asks "Can I?"
+- Seo-jun gives a clear verbal "Yes" before Min-jae comes closer.
+- The permitted touch is limited to gently blotting damp hair/collar with a towel and briefly straightening the collar; no undressing or sexual contact.
+- Min-jae stops immediately when Seo-jun later says "Don't."
 - Seo-jun then actively stops Min-jae from moving away.
 - Before the kiss, Min-jae asks a direct question.
 - Seo-jun gives an unmistakable invitation and then closes the final distance himself.
