@@ -139,10 +139,10 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 ## Scene 11 — Stay Still
 
 **MIN-JAE:**  
-"Your collar's still soaked."
+"Your hair's still wet."
 
 **SEO-JUN:**  
-"I'll survive."
+"It'll dry."
 
 **MIN-JAE:**  
 "Can I?"
@@ -151,32 +151,44 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "...Yes."
 
 **MIN-JAE:**  
-"You know I would've asked that night."
+"You know what I should've asked that night?"
 
 **SEO-JUN:**  
-"Asked what?"
+"What?"
 
 **MIN-JAE:**  
 "If you wanted me closer."
 
 **SEO-JUN:**  
-"...I didn't tell you to move."
+"And if I'd said yes?"
+
+**MIN-JAE:**  
+"I would've stayed."
+
+**SEO-JUN:**  
+"Then stop stepping away now."
 
 ---
 
 ## Scene 12 — Min-jae Goes First
 
 **MIN-JAE:**  
-"Fine."
+"Seo-jun..."
+
+**SEO-JUN:**  
+"You wanted honesty."
 
 **MIN-JAE:**  
-"Then I'll go first."
+"Fine."
 
 **MIN-JAE:**  
 "I wanted to kiss you that night."
 
 **MIN-JAE:**  
-"I wanted to kiss you every time I saw you after that."
+"I wanted to kiss you every time after."
+
+**MIN-JAE:**  
+"I still do."
 
 ---
 
