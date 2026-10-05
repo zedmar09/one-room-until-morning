@@ -8,7 +8,7 @@
 **Primary setting:** Small city hotel during a storm  
 **Secondary setting:** University rooftop flashback  
 **Time span:** Stormy night to the following morning  
-**Departure stake:** Min-jae leaves that morning for a six-month internship in Busan  
+**Departure stake:** Min-jae is originally scheduled to leave that morning for a six-month internship in Busan  
 **Why they are together:** Both attended Min-jae's university farewell dinner; the storm suspends late transport on their way home  
 **Travel continuity:** Min-jae has already cleared his dorm and carries his packed travel bag; Seo-jun knows the original morning train time from the farewell plan
 
@@ -266,7 +266,7 @@ Use Scene 8.
 
 ### Scene
 
-Seo-jun breaks eye contact and says none of it matters because Min-jae's six-month internship starts in Busan tomorrow.
+Seo-jun breaks eye contact and says none of it matters because Min-jae is leaving tomorrow for a six-month internship in Busan.
 
 The internship is already accepted and his morning train is booked. This is not a bluff or an impulsive escape; the distance is real and imminent.
 
@@ -504,9 +504,9 @@ Use Scene 14.
 
 ### Scene
 
-Min-jae closes the remaining distance carefully.
+Min-jae leans closer, then pauses.
 
-Seo-jun meets him halfway.
+Seo-jun makes the final choice and closes the remaining distance himself.
 
 They kiss.
 
@@ -595,6 +595,8 @@ Use Scene 16.
 
 Soft morning light. The storm is over.
 
+Both are fully dressed to leave the hotel in the same canonical travel outfits established earlier. Seo-jun's charcoal coat is dry and worn over his crisp white button-up shirt. Min-jae's dark navy overshirt is dry and worn over his muted black crew-neck T-shirt. Their bags are packed and remain in their established room positions.
+
 Seo-jun checks the time.
 
 **"Your train's in twenty minutes."**
@@ -636,6 +638,15 @@ Use a quiet three-beat progression:
 Keep the final frame on their faces, not the phone.
 
 No extra explanatory reaction shot, narration, or visual metaphor.
+
+### Continuity
+
+- Both are fully dressed in their canonical travel outfits.
+- Seo-jun wears the dry charcoal coat over his crisp white button-up shirt.
+- Min-jae wears the dry dark navy overshirt over his muted black crew-neck T-shirt.
+- Min-jae's packed travel bag remains beside the luggage bench.
+- Seo-jun's dark crossbody bag remains beside the chair until they leave.
+- Do not introduce sleepwear, changed shirts, or new clothing.
 
 ### Emotional Beat
 
