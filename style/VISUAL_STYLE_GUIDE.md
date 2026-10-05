@@ -224,7 +224,7 @@ Use deliberate variety:
 - memory flashback
 - side-profile tension
 - hand-pausing-before-contact detail
-- towel/collar proximity close framing
+- towel/hair proximity close framing
 - shirt-grab close framing
 - pre-kiss face-to-face close-up
 - kiss medium close-up
@@ -249,7 +249,7 @@ The heat comes from:
 - a hand visibly pausing before contact
 - explicit permission before close physical contact
 - damp hair and post-rain atmosphere
-- a brief, permitted towel/collar adjustment that creates proximity without undressing
+- a brief, permitted towel-drying gesture at Seo-jun's damp hair near the temple that creates proximity without undressing
 - a hand stopping someone from walking away
 - a shirt-grab at the turning point
 - forehead-level closeness
@@ -274,7 +274,7 @@ Both characters are adults.
 
 - In the midpoint touch scene, Min-jae pauses before touching Seo-jun and asks "Can I?"
 - Seo-jun gives a clear verbal "Yes" before Min-jae comes closer.
-- The permitted touch is limited to gently blotting damp hair/collar with a towel and briefly straightening the collar; no undressing or sexual contact.
+- The permitted touch is limited to gently blotting Seo-jun's damp hair near the temple with a towel; no collar adjustment, undressing, or sexual contact.
 - Min-jae stops immediately when Seo-jun later says "Don't."
 - Seo-jun then actively stops Min-jae from moving away.
 - Before the kiss, Min-jae asks a direct question.
