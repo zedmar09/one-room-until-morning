@@ -157,7 +157,8 @@ Keep the room geography fixed across Images 3–17:
 - one bedside table with the warm lamp stays on the outer side of the bed
 - damp outer layers are placed on wall hooks near the entrance after Image 3 and remain there through Image 16; by Image 17 they are dry and worn again
 - Min-jae's packed travel bag stays beside the luggage bench
-- Seo-jun's smaller bag stays beside the chair
+- Seo-jun's dark crossbody bag stays beside the chair near the window
+- a clean hotel towel is introduced only in Image 11; after use, Min-jae sets it on the luggage bench, where it remains as a background prop and is not held again
 
 Camera angles may change, but these relationships must not flip or migrate between images.
 
