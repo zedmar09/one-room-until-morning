@@ -26,7 +26,7 @@ Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking a
 **Title:** One Room Until Morning  
 **Format:** Standalone one-shot  
 **Genre:** Adult BL / Romance / Rivals-to-Lovers / Emotional Tension  
-**Length:** 16 vertical images  
+**Length:** 17 vertical images  
 **Ending:** Complete; no Part 2 or sequel hook required.
 
 ## Source-of-Truth Order
