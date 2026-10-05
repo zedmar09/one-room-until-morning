@@ -245,18 +245,21 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 ## Scene 17 — One More Morning
 
 **SEO-JUN:**  
-"You're going to miss your train."
+"Your train's in twenty minutes."
 
 **MIN-JAE:**  
-"I changed it."
+"Was."
+
+**SEO-JUN:**  
+"...Min-jae."
+
+**MIN-JAE:**  
+"I moved it to tonight."
 
 **SEO-JUN:**  
 "Why?"
 
 **MIN-JAE:**  
-"You told me to stop stepping away."
-
-**MIN-JAE:**  
-"So I did."
+"Thought I'd try staying this time."
 
 **END**
