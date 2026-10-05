@@ -41,6 +41,14 @@
 - More willing than Seo-jun to say what he feels
 - Respects a boundary immediately when Seo-jun says "Don't"
 
+## Departure Context
+
+- Min-jae has accepted a six-month internship in Busan.
+- His train leaves the morning after the storm-night hotel stay.
+- The internship is a real commitment he still intends to honor; changing the morning train to an evening departure only gives them more time together that day.
+- He is not abandoning the internship or permanently staying behind.
+- His travel bag in the hotel is for this move.
+
 ## Canonical Story Outfit
 
 Use this outfit for the entire storm-night sequence unless the storyboard explicitly says otherwise:
