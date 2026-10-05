@@ -155,7 +155,7 @@ Keep the room geography fixed across Images 3–17:
 - a small chair and compact table sit near the window
 - a narrow luggage bench stays at the foot of the bed
 - one bedside table with the warm lamp stays on the outer side of the bed
-- damp outer layers are placed on wall hooks near the entrance after Image 3
+- damp outer layers are placed on wall hooks near the entrance after Image 3 and remain there through Image 16; by Image 17 they are dry and worn again
 - Min-jae's packed travel bag stays beside the luggage bench
 - Seo-jun's smaller bag stays beside the chair
 
@@ -296,7 +296,7 @@ Both characters are adults.
 - Min-jae stops immediately when Seo-jun later says "Don't."
 - Seo-jun then actively stops Min-jae from moving away.
 - Before the kiss, Min-jae verbally checks whether Seo-jun wants him to continue.
-- Seo-jun answers with an unmistakable invitation, and the kiss proceeds mutually.
+- Seo-jun answers with an unmistakable invitation; Min-jae pauses, and Seo-jun closes the final distance himself.
 
 The kiss is romantic and passionate but non-explicit.
 
