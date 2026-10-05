@@ -39,8 +39,8 @@ Immediate awkward tension.
 
 ### Continuity
 
-- Seo-jun wears his charcoal coat over white shirt.
-- Min-jae wears his dark navy outer layer over black shirt.
+- Seo-jun wears his charcoal coat over a crisp white button-up shirt.
+- Min-jae wears his dark navy overshirt over a muted black crew-neck T-shirt.
 - Both outer layers are damp but matte.
 - Both carry their own bags.
 - No flirtation yet; they are visibly uncomfortable around each other.
@@ -242,7 +242,7 @@ Use Scene 7.
 
 ### Scene
 
-Min-jae asks how Seo-jun could believe he avoided him because he did not want the kiss. Seo-jun asks for the real reason.
+Min-jae asks how Seo-jun could have believed he avoided him because he did not want what almost happened. Seo-jun asks for the real reason.
 
 Min-jae admits he thought Seo-jun was the one who regretted it.
 
@@ -266,7 +266,7 @@ Use Scene 8.
 
 ### Scene
 
-Seo-jun breaks eye contact and says none of it matters because Min-jae is leaving for Busan tomorrow for a six-month internship.
+Seo-jun breaks eye contact and says none of it matters because Min-jae's six-month internship starts in Busan tomorrow.
 
 The internship is already accepted and his morning train is booked. This is not a bluff or an impulsive escape; the distance is real and imminent.
 
@@ -441,7 +441,7 @@ Min-jae immediately stops and begins to step back.
 
 **"Okay."**
 
-Seo-jun reacts at once. He lightly catches the front edge of Min-jae's shirt or sleeve.
+Seo-jun reacts at once. He lightly catches the front of Min-jae's muted black T-shirt.
 
 **"Don't stop."**
 
@@ -457,7 +457,7 @@ A one-word apparent rejection reverses into unmistakable invitation.
 
 - Min-jae stops immediately at **"Don't."**
 - Seo-jun initiates the next physical contact.
-- The grip is light and non-aggressive.
+- Seo-jun's grip on the front of Min-jae's black T-shirt is light and non-aggressive.
 - Min-jae does not continue until Seo-jun clarifies.
 
 ### Dialogue
@@ -474,7 +474,7 @@ Use Scene 13.
 
 They are very close now.
 
-Seo-jun still lightly holds Min-jae's shirt or sleeve. Min-jae searches his face rather than assuming.
+Seo-jun still lightly holds the front of Min-jae's muted black T-shirt. Min-jae searches his face rather than assuming.
 
 **"If I kiss you now..."**
 
