@@ -107,8 +107,10 @@ Use Scene 3.
 
 ### Continuity
 
-- Bags are placed down near their respective sides.
-- Damp coats/jackets are still on at the opening of the scene.
+- At the opening of the scene, Seo-jun is still wearing his damp charcoal coat and Min-jae is still wearing his damp dark navy overshirt.
+- Min-jae places his packed travel bag beside the luggage bench at the foot of the bed.
+- Seo-jun places his dark crossbody bag beside the chair near the window.
+- Before Image 4 begins, Seo-jun's charcoal coat and Min-jae's dark navy overshirt are removed and hung on the wall hooks near the entrance to dry.
 - Rain visible at window.
 
 ---
@@ -137,7 +139,9 @@ Use Scene 4.
 
 ### Continuity
 
-- Outer layers are hung or placed nearby to dry.
+- Seo-jun's charcoal coat and Min-jae's dark navy overshirt hang on the wall hooks near the entrance and remain there through Image 16.
+- Min-jae's packed travel bag remains beside the luggage bench.
+- Seo-jun's dark crossbody bag remains beside the chair near the window.
 - No physical contact.
 - Distance remains several steps.
 
@@ -344,6 +348,8 @@ When Min-jae instinctively starts to create distance again, Seo-jun meets his ey
 
 **"Then stop stepping away now."**
 
+After the line lands, Min-jae lowers the towel and sets it on the luggage bench at the foot of the bed. Image 12 begins with the towel no longer in either character's hands.
+
 ### Page Composition
 
 Treat Image 11 as **three clean vertically stacked manhwa panels inside one 9:16 image** so the dialogue has room to breathe.
@@ -382,6 +388,7 @@ Use Scene 11.
 - Seo-jun remains completely free to move.
 - When Min-jae starts to create distance again, Seo-jun verbally asks him not to step away.
 - This scene establishes mutual desire without replacing the explicit pre-kiss consent later.
+- At the end of Image 11, Min-jae sets the towel on the luggage bench; neither character holds it in Images 12–17.
 
 ---
 
@@ -414,6 +421,8 @@ A beat.
 Intimate medium close-up with strong eye contact and a small visible gap between them.
 
 No new physical contact. Let the stillness do the work.
+
+The towel is already resting on the luggage bench and is not held by either character.
 
 ### Emotional Beat
 
