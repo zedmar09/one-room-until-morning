@@ -44,10 +44,23 @@
 ## Departure Context
 
 - Min-jae has accepted a six-month internship in Busan.
-- His train leaves the morning after the storm-night hotel stay.
+- His original train leaves the morning after the storm-night hotel stay.
+- A small university farewell dinner is held for him the night before departure; Seo-jun attends, which is why Seo-jun knows the train schedule.
+- Min-jae has already cleared his dorm room, so his packed travel bag is with him at the farewell dinner and later at the hotel.
 - The internship is a real commitment he still intends to honor; changing the morning train to an evening departure only gives them more time together that day.
 - He is not abandoning the internship or permanently staying behind.
-- His travel bag in the hotel is for this move.
+
+## Flashback Outfit — Images 5 and 7
+
+Use this exact outfit in both rooftop flashback images:
+
+- dark navy lightweight casual jacket, worn open
+- muted black crew-neck T-shirt
+- dark charcoal trousers
+- plain black low-profile sneakers
+- same minimal watch as present day
+
+Do not change colors, layers, or accessories between Images 5 and 7.
 
 ## Canonical Story Outfit
 
