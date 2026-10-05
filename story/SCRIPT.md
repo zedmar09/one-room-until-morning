@@ -141,9 +141,6 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 **MIN-JAE:**  
 "Your hair's still wet."
 
-**SEO-JUN:**  
-"It'll dry."
-
 **MIN-JAE:**  
 "Can I?"
 
@@ -151,16 +148,16 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "...Yes."
 
 **MIN-JAE:**  
-"You know what I should've asked that night?"
+"I should've asked you that night."
 
 **SEO-JUN:**  
-"What?"
+"Asked what?"
 
 **MIN-JAE:**  
 "If you wanted me closer."
 
 **SEO-JUN:**  
-"And if I'd said yes?"
+"And if I did?"
 
 **MIN-JAE:**  
 "I would've stayed."
@@ -170,22 +167,16 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 12 — Min-jae Goes First
+## Scene 12 — Say It
 
 **MIN-JAE:**  
-"Seo-jun..."
+"You really mean that?"
 
 **SEO-JUN:**  
-"You wanted honesty."
+"Say it."
 
 **MIN-JAE:**  
-"Fine."
-
-**MIN-JAE:**  
-"I wanted to kiss you that night."
-
-**MIN-JAE:**  
-"I wanted to kiss you every time after."
+"I wanted you that night."
 
 **MIN-JAE:**  
 "I still do."
@@ -201,20 +192,14 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "Okay."
 
 **SEO-JUN:**  
-"I didn't mean stop talking."
+"Don't stop."
 
 ---
 
 ## Scene 14 — Try Me
 
 **MIN-JAE:**  
-"Seo-jun."
-
-**MIN-JAE:**  
 "If I kiss you now..."
-
-**MIN-JAE:**  
-"...are you going to run again?"
 
 **SEO-JUN:**  
 "Try me."
@@ -225,7 +210,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ### Narration
 
-"Six months of silence ended without another word."
+"This time, neither of them pulled away."
 
 ---
 
