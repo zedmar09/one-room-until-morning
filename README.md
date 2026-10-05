@@ -1,11 +1,11 @@
-# After the Bell
+# One Room Until Morning
 
-Standalone short-form Boys' Love manhwa project for sequential 9:16 image generation.
+A standalone short-form adult Boys' Love manhwa project designed for sequential 9:16 TikTok image generation.
 
 ## Repository Structure
 
 ```
-story-after-the-bell/
+one-room-until-morning/
 ├── README.md
 ├── characters/
 │   ├── HAN_SEO_JUN.md
@@ -19,6 +19,16 @@ story-after-the-bell/
     └── README.md
 ```
 
+## Story Setup
+
+Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking after an almost-kiss six months ago. A storm strands them overnight in a hotel with one room and one bed. Each believes the other regretted what happened. Min-jae is leaving the city the next morning, forcing them to finally confront the misunderstanding before their chance disappears.
+
+**Title:** One Room Until Morning  
+**Format:** Standalone one-shot  
+**Genre:** Adult BL / Romance / Rivals-to-Lovers / Emotional Tension  
+**Length:** 16 vertical images  
+**Ending:** Complete; no Part 2 or sequel hook required.
+
 ## Source-of-Truth Order
 
 Before generating any story image, read:
@@ -29,7 +39,7 @@ Before generating any story image, read:
 4. `story/SCRIPT.md`
 5. `story/STORYBOARD.md`
 
-Approved character reference images may be added later under `references/`. They are visual continuity aids only. No external manhwa inspiration image is stored in this repository.
+Approved character reference images may be added later under `references/`. They are visual continuity aids only. No external manhwa inspiration artwork is stored in this repository.
 
 ## Commands
 
@@ -38,19 +48,22 @@ Approved character reference images may be added later under `references/`. They
 - **Redo** — regenerate the current image without advancing.
 - **Redo textless** — regenerate the current image without dialogue or captions.
 - **Next Image Textless** — advance one image and generate it without text.
-- **Show current image number** — report the current scene number only.
+- **Show current image number** — report the current image number only.
 
 ## Generation Rules
 
 - Generate one story image at a time unless explicitly told otherwise.
 - Never redesign a character between images.
-- Preserve face, hair, body proportions, height relationship, uniform, and established props.
+- Preserve face, hair, body proportions, height relationship, clothing, and established props.
 - Use the exact dialogue in `story/SCRIPT.md`.
-- Use `story/STORYBOARD.md` for scene, camera, action, expression, and continuity.
+- Use `story/STORYBOARD.md` for camera, blocking, expressions, location, and continuity.
 - Use a vertical 9:16 composition.
-- Keep critical faces and text away from extreme top/bottom TikTok UI zones.
-- Maintain the time-of-day progression from late afternoon to early evening.
-- Do not add a sequel hook or Part 2. This is a complete one-shot.
+- Keep critical faces and dialogue away from extreme TikTok UI zones.
+- Maintain the progression from stormy night to soft morning.
+- The characters are adults: Seo-jun is 22 and Min-jae is 23.
+- Intimacy must remain consensual and non-explicit.
+- Do not add nudity or explicit sexual content.
+- Do not add a sequel hook. This is a complete one-shot.
 
 ## Conflict Priority
 
@@ -60,11 +73,3 @@ Approved character reference images may be added later under `references/`. They
 4. Script
 5. Storyboard
 6. Previously approved/generated image continuity
-
-## Story
-
-**Title:** After the Bell  
-**Format:** Standalone one-shot  
-**Genre:** Boys' Love / School Romance  
-**Length:** 8 images  
-**Ending:** Complete
