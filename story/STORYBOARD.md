@@ -8,7 +8,9 @@
 **Primary setting:** Small city hotel during a storm  
 **Secondary setting:** University rooftop flashback  
 **Time span:** Stormy night to the following morning  
-**Departure stake:** Min-jae leaves that morning for a six-month internship in Busan
+**Departure stake:** Min-jae leaves that morning for a six-month internship in Busan  
+**Why they are together:** Both attended Min-jae's university farewell dinner; the storm suspends late transport on their way home  
+**Travel continuity:** Min-jae has already cleared his dorm and carries his packed travel bag; Seo-jun knows the original morning train time from the farewell plan
 
 The exact dialogue comes from `SCRIPT.md`.
 
@@ -21,9 +23,11 @@ The exact dialogue comes from `SCRIPT.md`.
 
 ### Scene
 
-Seo-jun and Min-jae stand at a small hotel reception after being stranded by severe rain. Both are damp from the storm. The receptionist slides a single keycard across the counter.
+Seo-jun and Min-jae stand at a small hotel reception after leaving Min-jae's university farewell dinner. A severe storm has suspended late transport near the station, stranding them unexpectedly.
 
-The receptionist explains that only one room remains and there is only one bed.
+Min-jae still has the packed travel bag he brought because he has already cleared his dorm before leaving for Busan the next morning. Seo-jun has his smaller personal bag.
+
+Both are damp from the storm. The receptionist slides a single keycard across the counter and explains that only one room remains—and there is only one bed.
 
 ### Camera
 
@@ -168,7 +172,10 @@ Use Scene 5.
 
 - Memory should be visually distinct but still use the same character designs.
 - Do not change hairstyles or facial features.
-- Their clothing may be university-festival casual attire, but keep the palette consistent with their identities.
+- Use the exact flashback outfits defined in both character files.
+- Seo-jun: light gray cardigan, white T-shirt, charcoal trousers, white/gray sneakers.
+- Min-jae: dark navy casual jacket, black T-shirt, dark charcoal trousers, black sneakers.
+- Image 7 must preserve these exact layers, colors, and accessories.
 - No kiss occurs in this flashback.
 
 ---
@@ -212,6 +219,8 @@ Continue the exact moment after Seo-jun pulled away. Min-jae gives one short ner
 Seo-jun interprets it as mockery.
 
 Visually make the misunderstanding obvious through their different expressions.
+
+Use the exact same flashback outfits, hairstyle state, rooftop lighting, and festival-night continuity established in Image 5.
 
 ### Camera
 
@@ -315,37 +324,51 @@ Use Scene 10.
 
 The argument falls into a charged silence.
 
-Min-jae notices that Seo-jun's hair is still damp near his temple. He picks up a clean hotel towel and steps closer, but stops before touching him.
+Min-jae notices that Seo-jun's hair is still damp near his temple. He picks up a clean hotel towel, steps closer, and stops before touching him.
 
-He asks, "Can I?"
+He asks, **"Can I?"**
 
-Seo-jun looks at him for a beat, then clearly answers, "...Yes."
+Seo-jun looks at him for a beat, then clearly answers, **"...Yes."**
 
-Only after that permission does Min-jae gently blot the damp hair near Seo-jun's temple with the towel. He does not adjust Seo-jun's collar or clothing. The gesture is simple and careful. Their faces are close enough that both are visibly aware of the distance between them.
+Only after that permission does Min-jae gently blot the damp hair near Seo-jun's temple. He does not touch or adjust Seo-jun's clothing.
 
-Min-jae does not turn the moment into a joke. Instead, he admits the question he wishes he had asked six months earlier: whether Seo-jun wanted him closer.
+The closeness brings them back to the rooftop moment they never finished.
 
-Seo-jun tests the meaning behind that admission: "And if I'd said yes?"
+Min-jae admits that he should have asked Seo-jun something that night: whether Seo-jun wanted him closer.
 
-Min-jae answers without hesitation: "I would've stayed."
+Seo-jun pushes him to finish the thought.
 
-Min-jae instinctively begins to give Seo-jun space again.
+Min-jae says he would have stayed.
 
-Seo-jun looks directly at him and says, "Then stop stepping away now."
+When Min-jae instinctively starts to create distance again, Seo-jun meets his eyes and says:
 
-That line changes the emotional direction of the story. Seo-jun is no longer merely allowing Min-jae to be close; he is actively asking him not to retreat.
+**"Then stop stepping away now."**
 
-### Camera
+### Page Composition
 
-Intimate chest-up two-shot.
+Treat Image 11 as **three clean vertically stacked manhwa panels inside one 9:16 image** so the dialogue has room to breathe.
 
-Start with a clear detail of Min-jae's hand and towel pausing before contact, then prioritize their eyes and the small distance between their faces. The final beat should visually show Min-jae beginning to lean or step back and Seo-jun holding his gaze rather than physically restraining him.
+**Panel A — Permission**
+- chest-up two-shot
+- Min-jae's towel hand visibly pauses before contact
+- dialogue: **"Your hair's still wet." / "Can I?" / "...Yes."**
+
+**Panel B — What He Should Have Asked**
+- tighter face-to-face framing while Min-jae gently dries Seo-jun's hair
+- dialogue: **"I should've asked you that night." / "Asked what?" / "If you wanted me closer."**
+
+**Panel C — Emotional Turn**
+- Min-jae begins to lean or step back
+- Seo-jun holds his gaze instead of physically restraining him
+- dialogue: **"And if I did?" / "I would've stayed." / "Then stop stepping away now."**
+
+Keep panel gutters clean and minimal. Do not crowd bubbles over faces or hands.
 
 ### Emotional Beat
 
 First clearly consensual present-day touch, followed by Seo-jun's first unmistakable choice to keep Min-jae close.
 
-The heat comes from permission, proximity, and the fact that Seo-jun finally stops hiding behind passivity.
+The heat comes from permission, proximity, restraint, and Seo-jun finally choosing not to retreat.
 
 ### Dialogue
 
@@ -353,7 +376,7 @@ Use Scene 11.
 
 ### Consent Continuity
 
-- Min-jae does not touch Seo-jun until Seo-jun gives a clear verbal "Yes."
+- Min-jae does not touch Seo-jun until Seo-jun gives a clear verbal **"Yes."**
 - Touch is limited to gently blotting Seo-jun's damp hair near the temple with the towel.
 - No collar adjustment, unbuttoning, undressing, groping, or sexual contact.
 - Seo-jun remains completely free to move.
@@ -362,47 +385,43 @@ Use Scene 11.
 
 ---
 
-# IMAGE 12 — I'LL GO FIRST
+# IMAGE 12 — SAY IT
 
 **Location:** Hotel room
 
 ### Scene
 
-Seo-jun's line from Image 11 leaves Min-jae momentarily speechless.
+Seo-jun's **"Then stop stepping away now"** leaves Min-jae still.
 
-They remain close, but Min-jae does not initiate another touch.
+Min-jae checks him one last time:
 
-Min-jae says Seo-jun's name as if checking whether he really means it. Seo-jun reminds him, "You wanted honesty."
+**"You really mean that?"**
 
-That gives Min-jae nowhere left to hide.
+Seo-jun does not soften or retreat.
 
-He confesses plainly: he wanted to kiss Seo-jun that night, wanted to kiss him every time afterward, and still wants to now.
+**"Say it."**
 
-This is no longer Min-jae speaking hypothetically about the past. It is a present-tense confession.
+Min-jae finally drops the careful wording.
 
-Seo-jun's composure visibly breaks under the directness.
+**"I wanted you that night."**
+
+A beat.
+
+**"I still do."**
 
 ### Camera
 
-Intimate medium close-up with strong eye-line connection.
+Intimate medium close-up with strong eye contact and a small visible gap between them.
 
-Keep the framing tight enough that the emotional pressure from Image 11 carries forward, but preserve a small visible gap between them. No kiss yet.
+No new physical contact. Let the stillness do the work.
 
 ### Emotional Beat
 
-The midpoint scene becomes the hinge into the final confession: Seo-jun explicitly asks Min-jae not to retreat, and Min-jae answers that invitation with complete honesty.
+Seo-jun asks Min-jae to stay close; Min-jae answers with present-tense desire instead of another explanation.
 
 ### Dialogue
 
 Use Scene 12.
-
-### Continuity
-
-- Min-jae initiates no new physical contact.
-- Seo-jun remains in place and holds eye contact.
-- Distance is close but respectful.
-- Towel may be lowered or set aside.
-- The next scene's "Don't" must initially read as a possible boundary so Min-jae still stops immediately.
 
 ---
 
@@ -412,31 +431,38 @@ Use Scene 12.
 
 ### Scene
 
-Seo-jun quietly says "Don't."
+The confession hangs between them.
 
-Min-jae immediately stops and takes a small step back, interpreting it as a boundary.
+Seo-jun, overwhelmed by how direct it is, says:
 
-Seo-jun reacts to Min-jae moving away and reaches out, grabbing the front edge of Min-jae's black shirt.
+**"Don't."**
 
-He clarifies: "I didn't mean stop talking."
+Min-jae immediately stops and begins to step back.
+
+**"Okay."**
+
+Seo-jun reacts at once. He lightly catches the front edge of Min-jae's shirt or sleeve.
+
+**"Don't stop."**
 
 ### Camera
 
-Close framing emphasizing Seo-jun's hand gripping fabric, Min-jae's paused movement, and their faces.
+Tight close framing on Min-jae's halted movement, Seo-jun's light grip, and both faces.
 
 ### Emotional Beat
 
-Apparent rejection reverses into active invitation from Seo-jun.
+A one-word apparent rejection reverses into unmistakable invitation.
+
+### Consent Continuity
+
+- Min-jae stops immediately at **"Don't."**
+- Seo-jun initiates the next physical contact.
+- The grip is light and non-aggressive.
+- Min-jae does not continue until Seo-jun clarifies.
 
 ### Dialogue
 
 Use Scene 13.
-
-### Consent Continuity
-
-- Min-jae stops immediately at "Don't."
-- Seo-jun initiates the next physical contact.
-- The shirt-grab stops Min-jae from stepping away; it is not forceful restraint.
 
 ---
 
@@ -446,31 +472,29 @@ Use Scene 13.
 
 ### Scene
 
-They are now very close.
+They are very close now.
 
-Seo-jun still lightly holds Min-jae's shirt. Min-jae looks serious rather than teasing.
+Seo-jun still lightly holds Min-jae's shirt or sleeve. Min-jae searches his face rather than assuming.
 
-He asks if Seo-jun will run again if he kisses him now.
+**"If I kiss you now..."**
 
-Seo-jun meets his eyes and answers, "Try me."
+Seo-jun does not look away.
+
+**"Try me."**
 
 ### Camera
 
-Tight face-to-face close-up or chest-up two-shot. Keep lips separated; this is the pre-kiss image.
+Tight face-to-face close-up or chest-up two-shot.
+
+Keep their lips apart. This image is anticipation, not the kiss.
 
 ### Emotional Beat
 
-Maximum anticipation and explicit mutual understanding.
+Maximum tension with clear mutual understanding.
 
 ### Dialogue
 
 Use Scene 14.
-
-### Continuity
-
-- No kiss yet.
-- No forceful grip.
-- Both are clearly engaged and aware of the moment.
 
 ---
 
@@ -480,17 +504,19 @@ Use Scene 14.
 
 ### Scene
 
-Min-jae gently touches Seo-jun's cheek or jaw.
+Min-jae closes the remaining distance carefully.
 
-Seo-jun closes the final distance himself.
+Seo-jun meets him halfway.
 
 They kiss.
 
-The kiss is clearly mutual, emotionally intense, and romantic after six months of restraint.
+The kiss is mutual, restrained, and emotionally intense after six months of avoidance.
 
 ### Camera
 
-Tasteful medium close-up, profile or three-quarter angle. Focus on faces and restrained hand placement.
+Tasteful medium close-up, profile or three-quarter angle.
+
+Focus on faces and restrained hand placement. No bed staging.
 
 ### Emotional Beat
 
@@ -498,7 +524,7 @@ Romantic climax.
 
 ### Narration
 
-Use the narration from Scene 15.
+Use Scene 15.
 
 ### Boundaries
 
@@ -507,7 +533,7 @@ Use the narration from Scene 15.
 - No groping.
 - No bed action.
 - No exaggerated tongue/open-mouth detail.
-- The intensity comes from emotion, consent, and mutual closeness.
+- The intensity comes from release, consent, and emotional payoff.
 
 ---
 
@@ -604,7 +630,7 @@ End.
 Use a quiet three-beat progression:
 
 1. **Medium two-shot** — both seated close in soft morning light; Seo-jun checks the time while Min-jae is already holding his phone.
-2. **Tight insert / over-shoulder** — only enough of the phone to register that the booking has changed; do not make the screen a full-frame information card.
+2. **Tight insert / over-shoulder** — only enough of the phone to register that the booking has changed; do not make the screen a full-frame information card. Do not rely on legible generated UI text; the generic ticket layout and dialogue carry the information.
 3. **Close two-shot** — phone drops out of importance; finish on their eye contact after **"Thought I'd try staying this time."**
 
 Keep the final frame on their faces, not the phone.
