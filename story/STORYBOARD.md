@@ -564,57 +564,55 @@ Use Scene 16.
 
 ### Scene
 
-Soft natural light fills the room. The storm has passed.
+Soft morning light. The storm is over.
 
-Seo-jun and Min-jae are fully dressed and sitting close in the quiet room. The mood is no longer awkward; it is calm, but Seo-jun is still aware that Min-jae is supposed to leave.
-
-Seo-jun glances at the time and realizes how close Min-jae's departure should be.
+Seo-jun checks the time.
 
 **"Your train's in twenty minutes."**
 
-Min-jae answers without urgency:
+Min-jae, already holding his phone, answers:
 
 **"Was."**
 
-Seo-jun looks at him.
+Seo-jun looks over.
 
 **"...Min-jae."**
 
-Min-jae turns his phone so Seo-jun can see the updated booking.
+Min-jae tilts the phone toward him just enough to show the changed booking.
 
 **"I moved it to tonight."**
 
-This makes the reveal concrete and natural: Min-jae has already made the choice rather than announcing a vague intention.
-
-Seo-jun asks the only thing left:
+Seo-jun looks from the screen back to him.
 
 **"Why?"**
 
-Min-jae meets his eyes and answers:
+Min-jae lowers the phone.
 
 **"Thought I'd try staying this time."**
 
-Seo-jun holds his gaze instead of looking away.
+Hold on Seo-jun's reaction.
 
-End there.
+He does not look away.
+
+End.
 
 ### Camera
 
-Calm medium two-shot with soft morning light and enough negative space to let the final exchange breathe.
+Use a quiet three-beat progression:
 
-For the train-change reveal, Min-jae may briefly angle his phone toward Seo-jun, but do not make the phone screen the main focal point. The emotional focus remains on their faces.
+1. **Medium two-shot** — both seated close in soft morning light; Seo-jun checks the time while Min-jae is already holding his phone.
+2. **Tight insert / over-shoulder** — only enough of the phone to register that the booking has changed; do not make the screen a full-frame information card.
+3. **Close two-shot** — phone drops out of importance; finish on their eye contact after **"Thought I'd try staying this time."**
+
+Keep the final frame on their faces, not the phone.
+
+No extra explanatory reaction shot, narration, or visual metaphor.
 
 ### Emotional Beat
 
-The ending resolves the story through action rather than another confession.
+Min-jae's changed booking is the action.
 
-Six months ago, both men retreated.
-
-During the night, Seo-jun finally asked Min-jae not to keep creating distance.
-
-By morning, Min-jae has already changed his plans and chosen to remain a little longer.
-
-The final line echoes the story's central idea without repeating "stop stepping away" directly.
+The final line is simply the meaning behind it.
 
 ### Dialogue
 
