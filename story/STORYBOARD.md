@@ -1,287 +1,517 @@
-# Storyboard — After the Bell
+# Storyboard — One Room Until Morning
 
-## Story Metadata
+## Metadata
 
-**Type:** Standalone BL one-shot  
-**Total Images:** 8  
+**Type:** Standalone adult BL one-shot  
+**Total Images:** 16  
 **Format:** 9:16 vertical  
-**Setting:** Modern high school  
-**Time span:** Late afternoon to early evening  
+**Primary setting:** Small city hotel during a storm  
+**Secondary setting:** University rooftop flashback  
+**Time span:** Stormy night to the following morning
 
-The exact dialogue for each image comes from `SCRIPT.md`.
+The exact dialogue comes from `SCRIPT.md`.
 
 ---
 
-# IMAGE 1 — You're Still Here?
+# IMAGE 1 — LAST ROOM
 
-**Location:** Classroom  
-**Time:** Late afternoon
+**Location:** Hotel reception  
+**Time:** Stormy night
 
 ### Scene
 
-The classroom is mostly empty. Seo-jun has completed committee work and stands beside his desk with his school bag, preparing to leave. Min-jae remains seated near the window.
+Seo-jun and Min-jae stand at a small hotel reception after being stranded by severe rain. Both are damp from the storm. The receptionist slides a single keycard across the counter.
+
+The receptionist explains that only one room remains and there is only one bed.
 
 ### Camera
 
-Medium-wide establishing shot. Both characters clearly visible.
+Vertical medium-wide composition. Receptionist foreground/side, Seo-jun and Min-jae clearly visible reacting to the information.
 
-### Seo-jun
+### Emotional Beat
 
-- standing beside desk
-- holding his bag
-- mild curiosity
-- looking toward Min-jae
+Immediate awkward tension.
 
-### Min-jae
+### Continuity
 
-- seated near window
-- relaxed posture
-- calm expression
-- looking back at Seo-jun
+- Seo-jun wears his charcoal coat over white shirt.
+- Min-jae wears his dark navy outer layer over black shirt.
+- Both outer layers are damp but matte.
+- Both carry their own bags.
+- No flirtation yet; they are visibly uncomfortable around each other.
 
 ### Dialogue
 
 Use Scene 1 from `SCRIPT.md`.
 
-### Continuity After Image
-
-- Seo-jun carries his own bag
-- Min-jae remains seated
-- warm late-afternoon light
-- clear physical distance between them
-
 ---
 
-# IMAGE 2 — Then Why Are You Here?
+# IMAGE 2 — ELEVATOR
 
-**Location:** Same classroom  
-**Time:** Moments later
+**Location:** Hotel elevator
 
 ### Scene
 
-Seo-jun remains standing and lightly grips his bag strap. Min-jae leans back slightly in his chair, calm and attentive.
+Seo-jun and Min-jae stand on opposite sides of a compact elevator. Their damp hair and clothes show they have just escaped the rain.
+
+Min-jae notices Seo-jun glance toward him and then immediately look away.
 
 ### Camera
 
-Medium two-shot, closer than Image 1.
+Tight vertical two-shot using the enclosed elevator space to create proximity.
 
-### Emotion
+### Emotional Beat
 
-- Seo-jun: puzzled
-- Min-jae: quietly knowing
+Unwanted awareness of each other.
 
 ### Dialogue
 
-Use Scene 2 from `SCRIPT.md`.
+Use Scene 2.
 
-### Continuity After Image
+### Continuity
 
-- Seo-jun still carries bag
-- Min-jae still seated
-- physical distance remains
-- sunset begins to deepen
+- Both still wear outer layers.
+- Bags remain with them.
+- Do not make the elevator highly reflective.
 
 ---
 
-# IMAGE 3 — Because You Always Leave Alone
+# IMAGE 3 — ONE BED
 
-**Location:** Same classroom  
-**Time:** Late sunset
+**Location:** Hotel room
 
 ### Scene
 
-Min-jae stands from his chair and faces Seo-jun directly.
+They enter. The room is modest and warm. One double bed is immediately visible.
+
+Seo-jun looks at the bed, then at Min-jae. He offers to sleep on the floor.
+
+Min-jae calls out his habit of running away.
 
 ### Camera
 
-Medium cinematic two-shot.
+Wide enough to establish the one-bed layout, then frame both men within the same composition.
 
-### Emotion
+### Emotional Beat
 
-- Min-jae: gentle seriousness
-- Seo-jun: subtle surprise
+The physical setup becomes the emotional trap.
 
 ### Dialogue
 
-Use Scene 3 from `SCRIPT.md`.
+Use Scene 3.
 
-### Continuity After Image
+### Continuity
 
-- Min-jae is now standing
-- distance may be slightly reduced
-- both still inside classroom
+- Bags are placed down near their respective sides.
+- Damp coats/jackets are still on at the opening of the scene.
+- Rain visible at window.
 
 ---
 
-# IMAGE 4 — What Does That Have to Do With You?
+# IMAGE 4 — SIX MONTHS
 
-**Location:** Same classroom
+**Location:** Hotel room
 
 ### Scene
 
-Close reaction on Seo-jun. His composure slips slightly.
+They have removed their damp outer layers. Seo-jun is now in his white shirt and dark trousers; Min-jae in his black shirt and dark trousers.
+
+Min-jae confronts Seo-jun about six months of silence.
 
 ### Camera
 
-Close-up with softly simplified background.
+Medium confrontation two-shot.
 
-### Expression
+### Emotional Beat
 
-- slightly widened eyes
-- faint blush
-- slightly parted lips
-- controlled embarrassment
+Irritation breaks the polite distance.
 
 ### Dialogue
 
-Use Scene 4 from `SCRIPT.md`.
+Use Scene 4.
 
-### Continuity After Image
+### Continuity
 
-- Seo-jun is visibly affected
-- Min-jae remains standing nearby
-- golden-hour light deepens
+- Outer layers are hung or placed nearby to dry.
+- No physical contact.
+- Distance remains several steps.
 
 ---
 
-# IMAGE 5 — Walk Home With You
+# IMAGE 5 — FLASHBACK: ALMOST
 
-**Location:** Same classroom
+**Location:** University rooftop  
+**Time:** Six months earlier, night
 
 ### Scene
 
-Min-jae has moved somewhat closer while maintaining a respectful distance. He looks directly at Seo-jun.
+University festival lights glow distantly below. Seo-jun and Min-jae stand close after a private conversation.
+
+Min-jae's fingers lightly touch Seo-jun's wrist. Their faces are only inches apart. They are about to kiss.
+
+Seo-jun whispers Min-jae's name and then abruptly pulls away.
 
 ### Camera
 
-Intimate medium close-up / two-shot.
+Intimate side-profile medium close-up with both faces visible.
 
-### Min-jae
+### Emotional Beat
 
-- calm
-- sincere
-- gentle
-- no teasing expression during confession
-
-### Seo-jun
-
-- attentive
-- flustered
-- still holding his bag
+Reveal what happened six months ago.
 
 ### Dialogue
 
-Use Scene 5 from `SCRIPT.md`.
+Use Scene 5.
 
-### Continuity After Image
+### Continuity
 
-- emotional distance significantly reduced
-- no physical contact
-- Seo-jun still has his bag
+- Memory should be visually distinct but still use the same character designs.
+- Do not change hairstyles or facial features.
+- Their clothing may be university-festival casual attire, but keep the palette consistent with their identities.
+- No kiss occurs in this flashback.
 
 ---
 
-# IMAGE 6 — Only to You
+# IMAGE 6 — THE LAUGH
 
-**Location:** Same classroom
+**Location:** Hotel room
 
 ### Scene
 
-Seo-jun lowers his gaze and lightly tightens his hand around the bag strap. Min-jae watches him warmly.
+Back in the present. Seo-jun accuses Min-jae of acting like the almost-kiss meant nothing. Min-jae says Seo-jun was the one who pulled away. Seo-jun finally admits that Min-jae's laugh afterward hurt him.
 
 ### Camera
 
-Side-profile two-shot or intimate medium close-up.
+Alternating close emotional framing within one composed panel-like image; favor Seo-jun's guarded frustration and Min-jae's surprised reaction.
 
-### Emotion
+### Emotional Beat
 
-- Seo-jun: shy, overwhelmed, controlled
-- Min-jae: calm sincerity
+The misunderstanding finally has a concrete cause.
 
 ### Dialogue
 
-Use Scene 6 from `SCRIPT.md`.
+Use Scene 6.
 
-### Continuity After Image
+### Continuity
 
-- Seo-jun has not rejected Min-jae
-- their body language is softer
-- classroom is approaching evening
-- Seo-jun still carries his bag
+- Indoor outfits only.
+- Rain continues outside.
+- Physical distance slightly smaller than Image 4.
 
 ---
 
-# IMAGE 7 — I'm Noticing Now
+# IMAGE 7 — FLASHBACK: MISUNDERSTANDING
 
-**Location:** School hallway  
-**Time:** Early evening
+**Location:** University rooftop flashback
 
 ### Scene
 
-They walk side-by-side down a mostly empty hallway. Their shoulders are close enough to nearly brush.
+Continue the exact moment after Seo-jun pulled away. Min-jae gives one short nervous laugh because he is overwhelmed and frightened by his own feelings.
+
+Seo-jun interprets it as mockery.
+
+Visually make the misunderstanding obvious through their different expressions.
 
 ### Camera
 
-Medium-wide walking shot or cinematic side/rear perspective.
+Close two-shot emphasizing Min-jae's nervousness and Seo-jun's wounded interpretation.
 
-### Seo-jun
+### Emotional Beat
 
-- shy
-- emotionally softer
-- comfortable walking beside Min-jae
-
-### Min-jae
-
-- relaxed
-- quietly happy
-- matching Seo-jun's pace
+The audience understands both were scared.
 
 ### Dialogue
 
-Use Scene 7 from `SCRIPT.md`.
-
-### Continuity After Image
-
-- both have left classroom
-- Seo-jun still carries his own bag at the beginning of this scene
-- mutual warmth has replaced uncertainty
+Use Scene 7.
 
 ---
 
-# IMAGE 8 — Because I Won't
+# IMAGE 8 — WHAT WE THOUGHT
 
-**Location:** Outside school gate  
-**Time:** Blue-gold early evening
+**Location:** Hotel room
 
 ### Scene
 
-They leave school together. Between Images 7 and 8, Min-jae has gently taken Seo-jun's bag and now carries it.
+Min-jae asks how Seo-jun could believe he avoided him because he did not want the kiss. Seo-jun asks for the real reason.
+
+Min-jae admits he thought Seo-jun was the one who regretted it.
 
 ### Camera
 
-Cinematic medium-wide or wide final shot.
+Medium close two-shot. They are now close enough that the atmosphere feels intimate but not yet romantic.
 
-### Min-jae
+### Emotional Beat
 
-- carrying Seo-jun's bag naturally
-- calm and content
-- walking beside Seo-jun
-
-### Seo-jun
-
-- hands free
-- faint blush
-- soft gaze
-- visibly comfortable
+Mutual misunderstanding is exposed.
 
 ### Dialogue
 
-Use Scene 8 from `SCRIPT.md`.
+Use Scene 8.
 
-### Ending Narration
+---
 
-Use the ending narration from `SCRIPT.md`.
+# IMAGE 9 — TOMORROW
+
+**Location:** Hotel room, near rain-streaked window
+
+### Scene
+
+Seo-jun breaks eye contact and says none of it matters because Min-jae is leaving tomorrow.
+
+Min-jae looks genuinely affected.
+
+### Camera
+
+Seo-jun foreground profile, Min-jae behind him or reflected only subtly in the spatial composition. Do not use literal mirror reflections unless needed.
+
+### Emotional Beat
+
+Introduce the deadline. Their chance has an expiration time.
+
+### Dialogue
+
+Use Scene 9.
+
+---
+
+# IMAGE 10 — SOMETHING HONEST
+
+**Location:** Hotel room
+
+### Scene
+
+Min-jae sits on the edge of the bed. Seo-jun remains standing. Their argument sharpens.
+
+Min-jae asks for one honest answer. Seo-jun fires back that Min-jae has no right to demand honesty on the night before he leaves.
+
+### Camera
+
+Low-intensity dramatic two-shot using seated-versus-standing levels.
+
+### Emotional Beat
+
+Emotional confrontation peaks before confession.
+
+### Dialogue
+
+Use Scene 10.
+
+### Continuity
+
+- No one is lying on the bed.
+- No sexual positioning.
+- The bed is part of the setting, not the subject.
+
+---
+
+# IMAGE 11 — I'LL GO FIRST
+
+**Location:** Hotel room
+
+### Scene
+
+Min-jae stands and closes some of the distance. He decides to be honest first.
+
+He says he wanted to kiss Seo-jun that night and every time he saw him afterward.
+
+Seo-jun's composure visibly begins to fail.
+
+### Camera
+
+Intimate medium shot, faces clearly visible, strong eye-line connection.
+
+### Emotional Beat
+
+Direct confession and rising romantic heat.
+
+### Dialogue
+
+Use Scene 11.
+
+### Continuity
+
+- Min-jae does not touch Seo-jun.
+- Distance becomes close but respectful.
+- Seo-jun is visibly affected.
+
+---
+
+# IMAGE 12 — DON'T
+
+**Location:** Hotel room
+
+### Scene
+
+Seo-jun quietly says "Don't."
+
+Min-jae immediately stops and takes a small step back.
+
+Seo-jun reacts to Min-jae moving away and reaches out, grabbing the front/edge of Min-jae's black shirt or overshirt layer if still present.
+
+He clarifies: "I didn't mean stop talking."
+
+### Camera
+
+Close framing emphasizing Seo-jun's hand gripping fabric, Min-jae's paused movement, and their faces.
+
+### Emotional Beat
+
+Apparent rejection reverses into invitation.
+
+### Dialogue
+
+Use Scene 12.
+
+### Consent Continuity
+
+- Min-jae stops immediately at "Don't."
+- Seo-jun initiates the next physical contact.
+- The shirt-grab is to stop Min-jae from stepping away, not to restrain him aggressively.
+
+---
+
+# IMAGE 13 — TRY ME
+
+**Location:** Hotel room
+
+### Scene
+
+They are now very close.
+
+Seo-jun still lightly holds Min-jae's shirt. Min-jae looks serious rather than teasing.
+
+He asks if Seo-jun will run again if he kisses him now.
+
+Seo-jun meets his eyes and answers, "Try me."
+
+### Camera
+
+Tight face-to-face close-up or chest-up two-shot. Keep lips separated; this is the pre-kiss image.
+
+### Emotional Beat
+
+Maximum anticipation.
+
+### Dialogue
+
+Use Scene 13.
+
+### Continuity
+
+- No kiss yet.
+- No forceful grip.
+- Both clearly engaged and aware of the moment.
+
+---
+
+# IMAGE 14 — THE KISS
+
+**Location:** Hotel room
+
+### Scene
+
+Min-jae gently touches Seo-jun's cheek or jaw. Seo-jun closes the final distance himself.
+
+They kiss.
+
+The kiss is clearly mutual, emotionally intense, and romantic after six months of restraint.
+
+### Camera
+
+Tasteful medium close-up, profile or three-quarter angle. Focus on faces and restrained hand placement.
+
+### Emotional Beat
+
+Romantic climax.
+
+### Narration
+
+Use the narration from Scene 14.
+
+### Boundaries
+
+- No nudity.
+- No explicit sexual contact.
+- No groping.
+- No bed action.
+- No exaggerated tongue/open-mouth detail.
+- The intensity comes from emotion and mutual closeness.
+
+---
+
+# IMAGE 15 — AFTER
+
+**Location:** Hotel room  
+**Time:** Later that night, immediately after the kiss
+
+### Scene
+
+They have separated only slightly. Their foreheads may be near each other, but they are not required to touch.
+
+Seo-jun is visibly flustered. Min-jae breaks the tension with a quiet joke about the floor. Seo-jun responds dryly, then asks what time Min-jae is leaving.
+
+### Camera
+
+Intimate two-shot, slightly wider than Image 14.
+
+### Emotional Beat
+
+Relief, tenderness, then reminder of tomorrow.
+
+### Dialogue
+
+Use Scene 15.
+
+### Continuity
+
+- Both remain fully dressed.
+- Keep room continuity.
+- Mood is softer, not erotic escalation.
+
+---
+
+# IMAGE 16 — ONE MORE MORNING
+
+**Location:** Hotel room  
+**Time:** Morning
+
+### Scene
+
+Soft natural light enters through the window.
+
+Both are fully dressed and sitting side-by-side on the edge of the bed or on nearby seating, close but relaxed.
+
+Seo-jun notices the time and says Min-jae will miss his train.
+
+Min-jae reveals he changed it.
+
+He tells Seo-jun that after making him wait six months, Seo-jun can give him one more morning.
+
+Seo-jun looks away with a faint blush but does not move away.
+
+### Camera
+
+Warm, calm medium two-shot with morning space around them.
+
+### Emotional Beat
+
+Satisfied romantic ending. The urgency resolves into chosen time together.
+
+### Dialogue
+
+Use Scene 16.
 
 ### Final Rule
 
-This is the ending. Do not add a Part 2 tease, sequel hook, new character, or cliffhanger.
+End here.
+
+Do not add:
+
+- explicit sexual implication
+- a Part 2 label
+- a sequel hook
+- another confession
+- a new character
+- extra narration
+
+The ending is that they finally choose to stop running from each other.
