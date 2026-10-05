@@ -97,7 +97,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 ## Scene 8 — What We Thought
 
 **MIN-JAE:**  
-"Do you seriously think I spent six months avoiding you because I didn't want it?"
+"You really thought I avoided you because I didn't want it?"
 
 **SEO-JUN:**  
 "...Then why?"
@@ -116,7 +116,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "Why?"
 
 **SEO-JUN:**  
-"You're leaving for Busan tomorrow."
+"Your internship starts in Busan tomorrow."
 
 ---
 
