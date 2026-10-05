@@ -511,21 +511,37 @@ Use the narration from Scene 15.
 # IMAGE 16 — AFTER
 
 **Location:** Hotel room  
-**Time:** Later that night, immediately after the kiss
+**Time:** Immediately after the kiss
 
 ### Scene
 
-They separate only slightly. Their foreheads may be near each other, but they are not required to touch.
+They separate only slightly.
 
-Seo-jun is visibly flustered. Min-jae breaks the tension with a quiet joke about the floor. Seo-jun responds dryly, then asks what time Min-jae is leaving.
+Min-jae does not joke or immediately assume what the kiss meant. He quietly checks in:
+
+**"Regret it?"**
+
+Seo-jun answers without hesitation:
+
+**"No."**
+
+That answer should land before he adds the real problem:
+
+**"...I just hate that you're still leaving."**
+
+For the first time, Seo-jun says plainly that Min-jae leaving matters to him.
+
+Min-jae's expression changes from post-kiss relief to something softer and more serious. He now understands that Seo-jun's fear is no longer about the kiss—it is about losing him after finally getting him back.
 
 ### Camera
 
-Intimate two-shot, slightly wider than Image 15.
+Intimate medium close-up, slightly wider than Image 15.
+
+Keep their faces close enough to preserve the aftermath of the kiss, but allow a little breathing space so the emotional shift is visible.
 
 ### Emotional Beat
 
-Relief, tenderness, then the reminder of tomorrow.
+The kiss resolves the question of desire, but immediately reveals the deeper wound: Seo-jun does not regret wanting Min-jae; he is afraid the moment is already ending.
 
 ### Dialogue
 
@@ -534,8 +550,10 @@ Use Scene 16.
 ### Continuity
 
 - Both remain fully dressed.
-- Keep room continuity.
-- Mood is softer, not an erotic escalation.
+- No additional kissing or sexual escalation.
+- Min-jae's check-in must feel sincere, not teasing.
+- Seo-jun's "No" is immediate and clear.
+- The scene should transition naturally from romantic climax into emotional vulnerability.
 
 ---
 
@@ -546,25 +564,51 @@ Use Scene 16.
 
 ### Scene
 
-Soft natural light enters through the window.
+Soft natural light fills the room.
 
-Both are fully dressed and sitting side-by-side on the edge of the bed or on nearby seating, close but relaxed.
+Seo-jun and Min-jae are fully dressed and close but relaxed. The storm has passed.
 
-Seo-jun notices the time and says Min-jae will miss his train.
+Seo-jun notices the time.
 
-Min-jae reveals he changed it.
+**"You're going to miss your train."**
 
-He tells Seo-jun that after making him wait six months, Seo-jun can give him one more morning.
+Min-jae answers simply:
 
-Seo-jun looks away with a faint blush but does not move away.
+**"I changed it."**
+
+Seo-jun looks at him, genuinely surprised.
+
+**"Why?"**
+
+Min-jae meets his eyes.
+
+**"You told me to stop stepping away."**
+
+A small pause.
+
+**"So I did."**
+
+Seo-jun does not look away this time.
+
+End on the two of them remaining beside each other in the quiet morning light.
 
 ### Camera
 
-Warm, calm medium two-shot with morning space around them.
+Calm medium two-shot with soft morning space around them.
+
+Do not stage the ending like a punchline. Let the final eye contact and stillness carry the payoff.
 
 ### Emotional Beat
 
-Satisfied romantic ending. Urgency resolves into chosen time together.
+The ending directly answers the story's central pattern.
+
+Six months ago, both of them stepped away.
+
+During the night, Seo-jun finally asked Min-jae to stop.
+
+In the morning, Min-jae proves he listened.
+
+The ending is not a promise of forever. It is one immediate, meaningful choice to stay.
 
 ### Dialogue
 
@@ -577,10 +621,13 @@ End here.
 Do not add:
 
 - explicit sexual implication
+- another kiss
 - a Part 2 label
 - a sequel hook
 - another confession
 - a new character
-- extra narration
+- additional narration
 
-The ending is that they finally choose to stop running from each other.
+The last line must remain:
+
+**"So I did."**
