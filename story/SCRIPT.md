@@ -136,7 +136,35 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 11 — Min-jae Goes First
+## Scene 11 — Stay Still
+
+**MIN-JAE:**  
+"Your collar's still soaked."
+
+**SEO-JUN:**  
+"I'll survive."
+
+**MIN-JAE:**  
+"Can I?"
+
+**SEO-JUN:**  
+"...Yes."
+
+**MIN-JAE:**  
+"You know I would've asked that night."
+
+**SEO-JUN:**  
+"Asked what?"
+
+**MIN-JAE:**  
+"If you wanted me closer."
+
+**SEO-JUN:**  
+"...I didn't tell you to move."
+
+---
+
+## Scene 12 — Min-jae Goes First
 
 **MIN-JAE:**  
 "Fine."
@@ -152,7 +180,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 12 — Don't
+## Scene 13 — Don't
 
 **SEO-JUN:**  
 "Don't."
@@ -165,7 +193,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 13 — Try Me
+## Scene 14 — Try Me
 
 **MIN-JAE:**  
 "Seo-jun."
@@ -181,7 +209,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 14 — The Kiss
+## Scene 15 — The Kiss
 
 ### Narration
 
@@ -189,7 +217,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 15 — After
+## Scene 16 — After
 
 **MIN-JAE:**  
 "Still want the floor?"
@@ -202,7 +230,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ---
 
-## Scene 16 — One More Morning
+## Scene 17 — One More Morning
 
 **SEO-JUN:**  
 "You're going to miss your train."
