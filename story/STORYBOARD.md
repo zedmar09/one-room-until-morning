@@ -564,51 +564,57 @@ Use Scene 16.
 
 ### Scene
 
-Soft natural light fills the room.
+Soft natural light fills the room. The storm has passed.
 
-Seo-jun and Min-jae are fully dressed and close but relaxed. The storm has passed.
+Seo-jun and Min-jae are fully dressed and sitting close in the quiet room. The mood is no longer awkward; it is calm, but Seo-jun is still aware that Min-jae is supposed to leave.
 
-Seo-jun notices the time.
+Seo-jun glances at the time and realizes how close Min-jae's departure should be.
 
-**"You're going to miss your train."**
+**"Your train's in twenty minutes."**
 
-Min-jae answers simply:
+Min-jae answers without urgency:
 
-**"I changed it."**
+**"Was."**
 
-Seo-jun looks at him, genuinely surprised.
+Seo-jun looks at him.
+
+**"...Min-jae."**
+
+Min-jae turns his phone so Seo-jun can see the updated booking.
+
+**"I moved it to tonight."**
+
+This makes the reveal concrete and natural: Min-jae has already made the choice rather than announcing a vague intention.
+
+Seo-jun asks the only thing left:
 
 **"Why?"**
 
-Min-jae meets his eyes.
+Min-jae meets his eyes and answers:
 
-**"You told me to stop stepping away."**
+**"Thought I'd try staying this time."**
 
-A small pause.
+Seo-jun holds his gaze instead of looking away.
 
-**"So I did."**
-
-Seo-jun does not look away this time.
-
-End on the two of them remaining beside each other in the quiet morning light.
+End there.
 
 ### Camera
 
-Calm medium two-shot with soft morning space around them.
+Calm medium two-shot with soft morning light and enough negative space to let the final exchange breathe.
 
-Do not stage the ending like a punchline. Let the final eye contact and stillness carry the payoff.
+For the train-change reveal, Min-jae may briefly angle his phone toward Seo-jun, but do not make the phone screen the main focal point. The emotional focus remains on their faces.
 
 ### Emotional Beat
 
-The ending directly answers the story's central pattern.
+The ending resolves the story through action rather than another confession.
 
-Six months ago, both of them stepped away.
+Six months ago, both men retreated.
 
-During the night, Seo-jun finally asked Min-jae to stop.
+During the night, Seo-jun finally asked Min-jae not to keep creating distance.
 
-In the morning, Min-jae proves he listened.
+By morning, Min-jae has already changed his plans and chosen to remain a little longer.
 
-The ending is not a promise of forever. It is one immediate, meaningful choice to stay.
+The final line echoes the story's central idea without repeating "stop stepping away" directly.
 
 ### Dialogue
 
@@ -628,6 +634,6 @@ Do not add:
 - a new character
 - additional narration
 
-The last line must remain:
+The final spoken line must remain:
 
-**"So I did."**
+**"Thought I'd try staying this time."**
