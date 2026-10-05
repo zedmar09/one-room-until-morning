@@ -66,14 +66,14 @@ Do not change colors, layers, or accessories between Images 5 and 7.
 
 Use this outfit for the entire storm-night sequence unless the storyboard explicitly says otherwise:
 
-- dark navy overshirt or light jacket, worn open
+- dark navy overshirt, worn open
 - muted black crew-neck shirt
 - dark charcoal trousers
 - black casual leather shoes
 - simple dark travel bag
 - minimal watch
 
-After entering the hotel, the wet outer layer may be removed. The black shirt and dark trousers remain his canonical indoor outfit.
+After entering the hotel, the damp dark navy overshirt may be removed. The black shirt and dark trousers remain his canonical indoor outfit.
 
 Clothing must remain opaque, matte, tasteful, and consistent. Rain may make fabric look damp, but never transparent or overly clingy.
 
@@ -118,7 +118,7 @@ His attraction should appear through:
 - direct verbal honesty
 - pausing before touch
 - giving Seo-jun space when asked
-- asking clearly before crossing the final romantic boundary
+- verbally checking before crossing the final romantic boundary
 
 ## Fixed Continuity Rules
 
