@@ -28,4 +28,4 @@ The rendering, lighting, finish, and quality requirements are written directly i
 - Do not combine the two characters into a single reference sheet before both individual designs are approved.
 - The characters are adults: Seo-jun is 22 and Min-jae is 23.
 - Approved references supplement the written character files; they do not replace continuity rules.
-- The story contains 16 images.
+- The story contains 17 images.
