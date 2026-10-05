@@ -7,7 +7,8 @@
 **Format:** 9:16 vertical  
 **Primary setting:** Small city hotel during a storm  
 **Secondary setting:** University rooftop flashback  
-**Time span:** Stormy night to the following morning
+**Time span:** Stormy night to the following morning  
+**Departure stake:** Min-jae leaves that morning for a six-month internship in Busan
 
 The exact dialogue comes from `SCRIPT.md`.
 
@@ -256,7 +257,9 @@ Use Scene 8.
 
 ### Scene
 
-Seo-jun breaks eye contact and says none of it matters because Min-jae is leaving tomorrow.
+Seo-jun breaks eye contact and says none of it matters because Min-jae is leaving for Busan tomorrow for a six-month internship.
+
+The internship is already accepted and his morning train is booked. This is not a bluff or an impulsive escape; the distance is real and imminent.
 
 Min-jae looks genuinely affected.
 
@@ -318,7 +321,7 @@ He asks, "Can I?"
 
 Seo-jun looks at him for a beat, then clearly answers, "...Yes."
 
-Only after that permission does Min-jae gently blot the damp hair near Seo-jun's temple and the edge of his collar. The gesture is simple and careful. Their faces are close enough that both are visibly aware of the distance between them.
+Only after that permission does Min-jae gently blot the damp hair near Seo-jun's temple with the towel. He does not adjust Seo-jun's collar or clothing. The gesture is simple and careful. Their faces are close enough that both are visibly aware of the distance between them.
 
 Min-jae does not turn the moment into a joke. Instead, he admits the question he wishes he had asked six months earlier: whether Seo-jun wanted him closer.
 
@@ -351,8 +354,8 @@ Use Scene 11.
 ### Consent Continuity
 
 - Min-jae does not touch Seo-jun until Seo-jun gives a clear verbal "Yes."
-- Touch is limited to gently blotting damp hair/collar with the towel.
-- No unbuttoning, undressing, groping, or sexual contact.
+- Touch is limited to gently blotting Seo-jun's damp hair near the temple with the towel.
+- No collar adjustment, unbuttoning, undressing, groping, or sexual contact.
 - Seo-jun remains completely free to move.
 - When Min-jae starts to create distance again, Seo-jun verbally asks him not to step away.
 - This scene establishes mutual desire without replacing the explicit pre-kiss consent later.
@@ -578,7 +581,7 @@ Seo-jun looks over.
 
 **"...Min-jae."**
 
-Min-jae tilts the phone toward him just enough to show the changed booking.
+Min-jae tilts the phone toward him just enough to show the same Busan trip moved to an evening departure.
 
 **"I moved it to tonight."**
 
