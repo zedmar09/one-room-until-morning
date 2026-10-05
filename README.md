@@ -21,7 +21,7 @@ one-room-until-morning/
 
 ## Story Setup
 
-Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking after an almost-kiss six months ago. A storm strands them overnight in a hotel with one room and one bed. Each believes the other regretted what happened. Min-jae is leaving the city the next morning for a six-month internship in Busan, forcing them to finally confront the misunderstanding before distance makes avoidance easy again.
+Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking after an almost-kiss six months ago. They both attend a small university farewell dinner for Min-jae before his six-month internship in Busan. On the way home, a severe storm suspends late transport and leaves them stranded near the station. The only nearby hotel has one room left—and one bed. Each believes the other regretted what happened six months earlier. Seo-jun already knows Min-jae's morning train time from the farewell plans, so the night has a real deadline.
 
 **Title:** One Room Until Morning  
 **Format:** Standalone one-shot  
