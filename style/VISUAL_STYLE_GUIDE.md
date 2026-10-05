@@ -144,6 +144,23 @@ Avoid generic same-face anime appearance.
 - realistic furniture placement
 - intimate but not luxurious or eroticized
 
+### Canonical Hotel Room Layout
+
+Keep the room geography fixed across Images 3–17:
+
+- entrance and bathroom are at the near-left/rear side of the room
+- the double bed occupies the right half of the room
+- the bed headboard stays against the right-side wall
+- the main window is on the far wall, visible from most room angles
+- a small chair and compact table sit near the window
+- a narrow luggage bench stays at the foot of the bed
+- one bedside table with the warm lamp stays on the outer side of the bed
+- damp outer layers are placed on wall hooks near the entrance after Image 3
+- Min-jae's packed travel bag stays beside the luggage bench
+- Seo-jun's smaller bag stays beside the chair
+
+Camera angles may change, but these relationships must not flip or migrate between images.
+
 ### Rooftop Flashback
 
 - university festival night
@@ -151,6 +168,7 @@ Avoid generic same-face anime appearance.
 - open-air rooftop
 - slightly softer memory treatment
 - still use flat/cel rendering
+- Images 5 and 7 depict the same continuous moment and must use the exact flashback outfits defined in the two character files
 
 ### Morning
 
@@ -293,6 +311,8 @@ When dialogue is included:
 - keep bubble count manageable
 
 When the user asks for **textless**, generate artwork only.
+
+For Image 17, do not depend on readable generated phone UI text. The phone only needs to read visually as a train-booking screen with a changed departure; the dialogue carries the actual story information.
 
 ## Continuity Check Before Every Image
 
