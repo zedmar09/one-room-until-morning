@@ -116,7 +116,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "Why?"
 
 **SEO-JUN:**  
-"Your internship starts in Busan tomorrow."
+"You're leaving tomorrow for a six-month internship in Busan."
 
 ---
 
