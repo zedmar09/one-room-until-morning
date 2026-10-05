@@ -232,13 +232,13 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 ## Scene 16 — After
 
 **MIN-JAE:**  
-"Still want the floor?"
+"Regret it?"
 
 **SEO-JUN:**  
-"Say one more stupid thing and you're sleeping there."
+"No."
 
 **SEO-JUN:**  
-"...What time are you leaving?"
+"...I just hate that you're still leaving."
 
 ---
 
@@ -254,15 +254,9 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "Why?"
 
 **MIN-JAE:**  
-"Six months."
-
-**SEO-JUN:**  
-"...What?"
+"You told me to stop stepping away."
 
 **MIN-JAE:**  
-"You made me wait six months."
-
-**MIN-JAE:**  
-"You can give me one more morning."
+"So I did."
 
 **END**
