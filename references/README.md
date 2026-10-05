@@ -1,16 +1,24 @@
-# Reference Images
+# Approved Character References
 
-Place approved visual references in this directory when available.
+This folder is reserved for character reference images that are generated and approved specifically for this project.
 
 Recommended filenames:
 
-- `seo-jun-character-reference.png`
-- `min-jae-character-reference.png`
-- `school-uniform-reference.png`
-- `classroom-reference.png`
+- `seo-jun-reference.png`
+- `min-jae-reference.png`
 
-## Priority
+Do not store external manhwa inspiration/reference artwork here.
 
-Reference images help preserve visual consistency but do not override written identity rules unless the user explicitly says the reference image should replace the current design.
+The visual quality, rendering, lighting, and finish requirements are written directly in `../style/VISUAL_STYLE_GUIDE.md`.
 
-When a generated character reference is approved, use it as the visual anchor for all subsequent story images.
+## Workflow
+
+1. Generate Seo-jun's character reference.
+2. Approve or revise it until his design is locked.
+3. Save the approved reference here.
+4. Generate Min-jae's character reference.
+5. Approve or revise it until his design is locked.
+6. Save the approved reference here.
+7. Only then begin story Image 1.
+
+Approved character references supplement the written character files and help preserve visual identity throughout the 8 story images.
