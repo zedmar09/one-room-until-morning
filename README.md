@@ -1,55 +1,70 @@
 # After the Bell
 
-A standalone short-form Boys' Love manhwa project designed for sequential AI image generation and TikTok-style vertical storytelling.
+Standalone short-form Boys' Love manhwa project for sequential 9:16 image generation.
 
-## Workflow
+## Repository Structure
 
-This repository is the source of truth for the story.
+```
+story-after-the-bell/
+├── README.md
+├── characters/
+│   ├── HAN_SEO_JUN.md
+│   └── YOO_MIN_JAE.md
+├── style/
+│   └── VISUAL_STYLE_GUIDE.md
+├── story/
+│   ├── SCRIPT.md
+│   └── STORYBOARD.md
+└── references/
+    └── README.md
+```
 
-Read these files before generating images:
+## Source-of-Truth Order
 
-1. `01_CHARACTER_BIBLE.md` — permanent character appearance and personality rules.
-2. `02_VISUAL_STYLE_GUIDE.md` — permanent visual and composition rules.
-3. `03_STORY_AFTER_THE_BELL.md` — story beats, dialogue, and image-by-image instructions.
+Before generating any story image, read:
 
-## Generation Commands
+1. `characters/HAN_SEO_JUN.md`
+2. `characters/YOO_MIN_JAE.md`
+3. `style/VISUAL_STYLE_GUIDE.md`
+4. `story/SCRIPT.md`
+5. `story/STORYBOARD.md`
 
-When this repository is available as context, follow these commands:
+Approved character reference images may be added later under `references/`. They are visual continuity aids only. No external manhwa inspiration image is stored in this repository.
+
+## Commands
 
 - **Start** or **Generate Image 1** — generate Image 1 only.
 - **Next Image** — generate the next numbered image only.
 - **Redo** — regenerate the current image without advancing.
-- **Redo textless** — regenerate the current image with no speech bubbles or captions.
+- **Redo textless** — regenerate the current image without dialogue or captions.
 - **Next Image Textless** — advance one image and generate it without text.
-- **Show current image number** — report the current scene number without advancing.
+- **Show current image number** — report the current scene number only.
 
-## Core Rules
+## Generation Rules
 
-- Generate only one image at a time unless explicitly asked otherwise.
-- Never redesign the characters between images.
-- Never change hair, facial structure, eye color, uniform design, body proportions, or height relationship unless instructed.
-- Never rewrite the dialogue on your own.
-- Maintain continuity with all previously generated images.
-- Preserve props and wardrobe continuity.
+- Generate one story image at a time unless explicitly told otherwise.
+- Never redesign a character between images.
+- Preserve face, hair, body proportions, height relationship, uniform, and established props.
+- Use the exact dialogue in `story/SCRIPT.md`.
+- Use `story/STORYBOARD.md` for scene, camera, action, expression, and continuity.
 - Use a vertical 9:16 composition.
-- Keep important faces and text away from extreme top and bottom UI zones.
-- Use the exact story beat for the current image.
-- If a previous generated image establishes a small visual detail that does not conflict with the character bible or style guide, preserve it in subsequent images.
+- Keep critical faces and text away from extreme top/bottom TikTok UI zones.
+- Maintain the time-of-day progression from late afternoon to early evening.
+- Do not add a sequel hook or Part 2. This is a complete one-shot.
 
-## Continuity Priority
+## Conflict Priority
 
-When instructions conflict, follow this order:
-
-1. Explicit instruction from the user in the current chat.
-2. `01_CHARACTER_BIBLE.md`
-3. `02_VISUAL_STYLE_GUIDE.md`
-4. `03_STORY_AFTER_THE_BELL.md`
-5. Visual continuity established by previously accepted images.
+1. Explicit instruction from the user in the current chat
+2. Character files
+3. Visual style guide
+4. Script
+5. Storyboard
+6. Previously approved/generated image continuity
 
 ## Story
 
 **Title:** After the Bell  
 **Format:** Standalone one-shot  
 **Genre:** Boys' Love / School Romance  
-**Length:** 8 vertical images  
-**Ending:** Complete; no sequel or episode cliffhanger required.
+**Length:** 8 images  
+**Ending:** Complete
