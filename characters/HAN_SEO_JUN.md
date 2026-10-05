@@ -74,6 +74,8 @@ Use this outfit for the entire storm-night sequence unless the storyboard explic
 
 After entering the hotel, the coat may be removed because it is damp. The crisp white button-up shirt and dark trousers remain the canonical indoor outfit.
 
+By Image 17, the coat is dry and worn again because Seo-jun is dressed to leave the hotel.
+
 Clothing must remain opaque, matte, tasteful, and consistent. Rain may make fabric look damp, but never transparent or overly clingy.
 
 ## Body Language
