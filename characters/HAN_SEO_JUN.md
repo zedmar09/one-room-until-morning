@@ -43,6 +43,24 @@
 - Avoids vulnerable conversations until forced to confront them
 - Never childish or theatrically shy
 
+## Story Context
+
+- Seo-jun attends the university farewell dinner for Min-jae before Min-jae's Busan internship.
+- He already knows Min-jae's original morning train time because it was part of the farewell plan.
+- He did not plan to stay with Min-jae overnight; the storm and suspended transport force the hotel situation.
+
+## Flashback Outfit — Images 5 and 7
+
+Use this exact outfit in both rooftop flashback images:
+
+- light gray knit cardigan, worn open
+- plain white crew-neck T-shirt
+- charcoal straight-cut trousers
+- clean white-and-gray low-profile sneakers
+- same silver wristwatch as present day
+
+Do not change colors, layers, or accessories between Images 5 and 7.
+
 ## Canonical Story Outfit
 
 Use this outfit for the entire storm-night sequence unless the storyboard explicitly says otherwise:
