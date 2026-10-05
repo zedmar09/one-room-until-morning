@@ -304,13 +304,63 @@ Use Scene 10.
 
 ---
 
-# IMAGE 11 — I'LL GO FIRST
+# IMAGE 11 — STAY STILL
 
 **Location:** Hotel room
 
 ### Scene
 
-Min-jae stands and closes some of the distance. He decides to be honest first.
+The argument leaves a charged silence.
+
+Min-jae notices that the edge of Seo-jun's collar and hair near his temple are still damp from the storm. He takes a clean hotel towel, steps closer, then deliberately stops his hand before touching Seo-jun.
+
+He asks, "Can I?"
+
+Seo-jun hesitates, then clearly answers, "...Yes."
+
+Only after that permission does Min-jae move closer. He gently blots the damp edge of Seo-jun's hair and collar with the towel and briefly straightens the collar with his fingertips.
+
+Their faces are close. Seo-jun does not retreat.
+
+Min-jae admits that six months ago he would have asked before coming closer too. When Seo-jun asks what he would have asked, Min-jae answers: whether Seo-jun wanted him closer.
+
+Min-jae begins to give him space again.
+
+Seo-jun quietly stops that emotional retreat with: "...I didn't tell you to move."
+
+### Camera
+
+Intimate chest-up two-shot with one close detail of Min-jae's hand visibly pausing before contact. Keep the towel, collar, eyes, and breathing-space between their faces readable.
+
+### Emotional Beat
+
+First clearly consensual present-day touch. The hostility shifts into undeniable mutual attraction before either man fully confesses.
+
+### Dialogue
+
+Use Scene 11.
+
+### Consent Continuity
+
+- Min-jae does not touch Seo-jun until he receives a clear verbal "Yes."
+- Touch is limited to gently blotting damp hair/collar and briefly straightening the collar.
+- No unbuttoning, undressing, groping, or sexual contact.
+- Seo-jun remains free to move and visibly chooses not to step away.
+- The scene should feel hot because of proximity, eye contact, and restraint—not exposure.
+
+---
+
+# IMAGE 12 — I'LL GO FIRST
+
+**Location:** Hotel room
+
+### Scene
+
+The permitted touch has changed the atmosphere. They are no longer pretending that the attraction is only in the past.
+
+Min-jae stays close enough to hold Seo-jun's gaze but does not touch him again without invitation.
+
+He decides to be completely honest first.
 
 He says he wanted to kiss Seo-jun that night and every time he saw him afterward.
 
@@ -318,25 +368,26 @@ Seo-jun's composure visibly begins to fail.
 
 ### Camera
 
-Intimate medium shot, faces clearly visible, strong eye-line connection.
+Intimate medium shot, faces clearly visible, strong eye-line connection. The distance should feel charged after Image 11 without collapsing into a kiss.
 
 ### Emotional Beat
 
-Direct confession and rising romantic heat.
+The midpoint touch becomes an emotional turn: physical permission leads directly into verbal honesty.
 
 ### Dialogue
 
-Use Scene 11.
+Use Scene 12.
 
 ### Continuity
 
-- Min-jae does not touch Seo-jun.
-- Distance becomes close but respectful.
+- No new touch initiated by Min-jae.
+- Distance remains close but respectful.
 - Seo-jun is visibly affected.
+- Towel may remain loosely in Min-jae's hand or be set aside naturally.
 
 ---
 
-# IMAGE 12 — DON'T
+# IMAGE 13 — DON'T
 
 **Location:** Hotel room
 
@@ -344,9 +395,9 @@ Use Scene 11.
 
 Seo-jun quietly says "Don't."
 
-Min-jae immediately stops and takes a small step back.
+Min-jae immediately stops and takes a small step back, interpreting it as a boundary.
 
-Seo-jun reacts to Min-jae moving away and reaches out, grabbing the front/edge of Min-jae's black shirt or overshirt layer if still present.
+Seo-jun reacts to Min-jae moving away and reaches out, grabbing the front edge of Min-jae's black shirt.
 
 He clarifies: "I didn't mean stop talking."
 
@@ -356,21 +407,21 @@ Close framing emphasizing Seo-jun's hand gripping fabric, Min-jae's paused movem
 
 ### Emotional Beat
 
-Apparent rejection reverses into invitation.
+Apparent rejection reverses into active invitation from Seo-jun.
 
 ### Dialogue
 
-Use Scene 12.
+Use Scene 13.
 
 ### Consent Continuity
 
 - Min-jae stops immediately at "Don't."
 - Seo-jun initiates the next physical contact.
-- The shirt-grab is to stop Min-jae from stepping away, not to restrain him aggressively.
+- The shirt-grab stops Min-jae from stepping away; it is not forceful restraint.
 
 ---
 
-# IMAGE 13 — TRY ME
+# IMAGE 14 — TRY ME
 
 **Location:** Hotel room
 
@@ -390,27 +441,29 @@ Tight face-to-face close-up or chest-up two-shot. Keep lips separated; this is t
 
 ### Emotional Beat
 
-Maximum anticipation.
+Maximum anticipation and explicit mutual understanding.
 
 ### Dialogue
 
-Use Scene 13.
+Use Scene 14.
 
 ### Continuity
 
 - No kiss yet.
 - No forceful grip.
-- Both clearly engaged and aware of the moment.
+- Both are clearly engaged and aware of the moment.
 
 ---
 
-# IMAGE 14 — THE KISS
+# IMAGE 15 — THE KISS
 
 **Location:** Hotel room
 
 ### Scene
 
-Min-jae gently touches Seo-jun's cheek or jaw. Seo-jun closes the final distance himself.
+Min-jae gently touches Seo-jun's cheek or jaw.
+
+Seo-jun closes the final distance himself.
 
 They kiss.
 
@@ -426,7 +479,7 @@ Romantic climax.
 
 ### Narration
 
-Use the narration from Scene 14.
+Use the narration from Scene 15.
 
 ### Boundaries
 
@@ -435,42 +488,42 @@ Use the narration from Scene 14.
 - No groping.
 - No bed action.
 - No exaggerated tongue/open-mouth detail.
-- The intensity comes from emotion and mutual closeness.
+- The intensity comes from emotion, consent, and mutual closeness.
 
 ---
 
-# IMAGE 15 — AFTER
+# IMAGE 16 — AFTER
 
 **Location:** Hotel room  
 **Time:** Later that night, immediately after the kiss
 
 ### Scene
 
-They have separated only slightly. Their foreheads may be near each other, but they are not required to touch.
+They separate only slightly. Their foreheads may be near each other, but they are not required to touch.
 
 Seo-jun is visibly flustered. Min-jae breaks the tension with a quiet joke about the floor. Seo-jun responds dryly, then asks what time Min-jae is leaving.
 
 ### Camera
 
-Intimate two-shot, slightly wider than Image 14.
+Intimate two-shot, slightly wider than Image 15.
 
 ### Emotional Beat
 
-Relief, tenderness, then reminder of tomorrow.
+Relief, tenderness, then the reminder of tomorrow.
 
 ### Dialogue
 
-Use Scene 15.
+Use Scene 16.
 
 ### Continuity
 
 - Both remain fully dressed.
 - Keep room continuity.
-- Mood is softer, not erotic escalation.
+- Mood is softer, not an erotic escalation.
 
 ---
 
-# IMAGE 16 — ONE MORE MORNING
+# IMAGE 17 — ONE MORE MORNING
 
 **Location:** Hotel room  
 **Time:** Morning
@@ -495,11 +548,11 @@ Warm, calm medium two-shot with morning space around them.
 
 ### Emotional Beat
 
-Satisfied romantic ending. The urgency resolves into chosen time together.
+Satisfied romantic ending. Urgency resolves into chosen time together.
 
 ### Dialogue
 
-Use Scene 16.
+Use Scene 17.
 
 ### Final Rule
 
