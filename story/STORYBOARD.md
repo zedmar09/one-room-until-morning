@@ -3,7 +3,7 @@
 ## Metadata
 
 **Type:** Standalone adult BL one-shot  
-**Total Images:** 16  
+**Total Images:** 17  
 **Format:** 9:16 vertical  
 **Primary setting:** Small city hotel during a storm  
 **Secondary setting:** University rooftop flashback  
@@ -310,31 +310,39 @@ Use Scene 10.
 
 ### Scene
 
-The argument leaves a charged silence.
+The argument falls into a charged silence.
 
-Min-jae notices that the edge of Seo-jun's collar and hair near his temple are still damp from the storm. He takes a clean hotel towel, steps closer, then deliberately stops his hand before touching Seo-jun.
+Min-jae notices that Seo-jun's hair is still damp near his temple. He picks up a clean hotel towel and steps closer, but stops before touching him.
 
 He asks, "Can I?"
 
-Seo-jun hesitates, then clearly answers, "...Yes."
+Seo-jun looks at him for a beat, then clearly answers, "...Yes."
 
-Only after that permission does Min-jae move closer. He gently blots the damp edge of Seo-jun's hair and collar with the towel and briefly straightens the collar with his fingertips.
+Only after that permission does Min-jae gently blot the damp hair near Seo-jun's temple and the edge of his collar. The gesture is simple and careful. Their faces are close enough that both are visibly aware of the distance between them.
 
-Their faces are close. Seo-jun does not retreat.
+Min-jae does not turn the moment into a joke. Instead, he admits the question he wishes he had asked six months earlier: whether Seo-jun wanted him closer.
 
-Min-jae admits that six months ago he would have asked before coming closer too. When Seo-jun asks what he would have asked, Min-jae answers: whether Seo-jun wanted him closer.
+Seo-jun tests the meaning behind that admission: "And if I'd said yes?"
 
-Min-jae begins to give him space again.
+Min-jae answers without hesitation: "I would've stayed."
 
-Seo-jun quietly stops that emotional retreat with: "...I didn't tell you to move."
+Min-jae instinctively begins to give Seo-jun space again.
+
+Seo-jun looks directly at him and says, "Then stop stepping away now."
+
+That line changes the emotional direction of the story. Seo-jun is no longer merely allowing Min-jae to be close; he is actively asking him not to retreat.
 
 ### Camera
 
-Intimate chest-up two-shot with one close detail of Min-jae's hand visibly pausing before contact. Keep the towel, collar, eyes, and breathing-space between their faces readable.
+Intimate chest-up two-shot.
+
+Start with a clear detail of Min-jae's hand and towel pausing before contact, then prioritize their eyes and the small distance between their faces. The final beat should visually show Min-jae beginning to lean or step back and Seo-jun holding his gaze rather than physically restraining him.
 
 ### Emotional Beat
 
-First clearly consensual present-day touch. The hostility shifts into undeniable mutual attraction before either man fully confesses.
+First clearly consensual present-day touch, followed by Seo-jun's first unmistakable choice to keep Min-jae close.
+
+The heat comes from permission, proximity, and the fact that Seo-jun finally stops hiding behind passivity.
 
 ### Dialogue
 
@@ -342,11 +350,12 @@ Use Scene 11.
 
 ### Consent Continuity
 
-- Min-jae does not touch Seo-jun until he receives a clear verbal "Yes."
-- Touch is limited to gently blotting damp hair/collar and briefly straightening the collar.
+- Min-jae does not touch Seo-jun until Seo-jun gives a clear verbal "Yes."
+- Touch is limited to gently blotting damp hair/collar with the towel.
 - No unbuttoning, undressing, groping, or sexual contact.
-- Seo-jun remains free to move and visibly chooses not to step away.
-- The scene should feel hot because of proximity, eye contact, and restraint—not exposure.
+- Seo-jun remains completely free to move.
+- When Min-jae starts to create distance again, Seo-jun verbally asks him not to step away.
+- This scene establishes mutual desire without replacing the explicit pre-kiss consent later.
 
 ---
 
@@ -356,23 +365,29 @@ Use Scene 11.
 
 ### Scene
 
-The permitted touch has changed the atmosphere. They are no longer pretending that the attraction is only in the past.
+Seo-jun's line from Image 11 leaves Min-jae momentarily speechless.
 
-Min-jae stays close enough to hold Seo-jun's gaze but does not touch him again without invitation.
+They remain close, but Min-jae does not initiate another touch.
 
-He decides to be completely honest first.
+Min-jae says Seo-jun's name as if checking whether he really means it. Seo-jun reminds him, "You wanted honesty."
 
-He says he wanted to kiss Seo-jun that night and every time he saw him afterward.
+That gives Min-jae nowhere left to hide.
 
-Seo-jun's composure visibly begins to fail.
+He confesses plainly: he wanted to kiss Seo-jun that night, wanted to kiss him every time afterward, and still wants to now.
+
+This is no longer Min-jae speaking hypothetically about the past. It is a present-tense confession.
+
+Seo-jun's composure visibly breaks under the directness.
 
 ### Camera
 
-Intimate medium shot, faces clearly visible, strong eye-line connection. The distance should feel charged after Image 11 without collapsing into a kiss.
+Intimate medium close-up with strong eye-line connection.
+
+Keep the framing tight enough that the emotional pressure from Image 11 carries forward, but preserve a small visible gap between them. No kiss yet.
 
 ### Emotional Beat
 
-The midpoint touch becomes an emotional turn: physical permission leads directly into verbal honesty.
+The midpoint scene becomes the hinge into the final confession: Seo-jun explicitly asks Min-jae not to retreat, and Min-jae answers that invitation with complete honesty.
 
 ### Dialogue
 
@@ -380,10 +395,11 @@ Use Scene 12.
 
 ### Continuity
 
-- No new touch initiated by Min-jae.
-- Distance remains close but respectful.
-- Seo-jun is visibly affected.
-- Towel may remain loosely in Min-jae's hand or be set aside naturally.
+- Min-jae initiates no new physical contact.
+- Seo-jun remains in place and holds eye contact.
+- Distance is close but respectful.
+- Towel may be lowered or set aside.
+- The next scene's "Don't" must initially read as a possible boundary so Min-jae still stops immediately.
 
 ---
 
