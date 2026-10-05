@@ -295,8 +295,8 @@ Both characters are adults.
 - The permitted touch is limited to gently blotting Seo-jun's damp hair near the temple with a towel; no collar adjustment, undressing, or sexual contact.
 - Min-jae stops immediately when Seo-jun later says "Don't."
 - Seo-jun then actively stops Min-jae from moving away.
-- Before the kiss, Min-jae asks a direct question.
-- Seo-jun gives an unmistakable invitation and then closes the final distance himself.
+- Before the kiss, Min-jae verbally checks whether Seo-jun wants him to continue.
+- Seo-jun answers with an unmistakable invitation, and the kiss proceeds mutually.
 
 The kiss is romantic and passionate but non-explicit.
 
