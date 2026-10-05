@@ -66,13 +66,13 @@ Do not change colors, layers, or accessories between Images 5 and 7.
 Use this outfit for the entire storm-night sequence unless the storyboard explicitly says otherwise:
 
 - charcoal lightweight coat, worn open
-- white or warm-white button-up shirt
+- crisp white button-up shirt
 - dark straight-cut trousers
 - simple black leather shoes
-- dark crossbody or shoulder bag
+- dark crossbody bag
 - minimal silver wristwatch
 
-After entering the hotel, the coat may be removed because it is damp. The white shirt and dark trousers remain the canonical indoor outfit.
+After entering the hotel, the coat may be removed because it is damp. The crisp white button-up shirt and dark trousers remain the canonical indoor outfit.
 
 Clothing must remain opaque, matte, tasteful, and consistent. Rain may make fabric look damp, but never transparent or overly clingy.
 
