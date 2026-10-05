@@ -1,40 +1,39 @@
-# Visual Style Guide — After the Bell
+# Visual Style Guide — One Room Until Morning
 
 ## Goal
 
-Produce polished vertical romance-manwha artwork suitable for TikTok slideshow storytelling. The quality should feel like finished serialized webtoon/manhwa art rather than concept art, game art, a 3D render, or a generic anime illustration.
+Produce polished vertical adult-romance manhwa artwork suitable for TikTok slideshow storytelling. The images should feel like finished serialized webtoon/manhwa panels: clean, dramatic, intimate, and emotionally readable without becoming glossy, 3D, photorealistic, or visually overworked.
 
-## Rendering Style
+## Core Rendering
 
 Use:
 
-- crisp, controlled digital linework
-- clean facial anatomy
-- refined masculine character designs
+- crisp controlled digital linework
+- refined adult masculine facial anatomy
 - flat-to-cel-based coloring
 - controlled soft shadows
-- limited, intentional gradients
+- limited intentional gradients
 - clear separation between light and shadow
-- fine but restrained hair strand detail
-- detailed, expressive eyes
+- selected hair strand detail
+- detailed expressive eyes
 - natural cloth folds
-- polished but uncluttered backgrounds
-- consistent facial structure across every image
-- cinematic composition without cinematic over-effects
+- polished but uncluttered environments
+- strong facial continuity
+- cinematic framing without cinematic over-effects
 
-The artwork should remain visually flat and illustrated.
+The artwork must remain visibly illustrated and matte.
 
 ## Surface Finish
 
 ### Required
 
-- matte skin appearance
+- matte skin
 - matte fabric
-- soft, controlled hair highlights only where needed
-- subtle eye highlights
-- restrained material definition
 - clean color blocks
-- natural shadow transitions
+- soft controlled shadow transitions
+- restrained hair highlights
+- small controlled eye catchlights
+- subtle environmental reflections only on glass, windows, wet pavement, or other surfaces where physically appropriate
 
 ### Do Not Use
 
@@ -42,21 +41,19 @@ The artwork should remain visually flat and illustrated.
 - oily skin
 - plastic skin
 - glass-like skin reflections
-- mirror-like hair shine
-- heavy specular highlights
-- over-reflective clothes
-- metallic-looking school uniforms
+- broad white shine on hair
+- heavy specular highlights on faces
+- shiny satin-looking everyday clothing
 - excessive bloom
 - glow around characters
 - strong lens flare
-- neon edge lighting
-- excessive rim light
+- neon rim lighting
 - overexposed white highlights
-- wet-look rendering
+- wet-look skin rendering
 - shiny 3D/game-character finish
-- photorealistic skin texture
+- photorealistic pores or skin texture
 
-Highlights exist only to define form, eyes, and hair subtly. They must never dominate the image.
+Rain is allowed to create atmosphere, but it must not turn the characters into glossy or reflective figures.
 
 ## Linework
 
@@ -64,203 +61,244 @@ Highlights exist only to define form, eyes, and hair subtly. They must never dom
 - fine-to-medium weight
 - slightly stronger outer silhouette where useful
 - finer interior facial and hair lines
-- avoid sketchy unfinished marks
-- avoid extremely thick Western-comic outlines
+- no sketchy unfinished marks
+- no heavy Western-comic outlines
 
 ## Faces
 
 Characters should have:
 
-- elegant manhwa facial proportions
+- elegant adult manhwa proportions
 - detailed eyes
-- restrained noses and lips
+- restrained nose and lip rendering
 - clean jaw shapes
 - believable head angles
-- consistent facial identity from every camera angle
+- consistent facial identity from all camera angles
 
 Avoid generic same-face anime appearance.
 
 ## Eyes
 
 - expressive but not oversized
-- carefully shaped upper lash/eyelid lines
-- subtle iris gradients permitted
+- careful eyelid lines
+- subtle iris tonal variation
 - small controlled catchlights
 - no glass-orb shine
-- eye emotion should be more important than sparkle
+- emotional direction matters more than sparkle
 
 ## Hair
 
-- define major hair masses first
-- use selected strand details
-- preserve clear silhouette
-- use controlled tonal separation for depth
-- highlights must be narrow, soft, and restrained
-- never use broad white reflective bands
-- never make hair look wet, metallic, or plastic
+- define the major hair masses first
+- selected strand detail only
+- preserve a clean silhouette
+- controlled tonal separation
+- narrow soft highlights only
+- no broad white reflection bands
+- no metallic, wet, or plastic appearance
 
 ## Skin Shading
 
-- simple cel/soft-cel shadows
-- subtle cheek and neck shadows
-- faint blush when specified
+- cel or soft-cel shadows
+- subtle cheek, jaw, and neck shadows
+- faint blush only when called for
 - no pore-level realism
-- no shiny forehead/nose/chin highlights
-- no excessive airbrushed glow
+- no shiny forehead, nose, lip, or chin highlights
+- no airbrushed glow
 
 ## Clothing
 
-- flat, clean base colors
+- matte fabric
+- flat clean base colors
 - natural fold shadows
-- restrained edge highlights only if lighting requires them
-- uniforms should read as cloth, not satin or leather
+- restrained edge highlights
+- wet outerwear can be slightly darker after rain
+- shirts remain opaque
+- no eroticized transparency
+- no satin/leather appearance unless an item is specifically leather
 
-## Backgrounds
+## Main Environments
 
-Backgrounds should be finished enough to establish place, but should not compete with the characters.
+### Hotel Lobby
 
-Use:
+- small modern city hotel
+- warm neutral lighting
+- simple reception desk
+- rain visible through glass entrance
+- uncluttered composition
 
-- clear school architecture
-- controlled perspective
-- simplified distant detail
-- soft atmospheric depth
-- clean environmental color blocks
+### Elevator
 
-Avoid:
+- compact modern interior
+- neutral metal or matte wall surfaces
+- controlled reflection only
+- no mirror maze effect
+- intimate framing through physical proximity
 
-- random decorative clutter
-- unnecessary particles
-- excessive sparkle
-- busy textures
-- hyper-detailed photorealistic backgrounds that clash with characters
+### Hotel Room
+
+- modest modern hotel room
+- one clearly visible double bed
+- warm bedside lamp
+- rain-streaked window
+- muted neutral palette
+- realistic furniture placement
+- intimate but not luxurious or eroticized
+
+### Rooftop Flashback
+
+- university festival night
+- distant warm lights
+- open-air rooftop
+- slightly softer memory treatment
+- still use flat/cel rendering
+
+### Morning
+
+- soft natural window light
+- quiet cool-warm balance
+- calmer contrast than the night scenes
+- emotional relief rather than glow
 
 ## Format
 
 **Aspect ratio:** 9:16 vertical  
 **Primary platform:** TikTok
 
-Keep critical content out of the extreme top and bottom interface areas.
+Keep faces, hands, and speech bubbles away from extreme top and bottom UI areas.
 
 ## Visual Tone
 
-- quiet
-- tender
-- intimate
-- refined
-- emotionally restrained
-- romantic without visual clichés
-- slightly melancholic in the beginning
-- warm by the end
+The visual arc should move through:
+
+1. awkward tension
+2. irritation
+3. unresolved attraction
+4. vulnerability
+5. intimate confrontation
+6. consensual romantic climax
+7. quiet morning relief
 
 ## Color Direction
 
 Core palette:
 
-- warm cream whites
-- charcoal gray
+- charcoal
+- black
 - dark navy
-- muted brown
-- soft gold
-- dusty blue-gray
+- warm white
+- muted amber
+- storm blue-gray
+- soft morning gray-blue
 
-Avoid oversaturation and neon colors.
+Avoid neon and excessive saturation.
 
 ## Lighting Progression
 
-### Images 1–3
-Late-afternoon warm sunlight.
+### Images 1–4
+Stormy night with warm hotel interior light.
 
-- defined but soft golden window light
-- neutral classroom shadows
-- moderate brightness
+### Images 5 and 7
+Rooftop flashback: cooler night air with restrained warm festival light.
 
-### Images 4–6
-Deeper golden hour.
+### Images 6 and 8–13
+Warm hotel room light against cool rain-window ambience; contrast rises as emotional tension rises.
 
-- warmer skin-side illumination
-- deeper blue-gray shadows
-- slightly dimmer environment
-- still no glow/bloom treatment
+### Image 14
+The kiss: intimate warm-neutral light, no glow effect, no decorative sparkles.
 
-### Image 7
-Early evening hallway.
+### Image 15
+Same night, quieter and softer after the kiss.
 
-- long soft shadows
-- warm reflected light
-- beginning blue-hour influence
-
-### Image 8
-Blue-gold early evening exterior.
-
-- cool ambient environment
-- restrained warm skin highlights
-- calm final atmosphere
+### Image 16
+Natural morning window light.
 
 ## Camera Language
 
-Use a deliberate variety:
+Use deliberate variety:
 
-- medium-wide establishing frame
-- two-shot
-- reaction close-up
-- profile two-shot
-- intimate medium close-up
-- walking wide shot
-- final cinematic wide/medium-wide frame
+- environmental hook
+- elevator two-shot
+- bed reveal wide shot
+- confrontation close-ups
+- memory flashback
+- side-profile tension
+- hand detail
+- shirt-grab close framing
+- pre-kiss face-to-face close-up
+- kiss medium close-up
+- quiet morning two-shot
 
 Avoid:
 
 - fisheye distortion
 - extreme action angles
-- unnecessary Dutch angles
 - repetitive framing
-- overdramatic perspective
+- voyeuristic angles
+- excessive body cropping designed only for sexualization
 
-## Romance Direction
+## Intimacy Direction
 
-Romance is shown through:
+The heat comes from:
 
+- proximity
 - eye contact
-- gradually decreasing physical distance
-- posture
-- hand tension
-- shoulder proximity
-- pauses
-- tiny changes in expression
+- interrupted movement
+- restrained touch
+- damp hair and post-rain atmosphere
+- a hand stopping someone from walking away
+- a shirt-grab at the turning point
+- forehead-level closeness
+- a clearly consensual kiss
 
 Do not rely on:
 
+- nudity
+- explicit sexual contact
+- groping
+- fetishized body framing
+- aggressive restraint
+- exaggerated blush
 - heart graphics
 - sparkles
-- petals unless explicitly required
-- exaggerated blush
-- aggressive physical closeness
-- fan-service posing
+- petals
+- glow
+
+## Consent and Blocking
+
+Both characters are adults.
+
+- Min-jae stops immediately when Seo-jun says "Don't."
+- Seo-jun then actively stops Min-jae from moving away.
+- Before the kiss, Min-jae asks a direct question.
+- Seo-jun gives an unmistakable invitation and then closes the final distance himself.
+
+The kiss is romantic and passionate but non-explicit.
 
 ## Dialogue Rendering
 
-When dialogue is generated inside the image:
+When dialogue is included:
 
-- use clean manhwa-style speech bubbles
+- use clean manhwa speech bubbles
 - preserve exact wording from `story/SCRIPT.md`
 - maintain natural reading order
-- do not cover eyes or important gestures
-- keep bubble count visually manageable
+- never cover eyes, hands, or key expressions
+- keep bubble count manageable
 
-If the user asks for **textless**, generate only the artwork and no speech bubbles or captions.
+When the user asks for **textless**, generate artwork only.
 
 ## Continuity Check Before Every Image
 
 Verify:
 
-1. correct character face
+1. correct adult character identity
 2. correct hair and eye colors
 3. correct height difference
-4. correct uniform
-5. current props
-6. time of day
-7. emotional progression
-8. previous accepted image continuity
-9. flat/matte rendering
-10. no glossy or excessive reflective treatment
+4. correct clothing layer for that scene
+5. wet/dry state of hair and outerwear
+6. current props and bags
+7. night-to-morning progression
+8. emotional progression
+9. previous accepted image continuity
+10. flat/matte rendering
+11. no glossy or excessive reflections
+12. consent/blocking matches the storyboard
