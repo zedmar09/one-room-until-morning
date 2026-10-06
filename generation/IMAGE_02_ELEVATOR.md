@@ -99,10 +99,15 @@ Compact modern hotel elevator immediately after Image 1. Neutral metal or matte 
 
 ## Events / Blocking
 
-- Seo-jun and Min-jae stand on opposite sides of the elevator.
-- Seo-jun glances at Min-jae and immediately looks away.
-- Min-jae notices.
-- The tension is quiet, awkward, and intimate because of the enclosed space.
+- Seo-jun and Min-jae stand on opposite sides of the compact elevator with a clear strip of space between them.
+- Both still carry their own bags and still wear the same damp outer layers from approved Image 1.
+- Seo-jun briefly glances toward Min-jae.
+- Min-jae notices the glance and addresses him without moving closer.
+- Seo-jun immediately looks away and denies looking.
+- Min-jae answers with a restrained, knowing reaction rather than a smug grin.
+- The emotional movement is: **distance → glance → caught → look away → quiet knowing response**.
+- The tension should feel awkward, intimate, and restrained because of the enclosed space.
+- No physical contact and no flirtatious posing.
 
 ## Objects / Props
 
@@ -112,7 +117,22 @@ Compact modern hotel elevator immediately after Image 1. Neutral metal or matte 
 
 ## Camera / Composition
 
-Tight vertical two-shot that uses the enclosed elevator space to create proximity. Avoid mirror-maze reflections.
+Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights rather than one single static two-shot:
+
+1. **Elevator establishing panel** — medium two-shot showing Seo-jun and Min-jae on opposite sides of the elevator. Keep both bags visible and preserve the height difference.
+2. **Seo-jun glance panel** — closer framing as Seo-jun briefly looks toward Min-jae. Min-jae says, **"You can still look at me, you know."**
+3. **Seo-jun reaction panel** — Seo-jun immediately turns his gaze away and replies, **"I wasn't looking."**
+4. **Min-jae response panel** — restrained close-up or medium-close reaction; calm, observant, slightly knowing but not smug. Min-jae says, **"Exactly."**
+
+Keep gutters clean and phone-readable. Let the first panel establish geography, then tighten progressively for the dialogue beats.
+
+Do not crowd all three speech bubbles into one panel. Preserve a clear top-to-bottom reading order.
+
+Avoid mirror-maze compositions, duplicate reflected characters, or confusing reflective surfaces.
+
+## Narration
+
+**No narration on Image 2.** Do not add a caption box or explanatory text. Image 1 already established the storm, hotel, and why they are there.
 
 ## Exact Script
 
@@ -138,6 +158,11 @@ Direct continuation of Image 1. Same damp outerwear, bags, hairstyles, and storm
 - When detail conflicts with the flat manhwa look, **flat manhwa wins**.
 
 - Premium serialized Korean webtoon/manhwa finish; polished, flat 2D, cartoon/manhwa, and clearly non-photoreal.
+- Continue the approved Image 1 visual direction: **matte 2D surfaces, restrained cel shading, minimal reflections, and no glossy or hyper-rendered finish**.
+- Elevator walls should read as matte or softly brushed metal with only subtle controlled tonal variation.
+- **Do not create mirror-like walls, floor reflections, duplicate character reflections, polished-metal glare, or photographic specular highlights.**
+- Speech bubbles should use **clean organic manhwa/webtoon shapes with clear tapered tails, balanced padding, and phone-readable lettering**. Avoid generic oversized plain ovals.
+- Keep the panel gutters crisp and simple, with no decorative effects competing with the faces.
 - 9:16 vertical composition for TikTok.
 - Crisp controlled fine-to-medium linework with stylized adult masculine manhwa anatomy.
 - Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
@@ -153,14 +178,15 @@ Direct continuation of Image 1. Same damp outerwear, bags, hairstyles, and storm
 
 ## Hard Constraints
 
-- Do not add extra dialogue, narration, characters, props, clothing changes, or decorative effects.
+- Do not add extra dialogue or narration beyond the exact script; Image 2 has no narration.
+- Do not add extra characters, props, clothing changes, or decorative effects.
 - Keep intimacy consensual and non-explicit.
 - No nudity, groping, fetishized framing, or sexualized bed staging.
 - Preserve exact character identities, height difference, clothing state, and established props.
 
 ## Generation Command
 
-Generate **Image 2 — Elevator** exactly from this packet.
+Generate **Image 2 — Elevator** exactly from this packet, using the approved 4-beat vertical manhwa pacing, organic manhwa speech bubbles, and matte flat-2D rendering direction established by approved Image 1.
 
 Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
 
