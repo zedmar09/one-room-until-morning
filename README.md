@@ -56,11 +56,14 @@ Each `IMAGE_XX_*.md` file is designed to be sent to a separate image-generation 
 
 Recommended workflow:
 
-1. Approve and attach the character reference images.
-2. Open the matching file under `generation/`.
-3. Send that single Markdown file to the image-generation thread.
-4. Instruct the thread to generate only that image from the packet and attached references.
-5. Approve the result before moving to the next numbered file.
+1. Approve both character references first, then attach both to every story-image generation thread.
+2. For Images 2–17, attach the immediately previous approved story image as the continuity reference.
+3. For Image 7, additionally attach approved Image 5 to preserve the exact rooftop flashback look.
+4. Open the matching file under `generation/` and send that Markdown packet to the image-generation thread.
+5. Instruct the thread to generate only that image from the packet and required references.
+6. Approve the result before moving to the next numbered file.
+
+Each per-image packet embeds the critical visual-style rules needed for cross-thread portability, so the packet plus its required reference images is the intended generation handoff.
 
 See `generation/README.md` for the full handoff workflow.
 
