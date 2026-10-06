@@ -2,7 +2,12 @@
 
 This folder is reserved only for character reference images generated and approved specifically for **One Room Until Morning**.
 
-Recommended filenames:
+Generation briefs:
+
+- `SEO_JUN_REFERENCE_BRIEF.md`
+- `MIN_JAE_REFERENCE_BRIEF.md`
+
+Approved image filenames:
 
 - `seo-jun-reference.png`
 - `min-jae-reference.png`
@@ -13,10 +18,10 @@ The rendering, lighting, finish, and quality requirements are written directly i
 
 ## Workflow
 
-1. Generate Han Seo-jun alone using `../characters/HAN_SEO_JUN.md`.
+1. Generate Han Seo-jun alone using `SEO_JUN_REFERENCE_BRIEF.md`.
 2. Revise until his face, hair, proportions, and canonical story outfit are approved.
 3. Save the approved image as `seo-jun-reference.png`.
-4. Generate Yoo Min-jae alone using `../characters/YOO_MIN_JAE.md`.
+4. Generate Yoo Min-jae alone using `MIN_JAE_REFERENCE_BRIEF.md`.
 5. Revise until his face, hair, proportions, and canonical story outfit are approved.
 6. Save the approved image as `min-jae-reference.png`.
 7. Only after both references are locked, begin story Image 1.
