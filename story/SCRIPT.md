@@ -21,14 +21,9 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 
 ## Scene 2 — Elevator
 
-**MIN-JAE:**  
-"Still keeping your distance?"
+**No dialogue.**
 
-**SEO-JUN:**  
-"I'm standing here, aren't I?"
-
-**MIN-JAE:**  
-"Barely."
+The scene is carried entirely by distance, glances, restrained body language, and the elevator chime.
 
 ---
 
