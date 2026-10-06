@@ -46,7 +46,7 @@ Before generating any story image, read:
 4. `story/SCRIPT.md`
 5. `story/STORYBOARD.md`
 
-Approved character reference images may be added later under `references/`. They are visual continuity aids only. No external manhwa inspiration artwork is stored in this repository.
+Both character reference images must be generated, approved, and locked under `references/` before story Image 1 is generated. They are mandatory identity locks for every per-image generation thread. No external manhwa inspiration artwork is stored in this repository.
 
 ## Per-Image Generation Packets
 
@@ -56,7 +56,7 @@ Each `IMAGE_XX_*.md` file is designed to be sent to a separate image-generation 
 
 Recommended workflow:
 
-1. Approve both character references first, then attach both to every story-image generation thread.
+1. Approve both character references first, then attach both approved character references to every story-image generation thread.
 2. For Images 2–17, attach the immediately previous approved story image as the continuity reference.
 3. For Image 7, additionally attach approved Image 5 to preserve the exact rooftop flashback look.
 4. Open the matching file under `generation/` and send that Markdown packet to the image-generation thread.
