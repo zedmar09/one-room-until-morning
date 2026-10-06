@@ -50,6 +50,19 @@ Use this checklist before freezing the repository for image generation.
 - [ ] `story/STORYBOARD.md` remains the source for camera, action, continuity, and scene blocking.
 - [ ] No unresolved `or`, optional outfit choice, alternate blocking, or temporary note remains in canonical files.
 
+## Generation Packets
+
+- [ ] All 17 files under `generation/IMAGE_01_*.md` through `generation/IMAGE_17_*.md` exist.
+- [ ] Every packet's exact dialogue/caption matches `story/SCRIPT.md`.
+- [ ] Every packet's events, blocking, camera, props, timing, and outfit state match `story/STORYBOARD.md` and the character files.
+- [ ] Every packet embeds the project's critical visual-style locks and remains consistent with `style/VISUAL_STYLE_GUIDE.md`.
+- [ ] Every packet requires both approved character reference images.
+- [ ] Images 2–17 require the immediately previous approved story image as a continuity reference.
+- [ ] Image 7 additionally requires approved Image 5 for rooftop flashback continuity.
+- [ ] Image 3 does not visually advance into the Image 4 outerwear-removal state.
+- [ ] Image 15 renders the narration as caption text only and never displays a `NARRATION` label.
+- [ ] Any future canonical story/style change triggers re-audit or regeneration of the affected image packet(s).
+
 ## Freeze
 
 - [ ] Both character reference images are approved before story Image 1 is generated.
