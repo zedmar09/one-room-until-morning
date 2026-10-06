@@ -60,6 +60,7 @@ Do **not** carry over any solo reference-image rules into the story image. Speci
 - one-panel reference-sheet structure
 - bag exclusions from the solo reference briefs
 
+
 ## Output
 
 - One finished 9:16 vertical manhwa image.
