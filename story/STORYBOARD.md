@@ -150,29 +150,57 @@ Use Scene 3 from `SCRIPT.md`.
 
 ### Scene
 
-They have removed their damp outer layers. Seo-jun is now in his white shirt and dark trousers; Min-jae in his black shirt and dark trousers.
+Direct continuation of Image 3.
 
-Min-jae confronts Seo-jun about six months of silence.
+Before the visible scene begins, both men have removed their damp outer layers and hung them on the wall hooks near the entrance. Seo-jun is now in his crisp white button-up shirt and dark trousers; Min-jae is in his muted black T-shirt and dark trousers.
 
-### Camera
+Min-jae's **"You're still avoiding me."** is still hanging between them.
 
-Medium confrontation two-shot.
+Seo-jun answers without looking at him:
+
+**"I'm not."**
+
+Min-jae stays where he is.
+
+**"Then look at me."**
+
+Seo-jun hesitates, then finally turns.
+
+For one quiet beat, they actually hold eye contact.
+
+Min-jae's frustration softens.
+
+**"It's been six months, Seo-jun."**
+
+### Camera / Page Composition
+
+Use a four-beat vertical manhwa progression:
+
+1. Seo-jun turned partly away — **"I'm not."**
+2. closer Min-jae, calm and direct — **"Then look at me."**
+3. silent eye-contact beat with both faces readable
+4. Min-jae holding the gaze — **"It's been six months, Seo-jun."**
+
+Let the eye-contact panel breathe. Do not fill every panel with dialogue.
 
 ### Emotional Beat
 
-Irritation breaks the polite distance.
+The argument becomes personal. Min-jae does not accuse Seo-jun with a speech; he simply asks him to look at him, and the six months of distance become visible in that one moment.
 
 ### Dialogue
 
-Use Scene 4.
+Use Scene 4 from `SCRIPT.md`.
 
 ### Continuity
 
-- Seo-jun's charcoal coat and Min-jae's dark navy overshirt hang on the wall hooks near the entrance and remain there through Image 16.
+- Direct continuation of Image 3.
+- Seo-jun's charcoal coat and Min-jae's navy overshirt are already hanging on the wall hooks near the entrance and remain there through Image 16.
 - Min-jae's packed travel bag remains beside the luggage bench.
 - Seo-jun's dark crossbody bag remains beside the chair near the window.
+- Rain continues outside.
 - No physical contact.
-- Distance remains several steps.
+- They remain several steps apart.
+- Do not depict the outerwear-removal action itself.
 
 ---
 
