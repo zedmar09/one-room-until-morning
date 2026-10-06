@@ -129,7 +129,7 @@ Medium two-shot using the seated-versus-standing level difference to reinforce t
 
 **MIN-JAE:** "Something honest."
 
-**SEO-JUN:** "You don't get to ask me for honesty the night before you leave."
+**SEO-JUN:** "You can’t ask for honesty the night before you leave."
 
 ## Continuity
 
