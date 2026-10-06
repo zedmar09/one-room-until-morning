@@ -36,9 +36,9 @@ Han Seo-jun and Yoo Min-jae are adult university students who stopped speaking a
 **Length:** 17 vertical images  
 **Ending:** Complete; no Part 2 or sequel hook required.
 
-## Source-of-Truth Order
+## Canonical Source-of-Truth Order
 
-Before generating any story image, read:
+These files are the **master sources used to build, audit, and update the per-image packets**:
 
 1. `characters/HAN_SEO_JUN.md`
 2. `characters/YOO_MIN_JAE.md`
@@ -54,16 +54,15 @@ The `generation/` folder contains **17 standalone Markdown files, one for each f
 
 Each `IMAGE_XX_*.md` file is designed to be sent to a separate image-generation thread and includes the character state, outfit, scenario, events, blocking, objects/props, camera, exact script, continuity, style, and hard constraints needed for that image.
 
-Recommended workflow:
+Recommended cross-thread workflow:
 
-1. Approve both character references first, then attach both approved character references to every story-image generation thread.
-2. For Images 2–17, attach the immediately previous approved story image as the continuity reference.
-3. For Image 7, additionally attach approved Image 5 to preserve the exact rooftop flashback look.
-4. Open the matching file under `generation/` and send that Markdown packet to the image-generation thread.
-5. Instruct the thread to generate only that image from the packet and required references.
-6. Approve the result before moving to the next numbered file.
+1. Approve both character references first and attach both to every story-image generation thread.
+2. Send the matching `generation/IMAGE_XX_*.md` packet.
+3. Attach the packet-specific story continuity image: Images 2–4 use the immediately previous image; Image 5 uses none; Image 6 uses Image 4; Image 7 uses Image 5 only; Image 8 uses Image 6; Images 9–17 use the immediately previous image.
+4. Instruct the thread to generate only that image from the packet and required references.
+5. Approve the result before moving to the next numbered file.
 
-Each per-image packet embeds the critical visual-style rules needed for cross-thread portability, so the packet plus its required reference images is the intended generation handoff.
+The five canonical source files above are **not required to be resent to each generation thread**. They are master files used to maintain and audit the portable packet. Each per-image packet embeds the exact scene instructions and critical visual-style rules needed for cross-thread generation.
 
 See `generation/README.md` for the full handoff workflow.
 
