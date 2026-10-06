@@ -73,7 +73,7 @@ Use this outfit for the entire storm-night sequence unless the storyboard explic
 - simple dark travel bag
 - minimal watch
 
-After entering the hotel, the damp dark navy overshirt may be removed. The muted black crew-neck T-shirt and dark trousers remain his canonical indoor outfit.
+Before Image 4 begins, the damp dark navy overshirt is removed and hung on the wall hooks near the hotel-room entrance to dry. The muted black crew-neck T-shirt and dark trousers remain his canonical indoor outfit through Image 16.
 
 By Image 17, the dark navy overshirt is dry and worn again because Min-jae is dressed to leave the hotel.
 
