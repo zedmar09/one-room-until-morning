@@ -72,7 +72,7 @@ Use this outfit for the entire storm-night sequence unless the storyboard explic
 - dark crossbody bag
 - minimal silver wristwatch
 
-After entering the hotel, the coat may be removed because it is damp. The crisp white button-up shirt and dark trousers remain the canonical indoor outfit.
+Before Image 4 begins, the damp charcoal coat is removed and hung on the wall hooks near the hotel-room entrance to dry. The crisp white button-up shirt and dark trousers remain the canonical indoor outfit through Image 16.
 
 By Image 17, the coat is dry and worn again because Seo-jun is dressed to leave the hotel.
 
