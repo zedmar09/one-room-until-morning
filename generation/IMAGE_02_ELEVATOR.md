@@ -101,12 +101,12 @@ Compact modern hotel elevator immediately after Image 1. Neutral metal or matte 
 
 - Seo-jun and Min-jae stand on opposite sides of the compact elevator with a clear strip of space between them.
 - Both still carry their own bags and still wear the same damp outer layers from approved Image 1.
-- Seo-jun briefly glances toward Min-jae.
-- Min-jae notices the glance and addresses him without moving closer.
-- Seo-jun immediately looks away and denies looking.
-- Min-jae answers with a restrained, knowing reaction rather than a smug grin.
-- The emotional movement is: **distance → glance → caught → look away → quiet knowing response**.
-- The tension should feel awkward, intimate, and restrained because of the enclosed space.
+- The elevator ride is quiet; the tension should come mostly from distance, glances, and silence.
+- Seo-jun briefly glances toward Min-jae, then looks away.
+- Min-jae notices and speaks first without moving closer.
+- Seo-jun answers defensively, still avoiding direct eye contact.
+- Min-jae's final line lands softly, with a small romantic sting rather than teasing too hard.
+- The emotional movement is: **distance → glance → caught → deflect → quiet hit**.
 - No physical contact and no flirtatious posing.
 
 ## Objects / Props
@@ -117,16 +117,16 @@ Compact modern hotel elevator immediately after Image 1. Neutral metal or matte 
 
 ## Camera / Composition
 
-Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights rather than one single static two-shot:
+Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights and more emphasis on gesture than dialogue:
 
-1. **Elevator establishing panel** — medium two-shot showing Seo-jun and Min-jae on opposite sides of the elevator. Keep both bags visible and preserve the height difference.
-2. **Seo-jun glance panel** — closer framing as Seo-jun briefly looks toward Min-jae. Min-jae says, **"You can still look at me, you know."**
-3. **Seo-jun reaction panel** — Seo-jun immediately turns his gaze away and replies, **"I wasn't looking."**
-4. **Min-jae response panel** — restrained close-up or medium-close reaction; calm, observant, slightly knowing but not smug. Min-jae says, **"Exactly."**
+1. **Elevator establishing panel** — medium two-shot showing Seo-jun and Min-jae on opposite sides of the elevator. Keep both bags visible and preserve the height difference. Let the silence and distance read first.
+2. **Glance panel** — closer framing as Seo-jun briefly looks toward Min-jae and Min-jae catches it. Min-jae says, **"Still keeping your distance?"**
+3. **Deflection panel** — Seo-jun immediately looks away and replies, **"I'm standing here, aren't I?"**
+4. **Final beat panel** — Min-jae gives a restrained, quiet response, calm and observant rather than smug. Min-jae says, **"Barely."**
 
-Keep gutters clean and phone-readable. Let the first panel establish geography, then tighten progressively for the dialogue beats.
+Keep gutters clean and phone-readable. Let the page breathe; do not overfill the panels with text.
 
-Do not crowd all three speech bubbles into one panel. Preserve a clear top-to-bottom reading order.
+Do not crowd all dialogue into one panel. Preserve a clear top-to-bottom reading order.
 
 Avoid mirror-maze compositions, duplicate reflected characters, or confusing reflective surfaces.
 
@@ -136,11 +136,11 @@ Avoid mirror-maze compositions, duplicate reflected characters, or confusing ref
 
 ## Exact Script
 
-**MIN-JAE:** "You can still look at me, you know."
+**MIN-JAE:** "Still keeping your distance?"
 
-**SEO-JUN:** "I wasn't looking."
+**SEO-JUN:** "I'm standing here, aren't I?"
 
-**MIN-JAE:** "Exactly."
+**MIN-JAE:** "Barely."
 
 ## Continuity
 
