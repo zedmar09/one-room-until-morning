@@ -29,11 +29,11 @@ Min-jae must read immediately as a **23-year-old adult man**, never as a teenage
 
 ## Anatomy / Proportions
 
-- Refined adult masculine manhwa anatomy.
+- Stylized adult masculine 2D manhwa anatomy.
 - Tall, lean frame with lightly athletic definition.
 - Broader shoulders than Seo-jun, but not bulky or bodybuilder-like.
 - Long, balanced adult proportions.
-- Natural hands and realistic limb proportions.
+- Clean stylized manhwa hands and believable adult manhwa limb proportions.
 - Upright, relaxed posture.
 - Avoid exaggerated muscles, oversized shoulders, tiny waist, fashion-model distortion, or adolescent proportions.
 
@@ -193,12 +193,20 @@ Do not use:
 
 ## Locked Visual Style
 
+### Non-Negotiable Medium Lock
+
+- **Flat 2D Korean manhwa/webtoon cartoon illustration only.**
+- Min-jae must look like a drawn manhwa character, not a real person.
+- No 3D, CGI, game-character rendering, photorealism, semi-realistic portrait painting, realistic skin texture, pores, subsurface scattering, or photographic lighting.
+- Use crisp linework, flat color blocks, simplified illustrated skin planes, and cel/soft-cel shadows.
+- Keep the face handsome and adult through stylized manhwa design, not through realistic portrait rendering.
+
 Match the project style exactly:
 
 - premium serialized Korean webtoon/manhwa finish
-- polished, visibly illustrated, non-photoreal
+- polished, visibly illustrated, flat 2D cartoon/manhwa, non-photoreal
 - crisp controlled fine-to-medium digital linework
-- refined adult masculine facial anatomy
+- stylized adult masculine manhwa facial anatomy
 - flat/cel or soft-cel coloring
 - controlled soft shadows
 - clear separation between light and shadow
@@ -259,7 +267,7 @@ Min-jae must always be visibly taller than Han Seo-jun, who is 175 cm.
 - No alternate hairstyle.
 - No flashy accessories.
 - No glossy rendering.
-- No photorealism.
+- No photorealism, semi-realistic portrait rendering, or 3D/CGI.
 
 ## Final Generation Instruction
 
@@ -275,6 +283,6 @@ Dress him exactly in his dry canonical present-day outfit:
 - black casual leather shoes
 - minimal watch
 
-Use a relaxed standing reference pose, simple neutral background, clean neutral lighting, and the project's locked **premium matte Korean webtoon/manhwa rendering style**.
+Use a relaxed standing reference pose, simple neutral background, clean neutral lighting, and the project's locked **premium flat 2D matte Korean webtoon/manhwa cartoon rendering style**.
 
 The result must be reusable as the **approved identity lock for Min-jae across every future story image**.
