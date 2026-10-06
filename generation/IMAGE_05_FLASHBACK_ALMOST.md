@@ -14,6 +14,53 @@ Generate **Image 5 only**. Do not advance the story beyond this file.
 
 **Do not generate this image if either approved character reference is missing.**
 
+## Reference Scope
+
+The approved character references are **identity locks only**.
+
+They lock only:
+- face
+- hair
+- skin tone
+- eye color
+- body proportions
+- height relationship
+- overall character identity
+
+They do **not** lock:
+- wardrobe
+- flashback outfit changes
+- outerwear on/off state
+- wet/dry state
+- bags
+- props
+- pose
+- framing
+- background
+- panel structure
+- camera angle
+- scene composition
+
+For this story image, the current packet is the **only authority** for:
+- wardrobe
+- wet/dry state
+- bags
+- props
+- blocking
+- pose
+- framing
+- background
+- panel structure
+- camera/composition
+- overall scene setup
+
+Do **not** carry over any solo reference-image rules into the story image. Specifically, do **not** carry over:
+- the solo standing reference pose
+- full-body character-sheet framing
+- neutral plain background
+- one-panel reference-sheet structure
+- bag exclusions from the solo reference briefs
+
 ## Output
 
 - One finished 9:16 vertical manhwa image.
@@ -103,4 +150,14 @@ This is the first half of the exact same flashback moment continued in Image 7. 
 
 ## Generation Command
 
-Generate **Image 5 — Flashback — Almost** exactly from this packet. Treat both approved character references as mandatory identity locks. Do not use a present-day story image as a visual continuity lock for this flashback. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
+Generate **Image 5 — Flashback — Almost** exactly from this packet.
+
+Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
+
+Do **not** use a present-day story image as a continuity lock for this flashback.
+
+This packet exclusively controls wardrobe, flashback outfit changes, wet/dry state, bags, props, blocking, pose, framing, background, panel structure, and scene composition.
+
+Do **not** carry over the solo reference-image pose, full-body framing, neutral background, one-panel structure, or bag exclusions into this story image.
+
+Do not redesign faces, hair, skin tone, eye color, body proportions, height relationship, or character identity.
