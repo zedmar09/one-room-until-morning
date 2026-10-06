@@ -99,13 +99,19 @@ First entrance into the modest hotel room. Warm lamp light against cool storm li
 
 ## Events / Blocking
 
-- They enter and register the single bed.
-- Seo-jun looks at the bed, then at Min-jae.
-- Seo-jun offers to take the floor.
-- Min-jae calls out Seo-jun's habit of running.
+- This is a direct continuation of the silent elevator tension from approved Image 2.
+- They enter the room still slightly aware of each other after the interrupted elevator eye contact.
+- They already know from Image 1 that the room has one bed. **Do not stage the bed as a surprise reveal.** The tension comes from finally being inside the room with that reality in front of them.
+- Seo-jun looks at the bed, then briefly toward Min-jae, then avoids his gaze.
+- Seo-jun creates distance by saying he will take the floor.
+- Min-jae reacts with restrained disbelief rather than teasing.
+- Seo-jun gives a short defensive **"What?"**
+- Min-jae quietly names the real issue: **"You're still avoiding me."**
+- The emotional movement is: **interrupted elevator tension → room entry → avoidance → Min-jae calls it out**.
 - During the scene, Min-jae places his travel bag beside the luggage bench and Seo-jun places his crossbody bag beside the chair near the window.
 - Both damp outer layers remain worn throughout Image 3.
 - **Do not depict either outer layer on the wall hooks in this image.** Their removal happens after Image 3 and is not shown.
+- No physical contact and no exaggerated embarrassment.
 
 ## Objects / Props
 
@@ -124,21 +130,38 @@ First entrance into the modest hotel room. Warm lamp light against cool storm li
 
 ## Camera / Composition
 
-Wide vertical establishing composition that clearly shows the single double bed and both men in the same frame.
+Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights. The page should feel natural, restrained, and slightly uncomfortable rather than melodramatic:
+
+1. **Room-entry establishing panel** — wide enough to lock the hotel-room geography. Show the entrance at near-left/rear, the double bed on the right half, the rain-streaked window on the far wall, chair/table near the window, and luggage bench at the foot of the bed. Both men enter still wearing damp outer layers. They already know there is one bed; show a quiet pause, not shock.
+2. **Seo-jun avoidance panel** — Seo-jun looks at the bed, briefly toward Min-jae, then away. He begins moving toward the side of the room or toward where he will place his bag. Dialogue: **"I'll take the floor."**
+3. **Min-jae reaction / bag-placement panel** — Min-jae places his travel bag beside the luggage bench and looks at Seo-jun with restrained disbelief. Dialogue: **"Seriously?"** Seo-jun answers without fully meeting his eyes: **"What?"**
+4. **Final emotional beat** — tighter Min-jae close-up or close two-shot. Calm, direct, no grin and no anger. Dialogue: **"You're still avoiding me."**
+
+Keep the first panel wider to establish geography, then tighten progressively.
+
+Use gestures as much as dialogue: eye direction, bag placement, Seo-jun turning away, Min-jae watching him, and the physical gap between them.
+
+Keep gutters clean and phone-readable. Do not crowd bubbles over faces, hands, bags, or the bed.
+
+Preserve clear top-to-bottom reading order.
 
 ## Exact Script
 
 **SEO-JUN:** "I'll take the floor."
 
-**MIN-JAE:** "You're still doing that?"
+**MIN-JAE:** "Seriously?"
 
-**SEO-JUN:** "Doing what?"
+**SEO-JUN:** "What?"
 
-**MIN-JAE:** "Running."
+**MIN-JAE:** "You're still avoiding me."
 
 ## Continuity
 
-Establish the locked hotel-room layout here. The two bag positions are established in this image and remain unchanged through Image 17. Outerwear removal occurs only after this image and must not be depicted.
+Direct continuation of approved Image 2. Carry forward the same damp outerwear, bags, hairstyles, storm-night lighting, and restrained emotional tension.
+
+Image 1 already established that there is only one bed, so Image 3 must **not** treat the bed as new information. This image establishes the physical reality of sharing the room and the locked hotel-room geography.
+
+The two bag positions are established in this image and remain unchanged through Image 17. Outerwear removal occurs only after this image and must not be depicted.
 
 ## Visual Style
 
@@ -152,6 +175,11 @@ Establish the locked hotel-room layout here. The two bag positions are establish
 - When detail conflicts with the flat manhwa look, **flat manhwa wins**.
 
 - Premium serialized Korean webtoon/manhwa finish; polished, flat 2D, cartoon/manhwa, and clearly non-photoreal.
+- Continue the approved Page 1–2 visual direction: **matte 2D surfaces, restrained cel shading, minimal reflections, and no glossy or hyper-rendered finish**.
+- Hotel furniture, floor, headboard, lamp, and window trim must remain illustrated and matte; no polished-floor reflections, mirror-like furniture, or photographic interior rendering.
+- Speech bubbles should use **clean organic manhwa/webtoon shapes with tapered tails, balanced padding, and phone-readable lettering**. Avoid generic oversized plain ovals.
+- Keep bubbles visually light so the room, bed, expressions, and hand gestures remain readable.
+- Keep panel gutters crisp and simple with varied panel heights.
 - 9:16 vertical composition for TikTok.
 - Crisp controlled fine-to-medium linework with stylized adult masculine manhwa anatomy.
 - Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
@@ -174,7 +202,7 @@ Establish the locked hotel-room layout here. The two bag positions are establish
 
 ## Generation Command
 
-Generate **Image 3 — One Bed** exactly from this packet.
+Generate **Image 3 — One Bed** exactly from this packet using the approved 4-beat vertical manhwa pacing, natural gesture-led acting, organic manhwa speech bubbles, and matte flat-2D rendering direction established by Pages 1–2.
 
 Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
 
