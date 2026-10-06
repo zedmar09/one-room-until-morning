@@ -7,6 +7,7 @@ A standalone short-form adult Boys' Love manhwa project designed for sequential 
 ```
 one-room-until-morning/
 ├── README.md
+├── RELEASE_CHECKLIST.md
 ├── characters/
 │   ├── HAN_SEO_JUN.md
 │   └── YOO_MIN_JAE.md
