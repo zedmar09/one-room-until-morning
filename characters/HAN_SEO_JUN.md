@@ -8,6 +8,13 @@
 **Height:** 175 cm  
 **Build:** Slim, graceful, lightly toned, clearly adult and masculine
 
+## Rendering Identity
+
+- Flat **2D Korean manhwa/webtoon cartoon character** only.
+- Keep the character visibly illustrated with crisp linework, flat color blocks, and cel/soft-cel shading.
+- Do not render as a real person, semi-realistic portrait, 3D/CGI model, or game character.
+- No photoreal skin, pores, subsurface scattering, or volumetric 3D anatomy.
+
 ## Face
 
 - Fair, clear skin
