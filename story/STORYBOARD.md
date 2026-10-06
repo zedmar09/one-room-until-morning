@@ -364,7 +364,7 @@ Treat Image 11 as **three clean vertically stacked manhwa panels inside one 9:16
 - dialogue: **"I should've asked you that night." / "Asked what?" / "If you wanted me closer."**
 
 **Panel C — Emotional Turn**
-- Min-jae begins to lean or step back
+- Min-jae takes one small step back
 - Seo-jun holds his gaze instead of physically restraining him
 - dialogue: **"And if I did?" / "I would've stayed." / "Then stop stepping away now."**
 
@@ -398,7 +398,7 @@ Use Scene 11.
 
 ### Scene
 
-Seo-jun's **"Then stop stepping away now"** leaves Min-jae still.
+Seo-jun's **"Then stop stepping away now."** leaves Min-jae still.
 
 Min-jae checks him one last time:
 
@@ -493,7 +493,7 @@ Seo-jun does not look away.
 
 ### Camera
 
-Tight face-to-face close-up or chest-up two-shot.
+Tight chest-up face-to-face two-shot with both faces and Seo-jun's hand gripping Min-jae's T-shirt visible.
 
 Keep their lips apart. This image is anticipation, not the kiss.
 
@@ -523,9 +523,9 @@ The kiss is mutual, restrained, and emotionally intense after six months of avoi
 
 ### Camera
 
-Tasteful medium close-up, profile or three-quarter angle.
+Tasteful medium close-up from a three-quarter angle.
 
-Focus on faces and restrained hand placement. No bed staging.
+Focus on both faces, Seo-jun closing the final distance, and restrained hand placement. No bed staging.
 
 ### Emotional Beat
 
@@ -590,7 +590,7 @@ Use Scene 16.
 - Both remain fully dressed.
 - No additional kissing or sexual escalation.
 - Min-jae's check-in must feel sincere, not teasing.
-- Seo-jun's "No" is immediate and clear.
+- Seo-jun's **"No."** is immediate and clear.
 - The scene should transition naturally from romantic climax into emotional vulnerability.
 
 ---
