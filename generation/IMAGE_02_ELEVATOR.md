@@ -65,8 +65,9 @@ Do **not** carry over any solo reference-image rules into the story image. Speci
 ## Output
 
 - One finished 9:16 vertical manhwa image.
-- Include the exact dialogue/narration below unless the user explicitly requests a textless version.
-- Do not paraphrase, shorten, expand, or invent dialogue.
+- **No spoken dialogue and no narration on Image 2.**
+- Do not add speech bubbles or caption boxes.
+- A single subtle elevator sound effect such as **DING** may be used if it strengthens the final beat.
 - Preserve continuity exactly.
 
 ## Characters
@@ -101,13 +102,15 @@ Compact modern hotel elevator immediately after Image 1. Neutral metal or matte 
 
 - Seo-jun and Min-jae stand on opposite sides of the compact elevator with a clear strip of space between them.
 - Both still carry their own bags and still wear the same damp outer layers from approved Image 1.
-- The elevator ride is quiet; the tension should come mostly from distance, glances, and silence.
-- Seo-jun briefly glances toward Min-jae, then looks away.
-- Min-jae notices and speaks first without moving closer.
-- Seo-jun answers defensively, still avoiding direct eye contact.
-- Min-jae's final line lands softly, with a small romantic sting rather than teasing too hard.
-- The emotional movement is: **distance → glance → caught → deflect → quiet hit**.
-- No physical contact and no flirtatious posing.
+- The elevator ride is quiet. Let the tension come from **distance, glances, hands, posture, and silence**, not dialogue.
+- Seo-jun keeps his eyes forward at first, one hand lightly holding or adjusting the strap of his crossbody bag.
+- He gives Min-jae one brief sideways glance.
+- Min-jae notices. Do not make him grin or tease; his reaction is small and restrained.
+- Their eyes meet for only a beat.
+- Seo-jun is the first to look away, subtly tightening his grip on the bag strap or shifting his posture.
+- Just as the silence becomes charged, the elevator arrives and the chime breaks the moment.
+- Emotional movement: **distance → accidental awareness → eye contact → retreat → interrupted tension**.
+- No physical contact, no overt flirting, and no exaggerated expressions.
 
 ## Objects / Props
 
@@ -117,30 +120,26 @@ Compact modern hotel elevator immediately after Image 1. Neutral metal or matte 
 
 ## Camera / Composition
 
-Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights and more emphasis on gesture than dialogue:
+Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights. This page should read primarily through gesture and visual timing:
 
-1. **Elevator establishing panel** — medium two-shot showing Seo-jun and Min-jae on opposite sides of the elevator. Keep both bags visible and preserve the height difference. Let the silence and distance read first.
-2. **Glance panel** — closer framing as Seo-jun briefly looks toward Min-jae and Min-jae catches it. Min-jae says, **"Still keeping your distance?"**
-3. **Deflection panel** — Seo-jun immediately looks away and replies, **"I'm standing here, aren't I?"**
-4. **Final beat panel** — Min-jae gives a restrained, quiet response, calm and observant rather than smug. Min-jae says, **"Barely."**
+1. **Quiet establishing panel** — medium two-shot. Seo-jun and Min-jae stand apart on opposite sides of the elevator. Both bags visible. Let the empty space between them be noticeable.
+2. **Seo-jun glance panel** — closer crop on Seo-jun. His eyes shift toward Min-jae while his face remains controlled. His hand lightly holds the crossbody strap.
+3. **Caught glance panel** — Min-jae notices. Use either a close two-shot or paired close framing so their eyes meet briefly. Min-jae stays calm; Seo-jun's composure tightens.
+4. **Interrupted moment panel** — Seo-jun looks away just as the elevator reaches the floor. The doors begin to open or the arrival indicator/chime interrupts the silence. Optional small manhwa SFX: **DING**.
 
-Keep gutters clean and phone-readable. Let the page breathe; do not overfill the panels with text.
+Keep gutters clean and phone-readable. Let the panels breathe and use facial micro-expressions, eye direction, hand tension, and negative space as the storytelling.
 
-Do not crowd all dialogue into one panel. Preserve a clear top-to-bottom reading order.
+**Do not add speech bubbles. Do not add dialogue. Do not add narration.**
 
 Avoid mirror-maze compositions, duplicate reflected characters, or confusing reflective surfaces.
 
-## Narration
+## Text / Sound
 
-**No narration on Image 2.** Do not add a caption box or explanatory text. Image 1 already established the storm, hotel, and why they are there.
-
-## Exact Script
-
-**MIN-JAE:** "Still keeping your distance?"
-
-**SEO-JUN:** "I'm standing here, aren't I?"
-
-**MIN-JAE:** "Barely."
+- **No dialogue.**
+- **No narration.**
+- **No speech bubbles or caption boxes.**
+- Optional: one small elevator arrival SFX, **DING**, in a natural manhwa sound-effect style.
+- Do not add any other text.
 
 ## Continuity
 
@@ -161,7 +160,7 @@ Direct continuation of Image 1. Same damp outerwear, bags, hairstyles, and storm
 - Continue the approved Image 1 visual direction: **matte 2D surfaces, restrained cel shading, minimal reflections, and no glossy or hyper-rendered finish**.
 - Elevator walls should read as matte or softly brushed metal with only subtle controlled tonal variation.
 - **Do not create mirror-like walls, floor reflections, duplicate character reflections, polished-metal glare, or photographic specular highlights.**
-- Speech bubbles should use **clean organic manhwa/webtoon shapes with clear tapered tails, balanced padding, and phone-readable lettering**. Avoid generic oversized plain ovals.
+- **Image 2 uses no speech bubbles.** If the optional **DING** is used, render it as small integrated manhwa SFX lettering rather than a speech bubble.
 - Keep the panel gutters crisp and simple, with no decorative effects competing with the faces.
 - 9:16 vertical composition for TikTok.
 - Crisp controlled fine-to-medium linework with stylized adult masculine manhwa anatomy.
@@ -178,7 +177,7 @@ Direct continuation of Image 1. Same damp outerwear, bags, hairstyles, and storm
 
 ## Hard Constraints
 
-- Do not add extra dialogue or narration beyond the exact script; Image 2 has no narration.
+- **Do not add any spoken dialogue, speech bubbles, or narration.**
 - Do not add extra characters, props, clothing changes, or decorative effects.
 - Keep intimacy consensual and non-explicit.
 - No nudity, groping, fetishized framing, or sexualized bed staging.
@@ -186,7 +185,7 @@ Direct continuation of Image 1. Same damp outerwear, bags, hairstyles, and storm
 
 ## Generation Command
 
-Generate **Image 2 — Elevator** exactly from this packet, using the approved 4-beat vertical manhwa pacing, organic manhwa speech bubbles, and matte flat-2D rendering direction established by approved Image 1.
+Generate **Image 2 — Elevator** exactly from this packet, using the approved 4-beat vertical manhwa pacing, gesture-driven silent storytelling, and matte flat-2D rendering direction established by approved Image 1. Do not add dialogue, speech bubbles, or narration.
 
 Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
 
