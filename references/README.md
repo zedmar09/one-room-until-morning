@@ -20,7 +20,11 @@ The rendering, lighting, finish, and quality requirements are written directly i
 5. Revise until his face, hair, proportions, and canonical story outfit are approved.
 6. Save the approved image as `min-jae-reference.png`.
 7. Only after both references are locked, begin story Image 1.
-8. For every story image, use the approved character references together with the character files, style guide, script, and storyboard.
+8. For every story image, attach both approved character references together with the matching `../generation/IMAGE_XX_*.md` packet and the continuity image specified by that packet. The character files, style guide, script, and storyboard are master sources used to build/audit the packet; they do not need to be resent to each generation thread.
+
+## Current Status
+
+Until `seo-jun-reference.png` and `min-jae-reference.png` are actually generated and approved, this folder is specification-ready but **not story-generation-ready**. Do not create placeholder files or treat unapproved images as locked references.
 
 ## Important
 
