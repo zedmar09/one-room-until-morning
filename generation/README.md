@@ -5,13 +5,18 @@ These files are built for the workflow where **each image is generated in a sepa
 For each image:
 
 1. Attach **both approved character references**: `seo-jun-reference.png` and `min-jae-reference.png`. These are mandatory identity locks.
-2. For Images **2–17**, also attach the immediately previous approved story image as a continuity lock.
-3. For **Image 7**, attach both approved **Image 6** and approved **Image 5**; Image 5 is required to preserve the exact rooftop flashback appearance and environment.
-4. Send the matching `IMAGE_XX_*.md` packet to the generation thread.
-5. Ask: **"Generate this image exactly from the attached packet, required character references, and continuity image(s). Generate one image only."**
-6. Approve the result before moving to the next numbered packet.
+2. Attach the story-image continuity reference specified by the packet:
+   - Images **2–4**: immediately previous approved image.
+   - Image **5**: no story-image continuity reference; start the flashback from the packet + character references.
+   - Image **6**: approved **Image 4**.
+   - Image **7**: approved **Image 5 only**.
+   - Image **8**: approved **Image 6**.
+   - Images **9–17**: immediately previous approved image.
+3. Send the matching `IMAGE_XX_*.md` packet to the generation thread.
+4. Ask: **"Generate this image exactly from the attached packet, required character references, and specified continuity image. Generate one image only."**
+5. Approve the result before moving to the next numbered packet.
 
-Do not generate a story image before both character references are approved. Do not generate Images 2–17 without their required prior approved continuity image(s).
+Do not generate a story image before both character references are approved. Follow the packet-specific continuity map exactly; do not attach a visually conflicting present-day image to a flashback packet or vice versa.
 
 Each packet is intentionally self-contained and includes:
 - required attachment instructions
