@@ -33,13 +33,13 @@ The scene is carried entirely by distance, glances, restrained body language, an
 "I'll take the floor."
 
 **MIN-JAE:**  
-"You're still doing that?"
+"Seriously?"
 
 **SEO-JUN:**  
-"Doing what?"
+"What?"
 
 **MIN-JAE:**  
-"Running."
+"You're still avoiding me."
 
 ---
 
