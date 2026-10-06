@@ -16,6 +16,12 @@ one-room-until-morning/
 ├── story/
 │   ├── SCRIPT.md
 │   └── STORYBOARD.md
+├── generation/
+│   ├── README.md
+│   ├── IMAGE_01_LAST_ROOM.md
+│   ├── IMAGE_02_ELEVATOR.md
+│   ├── ...
+│   └── IMAGE_17_ONE_MORE_MORNING.md
 └── references/
     └── README.md
 ```
@@ -41,6 +47,22 @@ Before generating any story image, read:
 5. `story/STORYBOARD.md`
 
 Approved character reference images may be added later under `references/`. They are visual continuity aids only. No external manhwa inspiration artwork is stored in this repository.
+
+## Per-Image Generation Packets
+
+The `generation/` folder contains **17 standalone Markdown files, one for each final image**.
+
+Each `IMAGE_XX_*.md` file is designed to be sent to a separate image-generation thread and includes the character state, outfit, scenario, events, blocking, objects/props, camera, exact script, continuity, style, and hard constraints needed for that image.
+
+Recommended workflow:
+
+1. Approve and attach the character reference images.
+2. Open the matching file under `generation/`.
+3. Send that single Markdown file to the image-generation thread.
+4. Instruct the thread to generate only that image from the packet and attached references.
+5. Approve the result before moving to the next numbered file.
+
+See `generation/README.md` for the full handoff workflow.
 
 ## Commands
 
