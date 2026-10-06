@@ -89,9 +89,18 @@ Return to present. Outerwear remains on hooks; bags fixed; rain continues.
 
 ## Visual Style
 
-- Premium serialized Korean webtoon/manhwa finish; polished, illustrated, and clearly non-photoreal.
+### Non-Negotiable Medium Lock
+
+- **Flat 2D Korean manhwa/webtoon cartoon illustration only.**
+- Characters must look visibly drawn, not like real photographed people.
+- No 3D/CGI, game-character rendering, photorealism, or semi-realistic portrait painting.
+- No realistic skin pores, subsurface scattering, photographic skin texture, or volumetric 3D musculature.
+- Use crisp linework, flat color blocks, simplified illustrated skin planes, and cel/soft-cel shadows.
+- When detail conflicts with the flat manhwa look, **flat manhwa wins**.
+
+- Premium serialized Korean webtoon/manhwa finish; polished, flat 2D, cartoon/manhwa, and clearly non-photoreal.
 - 9:16 vertical composition for TikTok.
-- Crisp controlled fine-to-medium linework with refined adult masculine anatomy.
+- Crisp controlled fine-to-medium linework with stylized adult masculine manhwa anatomy.
 - Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
 - Flat/cel or soft-cel coloring with controlled soft shadows, clear light/shadow separation, and only limited intentional gradients.
 - Matte skin and matte fabric. No glossy, oily, plastic, wet-look, or pore-level photoreal skin.
