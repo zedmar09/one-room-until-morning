@@ -11,10 +11,13 @@ Generate **Seo-jun only**.
 ## Output
 
 - One finished **9:16 vertical** character reference image.
-- Full-body or near-full-body framing is preferred while keeping the face clearly readable.
+- **Exactly one single full-body standing figure in one panel.**
+- Show Seo-jun completely from **head to shoes**, with no body part cropped.
+- Face must remain clearly readable at full-body scale.
+- No collage, multi-panel sheet, turnaround views, expression grid, detail inset, anatomy view, duplicate figure, alternate pose, or alternate outfit.
 - Clean premium Korean webtoon/manhwa character-reference presentation.
 - No dialogue, captions, labels, logo, story action, or decorative text.
-- Use a simple neutral background.
+- Use one plain **soft light-gray** background.
 - Clothing is **dry, clean, opaque, matte, and non-clingy**.
 
 ## Character Identity
@@ -33,7 +36,7 @@ Seo-jun must read immediately as a **22-year-old adult man**, never as a teenage
 - Slim, graceful frame with light tone rather than visible bulk.
 - Narrower shoulders and smaller overall frame than Min-jae.
 - Balanced adult torso and limb proportions.
-- Clean stylized manhwa hands with believable adult proportions.
+- Clean stylized manhwa hands with consistent adult manhwa proportions.
 - Controlled upright posture.
 - Avoid fragile, childlike, overly feminine, hyper-thin, or adolescent proportions.
 
@@ -125,42 +128,28 @@ Use Seo-jun's **locked present-day story outfit** in a dry, clean state:
 
 ## Pose
 
-Use a simple reusable character-reference pose:
+Use this **exact single reference pose**:
 
-- relaxed upright standing pose
-- controlled body language
-- shoulders relaxed, not slouched
-- hands naturally visible
-- one arm resting at side
-- other arm naturally relaxed or lightly bent
-- slightly restrained presence rather than performative confidence
+- full-body standing
+- body turned only slightly to a three-quarter angle
+- head facing the viewer
+- shoulders relaxed and level
+- both arms resting naturally at the sides
+- both hands fully visible and unobstructed
+- legs straight with a natural narrow stance
+- both shoes fully visible
+- neutral, controlled posture
 
-The pose should clearly show:
-- face
-- hairstyle
-- slim adult build
-- coat silhouette
-- white shirt
-- trousers
-- footwear
-- overall proportions
+The pose must clearly show the face, hairstyle, slim adult build, coat silhouette, white shirt, trousers, footwear, and overall proportions.
 
-Do not use:
-- dramatic action pose
-- romantic pose
-- exaggerated shy pose
-- crossed-arm hostile pose
-- fashion-editorial contortion
-- seated pose
+Do not use any alternate pose, dramatic action, romantic pose, exaggerated shy pose, crossed arms, fashion-editorial contortion, seated pose, or hands hidden in pockets.
 
 ## Background
 
-Use a **simple neutral reference background**:
+Use **one plain soft light-gray background only**.
 
-Preferred:
-- soft light gray
-- soft warm gray
-- extremely subtle neutral gradient
+- No gradient strong enough to read as an environment.
+- No floor texture, scenery, props, or decorative framing.
 
 Do not use:
 - hotel room
@@ -178,9 +167,10 @@ Use clean neutral reference lighting:
 
 - soft and even
 - face fully readable
-- controlled cel/soft-cel shadowing
-- subtle cheek, jaw, and neck shadows
+- depth created **only through simple cel/soft-cel shadow shapes**
+- simple graphic cheek, jaw, neck, and clothing shadow shapes
 - matte finish
+- **no volumetric rendering or realistic light transport**
 - no dramatic scene lighting
 
 Do not use:
@@ -217,11 +207,11 @@ Match the project style exactly:
 - matte skin
 - matte fabric
 - clean color blocks
-- natural cloth folds
+- simplified illustrated cloth-fold shapes
 - restrained edge highlights
 - expressive eyes with small controlled catchlights
 - selected natural hair strands
-- consistent believable facial identity
+- consistent stylized facial identity
 
 Avoid:
 - generic same-face anime appearance
@@ -285,6 +275,6 @@ Dress him exactly in his dry canonical present-day outfit:
 - simple black leather shoes
 - minimal silver wristwatch
 
-Use a relaxed upright reference pose, simple neutral background, clean neutral lighting, and the project's locked **premium flat 2D matte Korean webtoon/manhwa cartoon rendering style**.
+Use the exact single full-body three-quarter standing pose, plain soft light-gray background, simple cel/soft-cel reference lighting with no volumetric rendering, and the project's locked **premium flat 2D matte Korean webtoon/manhwa cartoon rendering style**.
 
 The result must be reusable as the **approved identity lock for Seo-jun across every future story image**.
