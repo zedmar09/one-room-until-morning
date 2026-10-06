@@ -46,13 +46,13 @@ The scene is carried entirely by distance, glances, restrained body language, an
 ## Scene 4 — Six Months
 
 **SEO-JUN:**  
-"I didn't run."
+"I'm not."
 
 **MIN-JAE:**  
-"Six months without speaking to me."
+"Then look at me."
 
 **MIN-JAE:**  
-"What would you call it?"
+"It's been six months, Seo-jun."
 
 ---
 
