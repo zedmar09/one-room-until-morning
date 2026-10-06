@@ -149,13 +149,12 @@ Min-jae must always be visibly taller than Han Seo-jun.
 When generating Min-jae's approved reference image:
 
 - generate Min-jae alone
-- simple neutral background
-- no dialogue
-- no story action
-- no dramatic effects
-- use his canonical story outfit in a dry, clean state
-- clearly show his face
-- include a clean portrait or three-quarter view
-- optionally include a full-body view if composition permits
-- use the project's flat, premium manhwa rendering rules
-- prioritize a reusable, recognizable character design over a dramatic poster pose
+- use the canonical present-day **clothing and wearable accessories only** in a dry, clean state
+- include: dark navy overshirt worn open, muted black crew-neck T-shirt, dark charcoal trousers, black casual leather shoes, minimal watch
+- **exclude the simple dark travel bag** from the solo identity reference; it remains a story prop, not part of the reference silhouette
+- use one single full-body standing figure, head to shoes visible, in one panel
+- simple soft light-gray neutral background
+- no dialogue, labels, captions, logo, story action, or dramatic effects
+- no collage, turnaround sheet, expression grid, alternate pose, detail inset, or alternate outfit
+- use the project's flat 2D premium manhwa rendering rules
+- prioritize a reusable, recognizable character identity lock
