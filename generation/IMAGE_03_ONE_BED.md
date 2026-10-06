@@ -2,9 +2,17 @@
 
 ## Purpose
 
-This file is a **self-contained generation packet** for one image of *One Room Until Morning*. Send this file to the image-generation thread together with the approved character reference images when available.
+This file is a **self-contained generation packet** for one image of *One Room Until Morning*. Use it in a separate image-generation thread together with the **required approved character reference images**.
 
 Generate **Image 3 only**. Do not advance the story beyond this file.
+
+## Required Attachments
+
+- `seo-jun-reference.png` — **required identity lock**.
+- `min-jae-reference.png` — **required identity lock**.
+- Approved **Image 2** — required continuity reference for the immediately preceding story state.
+
+**Do not generate this image if either approved character reference is missing.** For Images 2–17, do not generate without the required prior approved story image reference(s).
 
 ## Output
 
@@ -47,8 +55,9 @@ First entrance into the modest hotel room. Warm lamp light against cool storm li
 - Seo-jun looks at the bed, then at Min-jae.
 - Seo-jun offers to take the floor.
 - Min-jae calls out Seo-jun's habit of running.
-- During/after the scene, Min-jae places his travel bag beside the luggage bench and Seo-jun places his crossbody bag beside the chair.
-- Before Image 4 begins, both damp outer layers are removed and hung on the entrance wall hooks.
+- During the scene, Min-jae places his travel bag beside the luggage bench and Seo-jun places his crossbody bag beside the chair near the window.
+- Both damp outer layers remain worn throughout Image 3.
+- **Do not depict either outer layer on the wall hooks in this image.** Their removal happens after Image 3 and is not shown.
 
 ## Objects / Props
 
@@ -61,9 +70,9 @@ First entrance into the modest hotel room. Warm lamp light against cool storm li
 - One bedside table with warm lamp: outer side of bed.
 - Min-jae's travel bag: beside luggage bench.
 - Seo-jun's crossbody bag: beside chair near window.
-- Images 4–16: Seo-jun's charcoal coat and Min-jae's navy overshirt hang on wall hooks near entrance.
-- From end of Image 11 onward: clean hotel towel rests on luggage bench and is not held again.
-- At image opening, both outer layers are still being worn.
+- Wall hooks near the entrance are part of the room, but they are empty in Image 3.
+- No hotel towel continuity prop is present yet.
+- Both outer layers remain worn for the entire visible Image 3 scene.
 
 ## Camera / Composition
 
@@ -81,18 +90,23 @@ Wide vertical establishing composition that clearly shows the single double bed 
 
 ## Continuity
 
-Establish the locked hotel-room layout here. Bag positions chosen here must remain unchanged through Image 17.
+Establish the locked hotel-room layout here. The two bag positions are established in this image and remain unchanged through Image 17. Outerwear removal occurs only after this image and must not be depicted.
 
 ## Visual Style
 
-- Premium serialized Korean webtoon/manhwa finish.
+- Premium serialized Korean webtoon/manhwa finish; polished, illustrated, and clearly non-photoreal.
 - 9:16 vertical composition for TikTok.
-- Crisp controlled linework; refined adult masculine anatomy.
-- Flat/cel coloring with controlled soft shadows.
-- Matte skin, matte fabric, restrained hair highlights.
-- No glossy/oily/plastic skin, no bloom, no neon rim light, no 3D or photoreal finish.
-- Keep faces, hands, and speech bubbles away from extreme top/bottom UI zones.
+- Crisp controlled fine-to-medium linework with refined adult masculine anatomy.
+- Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
+- Flat/cel or soft-cel coloring with controlled soft shadows, clear light/shadow separation, and only limited intentional gradients.
+- Matte skin and matte fabric. No glossy, oily, plastic, wet-look, or pore-level photoreal skin.
+- Hair must use clean major masses with selected natural strands and narrow soft highlights only; no broad white reflection bands, metallic shine, or wet/plastic hair.
+- Eyes should be expressive but not oversized, with subtle iris variation and small controlled catchlights; no glass-orb shine.
+- Use the project's restrained palette: charcoal, black, dark navy, warm white, muted amber, storm blue-gray, and soft morning gray-blue where appropriate.
+- Lighting must follow this packet's Scenario and Continuity exactly. Do not add bloom, character glow, strong lens flare, neon rim lighting, or overexposed highlights.
+- Keep faces, hands, and speech bubbles away from extreme top/bottom TikTok UI zones.
 - Seo-jun must remain visibly shorter than Min-jae.
+
 
 ## Hard Constraints
 
@@ -103,4 +117,4 @@ Establish the locked hotel-room layout here. Bag positions chosen here must rema
 
 ## Generation Command
 
-Generate **Image 3 — One Bed** exactly from this packet. Treat the approved character references, if attached, as identity locks. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
+Generate **Image 3 — One Bed** exactly from this packet. Treat both approved character references as mandatory identity locks and the required prior approved story image(s) as continuity locks. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
