@@ -9,6 +9,13 @@ Use this checklist before freezing the repository for image generation.
 - [ ] Image 11–17 dialogue order is unchanged and final.
 - [ ] Scene 15 narration and Scene 17 final line match the script exactly.
 
+## Rendering Medium
+
+- [ ] Every reference and story packet explicitly requires **flat 2D Korean manhwa/webtoon cartoon rendering**.
+- [ ] No file permits 3D/CGI, game-character rendering, photorealism, semi-realistic portrait painting, lifelike skin texture, pores, or photographic skin lighting.
+- [ ] Anatomy remains stylized adult manhwa anatomy rather than realistic 3D anatomy.
+- [ ] Skin, hair, clothing, and environments remain visibly illustrated with flat/cel or soft-cel treatment.
+
 ## Outfits
 
 - [ ] Present-day outfits match both character files in every hotel image.
