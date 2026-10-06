@@ -22,13 +22,13 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 ## Scene 2 — Elevator
 
 **MIN-JAE:**  
-"You can still look at me, you know."
+"Still keeping your distance?"
 
 **SEO-JUN:**  
-"I wasn't looking."
+"I'm standing here, aren't I?"
 
 **MIN-JAE:**  
-"Exactly."
+"Barely."
 
 ---
 
