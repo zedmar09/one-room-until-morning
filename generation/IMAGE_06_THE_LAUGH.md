@@ -10,9 +10,9 @@ Generate **Image 6 only**. Do not advance the story beyond this file.
 
 - `seo-jun-reference.png` — **required identity lock**.
 - `min-jae-reference.png` — **required identity lock**.
-- Approved **Image 5** — required continuity reference for the immediately preceding story state.
+- Approved **Image 4** — required continuity reference for the present-day hotel-room state before the flashback.
 
-**Do not generate this image if either approved character reference is missing.** For Images 2–17, do not generate without the required prior approved story image reference(s).
+**Do not generate this image if either approved character reference is missing.** Do not generate without approved Image 4 as the present-day continuity reference.
 
 ## Output
 
@@ -112,4 +112,4 @@ Return to present. Outerwear remains on hooks; bags fixed; rain continues.
 
 ## Generation Command
 
-Generate **Image 6 — The Laugh** exactly from this packet. Treat both approved character references as mandatory identity locks and the required prior approved story image(s) as continuity locks. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
+Generate **Image 6 — The Laugh** exactly from this packet. Treat both approved character references as mandatory identity locks and approved Image 4 as the present-day hotel continuity lock. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
