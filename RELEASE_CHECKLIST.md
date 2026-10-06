@@ -57,8 +57,8 @@ Use this checklist before freezing the repository for image generation.
 - [ ] Every packet's events, blocking, camera, props, timing, and outfit state match `story/STORYBOARD.md` and the character files.
 - [ ] Every packet embeds the project's critical visual-style locks and remains consistent with `style/VISUAL_STYLE_GUIDE.md`.
 - [ ] Every packet requires both approved character reference images.
-- [ ] Images 2–17 require the immediately previous approved story image as a continuity reference.
-- [ ] Image 7 additionally requires approved Image 5 for rooftop flashback continuity.
+- [ ] Packet continuity references follow the locked map: Images 2–4 use the immediately previous image; Image 5 uses no story-image reference; Image 6 uses Image 4; Image 7 uses Image 5 only; Image 8 uses Image 6; Images 9–17 use the immediately previous image.
+- [ ] No flashback packet is given a conflicting present-day continuity image, and no return-to-present packet is given a flashback image as its primary continuity lock.
 - [ ] Image 3 does not visually advance into the Image 4 outerwear-removal state.
 - [ ] Image 15 renders the narration as caption text only and never displays a `NARRATION` label.
 - [ ] Any future canonical story/style change triggers re-audit or regeneration of the affected image packet(s).
