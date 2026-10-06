@@ -132,7 +132,7 @@ Han Seo-jun is 22. Yoo Min-jae is 23. Both are adult university students.
 "Something honest."
 
 **SEO-JUN:**  
-"You don't get to ask me for honesty the night before you leave."
+"You can’t ask for honesty the night before you leave."
 
 ---
 
