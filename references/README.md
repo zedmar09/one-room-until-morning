@@ -16,6 +16,10 @@ Do not store external manhwa inspiration/reference artwork here.
 
 The rendering, lighting, finish, and quality requirements are written directly in `../style/VISUAL_STYLE_GUIDE.md`.
 
+## Reference Rendering Medium
+
+Both character references must be **flat 2D Korean manhwa/webtoon cartoon illustrations**. They must not look like real people, semi-realistic portraits, 3D/CGI models, or game characters. Use the exact flat/cel manhwa rendering rules in the two reference briefs and the visual style guide.
+
 ## Workflow
 
 1. Generate Han Seo-jun alone using `SEO_JUN_REFERENCE_BRIEF.md`.
