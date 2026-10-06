@@ -59,25 +59,29 @@ Use Scene 1 from `SCRIPT.md`.
 
 Seo-jun and Min-jae stand on opposite sides of a compact elevator. Their damp hair and clothes show they have just escaped the rain.
 
-Min-jae notices Seo-jun glance toward him and then immediately look away.
+The scene is silent. Seo-jun briefly glances toward Min-jae. Min-jae notices, and their eyes meet for only a beat. Seo-jun looks away first, his hand subtly tightening on his bag strap.
+
+The elevator chime interrupts the charged silence just as the moment begins to linger.
 
 ### Camera
 
-Tight vertical two-shot using the enclosed elevator space to create proximity.
+Four-beat vertical manhwa progression: distant two-shot → Seo-jun glance close-up → brief caught-eye-contact beat → arrival/chime interruption.
 
 ### Emotional Beat
 
-Unwanted awareness of each other.
+Unwanted awareness becoming a small, unmistakably romantic tension without either of them saying anything.
 
 ### Dialogue
 
-Use Scene 2.
+**No dialogue. No narration.** Optional small elevator SFX: **DING**.
 
 ### Continuity
 
 - Both still wear outer layers.
 - Bags remain with them.
 - Do not make the elevator highly reflective.
+- No physical contact.
+- Keep the attraction restrained and expressed through gaze, posture, hand tension, and silence.
 
 ---
 
