@@ -48,6 +48,10 @@ These files are the **master sources used to build, audit, and update the per-im
 
 Both character reference images must be generated, approved, and locked under `references/` before story Image 1 is generated. They are mandatory identity locks for every per-image generation thread. No external manhwa inspiration artwork is stored in this repository.
 
+## Rendering Medium Lock
+
+All character references and story images must use a **flat 2D Korean manhwa/webtoon cartoon style**. Characters must remain visibly drawn and cel/soft-cel shaded—not realistic people, not semi-realistic digital portraits, not 3D/CGI models, and not photorealistic renders. This is a non-negotiable project-wide generation rule.
+
 ## Per-Image Generation Packets
 
 The `generation/` folder contains **17 standalone Markdown files, one for each final image**.
@@ -83,6 +87,7 @@ See `generation/README.md` for the full handoff workflow.
 - Use the exact dialogue in `story/SCRIPT.md`.
 - Use `story/STORYBOARD.md` for camera, blocking, expressions, location, and continuity.
 - Use a vertical 9:16 composition.
+- Render characters as flat 2D manhwa/cartoon illustrations only; never 3D, CGI, photoreal, or semi-realistic.
 - Keep critical faces and dialogue away from extreme TikTok UI zones.
 - Maintain the progression from stormy night to soft morning.
 - The characters are adults: Seo-jun is 22 and Min-jae is 23.
