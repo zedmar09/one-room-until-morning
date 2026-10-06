@@ -4,13 +4,17 @@ These files are built for the workflow where **each image is generated in a sepa
 
 For each image:
 
-1. Attach the relevant approved character reference image(s), once they exist.
-2. Send **only the matching `IMAGE_XX_*.md` packet** to the generation thread.
-3. Ask: **"Generate this image exactly from the attached packet and character references."**
-4. Generate one image only.
-5. Approve the result before moving to the next numbered packet.
+1. Attach **both approved character references**: `seo-jun-reference.png` and `min-jae-reference.png`. These are mandatory identity locks.
+2. For Images **2–17**, also attach the immediately previous approved story image as a continuity lock.
+3. For **Image 7**, attach both approved **Image 6** and approved **Image 5**; Image 5 is required to preserve the exact rooftop flashback appearance and environment.
+4. Send the matching `IMAGE_XX_*.md` packet to the generation thread.
+5. Ask: **"Generate this image exactly from the attached packet, required character references, and continuity image(s). Generate one image only."**
+6. Approve the result before moving to the next numbered packet.
+
+Do not generate a story image before both character references are approved. Do not generate Images 2–17 without their required prior approved continuity image(s).
 
 Each packet is intentionally self-contained and includes:
+- required attachment instructions
 - character appearance and outfit state
 - scenario/location
 - exact events and blocking
@@ -18,7 +22,7 @@ Each packet is intentionally self-contained and includes:
 - camera/composition
 - exact script
 - timing/continuity
-- visual-style constraints
+- the critical visual-style locks needed to reproduce the full project look without separately sending the style guide
 - hard generation constraints
 
 ## Files
@@ -45,6 +49,7 @@ Each packet is intentionally self-contained and includes:
 
 - `story/SCRIPT.md` remains the canonical master dialogue source.
 - `story/STORYBOARD.md` remains the canonical master action/blocking source.
-- These generation packets are frozen, image-specific copies designed for portability into separate threads.
+- These generation packets are image-specific portable copies designed for separate threads.
+- The critical rendering locks from `style/VISUAL_STYLE_GUIDE.md` are embedded in every packet; the master style guide remains canonical if a packet is regenerated or audited.
 - If the master story changes later, regenerate/re-audit the affected packet before using it.
 - Do not store external inspiration artwork in this repository.
