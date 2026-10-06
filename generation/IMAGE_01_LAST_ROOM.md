@@ -2,9 +2,16 @@
 
 ## Purpose
 
-This file is a **self-contained generation packet** for one image of *One Room Until Morning*. Send this file to the image-generation thread together with the approved character reference images when available.
+This file is a **self-contained generation packet** for one image of *One Room Until Morning*. Use it in a separate image-generation thread together with the **required approved character reference images**.
 
 Generate **Image 1 only**. Do not advance the story beyond this file.
+
+## Required Attachments
+
+- `seo-jun-reference.png` — **required identity lock**.
+- `min-jae-reference.png` — **required identity lock**.
+
+**Do not generate this image if either approved character reference is missing.** For Images 2–17, do not generate without the required prior approved story image reference(s).
 
 ## Output
 
@@ -76,14 +83,19 @@ Start of story. Stormy night. Both outer layers and hair are damp.
 
 ## Visual Style
 
-- Premium serialized Korean webtoon/manhwa finish.
+- Premium serialized Korean webtoon/manhwa finish; polished, illustrated, and clearly non-photoreal.
 - 9:16 vertical composition for TikTok.
-- Crisp controlled linework; refined adult masculine anatomy.
-- Flat/cel coloring with controlled soft shadows.
-- Matte skin, matte fabric, restrained hair highlights.
-- No glossy/oily/plastic skin, no bloom, no neon rim light, no 3D or photoreal finish.
-- Keep faces, hands, and speech bubbles away from extreme top/bottom UI zones.
+- Crisp controlled fine-to-medium linework with refined adult masculine anatomy.
+- Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
+- Flat/cel or soft-cel coloring with controlled soft shadows, clear light/shadow separation, and only limited intentional gradients.
+- Matte skin and matte fabric. No glossy, oily, plastic, wet-look, or pore-level photoreal skin.
+- Hair must use clean major masses with selected natural strands and narrow soft highlights only; no broad white reflection bands, metallic shine, or wet/plastic hair.
+- Eyes should be expressive but not oversized, with subtle iris variation and small controlled catchlights; no glass-orb shine.
+- Use the project's restrained palette: charcoal, black, dark navy, warm white, muted amber, storm blue-gray, and soft morning gray-blue where appropriate.
+- Lighting must follow this packet's Scenario and Continuity exactly. Do not add bloom, character glow, strong lens flare, neon rim lighting, or overexposed highlights.
+- Keep faces, hands, and speech bubbles away from extreme top/bottom TikTok UI zones.
 - Seo-jun must remain visibly shorter than Min-jae.
+
 
 ## Hard Constraints
 
@@ -94,4 +106,4 @@ Start of story. Stormy night. Both outer layers and hair are damp.
 
 ## Generation Command
 
-Generate **Image 1 — Last Room** exactly from this packet. Treat the approved character references, if attached, as identity locks. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
+Generate **Image 1 — Last Room** exactly from this packet. Treat both approved character references as mandatory identity locks and the required prior approved story image(s) as continuity locks. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
