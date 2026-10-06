@@ -8,6 +8,13 @@
 **Height:** 184 cm  
 **Build:** Lean, lightly athletic, broad enough through the shoulders to contrast with Seo-jun
 
+## Rendering Identity
+
+- Flat **2D Korean manhwa/webtoon cartoon character** only.
+- Keep the character visibly illustrated with crisp linework, flat color blocks, and cel/soft-cel shading.
+- Do not render as a real person, semi-realistic portrait, 3D/CGI model, or game character.
+- No photoreal skin, pores, subsurface scattering, or volumetric 3D anatomy.
+
 ## Face
 
 - Warm fair / light beige skin
