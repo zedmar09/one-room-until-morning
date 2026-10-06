@@ -91,31 +91,56 @@ Unwanted awareness becoming a small, unmistakably romantic tension without eithe
 
 ### Scene
 
-They enter. The room is modest and warm. One double bed is immediately visible.
+They enter directly from the silent elevator scene. The room is modest and warm, with cool storm light at the rain-streaked window.
 
-Seo-jun looks at the bed, then at Min-jae. He offers to sleep on the floor.
+They already know there is only one bed from the receptionist in Image 1. The tension is not surprise—it is the awkward reality of now being alone in the room together.
 
-Min-jae calls out his habit of running away.
+Seo-jun looks at the bed, then briefly at Min-jae, then looks away.
 
-### Camera
+**"I'll take the floor."**
 
-Wide enough to establish the one-bed layout, then frame both men within the same composition.
+Min-jae sets his packed travel bag beside the luggage bench and looks at him.
+
+**"Seriously?"**
+
+Seo-jun avoids his eyes.
+
+**"What?"**
+
+Min-jae answers calmly:
+
+**"You're still avoiding me."**
+
+### Camera / Page Composition
+
+Use a four-beat vertical manhwa progression:
+
+1. wide room-entry establishing panel that locks the hotel geography
+2. Seo-jun looking at the bed, then away — **"I'll take the floor."**
+3. Min-jae placing his travel bag — **"Seriously?"** / Seo-jun: **"What?"**
+4. tighter Min-jae reaction or close two-shot — **"You're still avoiding me."**
+
+Let gestures, eye direction, bag placement, and physical distance carry as much of the scene as the dialogue.
 
 ### Emotional Beat
 
-The physical setup becomes the emotional trap.
+The one-bed setup becomes a practical excuse for Seo-jun to create distance, and Min-jae quietly calls out what he is really doing.
 
 ### Dialogue
 
-Use Scene 3.
+Use Scene 3 from `SCRIPT.md`.
 
 ### Continuity
 
-- At the opening of the scene, Seo-jun is still wearing his damp charcoal coat and Min-jae is still wearing his damp dark navy overshirt.
+- Direct continuation of Image 2's interrupted eye-contact tension.
+- Both still wear their damp outer layers throughout Image 3.
 - Min-jae places his packed travel bag beside the luggage bench at the foot of the bed.
 - Seo-jun places his dark crossbody bag beside the chair near the window.
+- Wall hooks near the entrance remain empty in Image 3.
 - Before Image 4 begins, Seo-jun's charcoal coat and Min-jae's dark navy overshirt are removed and hung on the wall hooks near the entrance to dry.
-- Rain visible at window.
+- Rain remains visible at the window.
+- No physical contact.
+- Do not stage the bed as a surprise; they already know about it.
 
 ---
 
