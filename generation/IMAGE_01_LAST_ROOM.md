@@ -98,10 +98,13 @@ Small modern city hotel reception at night during a severe storm. Seo-jun and Mi
 
 ## Events / Blocking
 
-- Seo-jun and Min-jae stand at the reception desk, awkward and visibly uncomfortable around each other after six months of avoidance.
+- Open with a short exterior establishing beat showing the hotel during the storm.
+- Seo-jun and Min-jae then stand at the reception desk, awkward and visibly uncomfortable around each other after six months of avoidance.
 - Both still carry their own bags.
 - Receptionist slides a single keycard across the counter.
-- The "one bed" reveal lands as the visual hook.
+- Seo-jun answers calmly even though the situation is uncomfortable.
+- The "...There's only one bed." reveal lands as the final visual hook.
+- End on Seo-jun and Min-jae's restrained surprised reaction.
 - No flirtation yet.
 
 ## Objects / Props
@@ -115,7 +118,26 @@ Small modern city hotel reception at night during a severe storm. Seo-jun and Mi
 
 ## Camera / Composition
 
-Vertical medium-wide composition. Receptionist foreground/side; Seo-jun and Min-jae both clearly visible reacting. Keep the hotel readable without clutter.
+Use a **clean vertical manhwa page with multiple stacked panels**, following this approved rhythm:
+
+1. **Establishing panel** — stormy hotel exterior / entrance with the narration box.
+2. **Reception panel** — medium-wide view of Seo-jun and Min-jae at the desk with the receptionist foreground/side.
+3. **Keycard insert** — close view of the receptionist sliding the single keycard across the counter.
+4. **Reaction panel** — closer view of Seo-jun and Min-jae; Seo-jun says, "That's fine."
+5. **Reveal panel** — receptionist delivers, "...There's only one bed."
+6. **Final reaction beat** — hold briefly on both men registering the reveal.
+
+Keep gutters clean and readable. Panels should feel like a polished Korean webtoon/manhwa page rather than equal-sized comic boxes. Let panel heights vary naturally according to the emotional beat.
+
+Keep faces, hands, keycard, and dialogue clearly readable on a phone screen.
+
+## Approved Image 1 Narration
+
+Use this exact rectangular manhwa narration caption near the top of the page:
+
+**"After Min-jae's farewell dinner, the storm leaves them stranded near the station."**
+
+This is an approved Image 1-only narration caption. Do not turn it into a speech bubble.
 
 ## Exact Script
 
@@ -141,6 +163,10 @@ Start of story. Stormy night. Both outer layers and hair are damp.
 - When detail conflicts with the flat manhwa look, **flat manhwa wins**.
 
 - Premium serialized Korean webtoon/manhwa finish; polished, flat 2D, cartoon/manhwa, and clearly non-photoreal.
+- Match the approved Image 1 direction: **matte 2D surfaces, restrained cel shading, minimal reflections, and no glossy or hyper-rendered finish**.
+- Hotel glass, counters, wet fabric, and rain may read clearly, but avoid mirror-like reflections, polished-marble glare, excessive specular highlights, or realistic photographic shine.
+- Speech bubbles should use a **clean organic manhwa/webtoon shape with clear tapered tails**, balanced padding, and phone-readable lettering; avoid generic plain oval bubbles when a more natural manhwa bubble shape fits the beat.
+- Narration uses a simple rectangular caption box distinct from dialogue bubbles.
 - 9:16 vertical composition for TikTok.
 - Crisp controlled fine-to-medium linework with stylized adult masculine manhwa anatomy.
 - Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
@@ -156,14 +182,15 @@ Start of story. Stormy night. Both outer layers and hair are damp.
 
 ## Hard Constraints
 
-- Do not add extra dialogue, narration, characters, props, clothing changes, or decorative effects.
+- Do not add extra dialogue or narration beyond the approved narration caption and exact script in this packet.
+- Do not add extra characters, props, clothing changes, or decorative effects.
 - Keep intimacy consensual and non-explicit.
 - No nudity, groping, fetishized framing, or sexualized bed staging.
 - Preserve exact character identities, height difference, clothing state, and established props.
 
 ## Generation Command
 
-Generate **Image 1 — Last Room** exactly from this packet.
+Generate **Image 1 — Last Room** exactly from this packet, using the approved multi-panel vertical manhwa pacing, narration box, organic manhwa speech bubbles, and matte flat-2D rendering direction.
 
 Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
 
