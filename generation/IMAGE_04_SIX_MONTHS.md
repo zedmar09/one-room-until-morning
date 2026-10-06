@@ -99,10 +99,16 @@ Same hotel room, same stormy night. Warm room light; rain continues outside.
 
 ## Events / Blocking
 
-- Min-jae confronts Seo-jun about six months of silence.
-- Seo-jun stays defensive.
+- Direct continuation of Image 3, immediately after Min-jae says, **"You're still avoiding me."**
+- Before this image begins, both men have removed their damp outer layers and hung them on the wall hooks near the entrance.
+- Seo-jun answers without looking at Min-jae: **"I'm not."**
+- Min-jae does not move closer. He simply says, **"Then look at me."**
+- Seo-jun hesitates, then finally turns and meets Min-jae's eyes.
+- Hold the eye contact for a quiet beat.
+- Min-jae's expression softens from frustration into something more personal before he says, **"It's been six months, Seo-jun."**
+- The emotional movement is: **denial → simple challenge → eye contact → history lands**.
 - No physical contact.
-- They remain several steps apart.
+- They remain several steps apart; the tension comes from finally looking at each other rather than moving closer.
 
 ## Objects / Props
 
@@ -120,19 +126,34 @@ Same hotel room, same stormy night. Warm room light; rain continues outside.
 
 ## Camera / Composition
 
-Medium confrontation two-shot. Keep both expressions readable and the distance between them visible.
+Use a **clean 4-beat vertical manhwa/webtoon page** with restrained pacing and very little visual clutter:
+
+1. **Continuation panel** — medium shot of Seo-jun turned partly away in his white button-up, with Min-jae several steps behind or across from him in his black T-shirt. Seo-jun says, **"I'm not."**
+2. **Min-jae panel** — closer framing on Min-jae, calm and direct rather than angry. Dialogue: **"Then look at me."**
+3. **Eye-contact panel** — no dialogue. Seo-jun finally turns and meets Min-jae's eyes. Use a close two-shot or paired close framing. Let this silent beat breathe.
+4. **Final emotional beat** — Min-jae holds the gaze, expression restrained and slightly vulnerable. Dialogue: **"It's been six months, Seo-jun."**
+
+Keep the first two beats spacious and the third beat especially quiet. The eye contact is the main action of the page.
+
+Use clean organic manhwa speech bubbles with tapered tails and balanced padding. Keep the silent third panel free of bubbles.
+
+Preserve clear top-to-bottom reading order and keep the physical distance between them visible.
 
 ## Exact Script
 
-**SEO-JUN:** "I didn't run."
+**SEO-JUN:** "I'm not."
 
-**MIN-JAE:** "Six months without speaking to me."
+**MIN-JAE:** "Then look at me."
 
-**MIN-JAE:** "What would you call it?"
+**MIN-JAE:** "It's been six months, Seo-jun."
 
 ## Continuity
 
-Indoor outfits begin here and remain through Image 16. Outerwear stays on hooks. Bags remain fixed.
+Direct continuation of Image 3's final line, **"You're still avoiding me."**
+
+Indoor outfits begin here and remain through Image 16. Seo-jun's damp charcoal coat and Min-jae's damp navy overshirt are already hanging on the wall hooks near the entrance before the first visible panel of Image 4. Do not depict the undressing/removal action itself.
+
+Bags remain fixed in the positions established in Image 3. Rain continues outside. No physical contact.
 
 ## Visual Style
 
@@ -146,6 +167,10 @@ Indoor outfits begin here and remain through Image 16. Outerwear stays on hooks.
 - When detail conflicts with the flat manhwa look, **flat manhwa wins**.
 
 - Premium serialized Korean webtoon/manhwa finish; polished, flat 2D, cartoon/manhwa, and clearly non-photoreal.
+- Continue the approved Pages 1–3 direction: **matte 2D surfaces, restrained cel shading, minimal reflections, and no glossy or hyper-rendered finish**.
+- Hotel furniture, floor, window trim, and lighting should remain visibly illustrated and matte; no polished-floor glare or photographic interior rendering.
+- Speech bubbles should use **clean organic manhwa/webtoon shapes with tapered tails, balanced padding, and phone-readable lettering**. Avoid generic oversized plain ovals.
+- Keep panel gutters crisp and simple with varied panel heights.
 - 9:16 vertical composition for TikTok.
 - Crisp controlled fine-to-medium linework with stylized adult masculine manhwa anatomy.
 - Faces must remain distinct and consistent; avoid generic anime same-face, chibi proportions, or youthful/high-school styling.
@@ -168,7 +193,7 @@ Indoor outfits begin here and remain through Image 16. Outerwear stays on hooks.
 
 ## Generation Command
 
-Generate **Image 4 — Six Months** exactly from this packet.
+Generate **Image 4 — Six Months** exactly from this packet using the approved 4-beat vertical manhwa pacing, gesture-led acting, organic manhwa speech bubbles, and matte flat-2D rendering direction established by Pages 1–3.
 
 Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
 
