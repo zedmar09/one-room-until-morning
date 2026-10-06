@@ -11,10 +11,13 @@ Generate **Min-jae only**.
 ## Output
 
 - One finished **9:16 vertical** character reference image.
-- Full-body or near-full-body framing is preferred while keeping the face clearly readable.
+- **Exactly one single full-body standing figure in one panel.**
+- Show Min-jae completely from **head to shoes**, with no body part cropped.
+- Face must remain clearly readable at full-body scale.
+- No collage, multi-panel sheet, turnaround views, expression grid, detail inset, anatomy view, duplicate figure, alternate pose, or alternate outfit.
 - Clean premium Korean webtoon/manhwa character-reference presentation.
 - No dialogue, captions, labels, logo, story action, or decorative text.
-- Use a simple neutral background.
+- Use one plain **soft light-gray** background.
 - Clothing is **dry, clean, opaque, matte, and non-clingy**.
 
 ## Character Identity
@@ -33,7 +36,7 @@ Min-jae must read immediately as a **23-year-old adult man**, never as a teenage
 - Tall, lean frame with lightly athletic definition.
 - Broader shoulders than Seo-jun, but not bulky or bodybuilder-like.
 - Long, balanced adult proportions.
-- Clean stylized manhwa hands and believable adult manhwa limb proportions.
+- Clean stylized manhwa hands and consistent adult manhwa limb proportions.
 - Upright, relaxed posture.
 - Avoid exaggerated muscles, oversized shoulders, tiny waist, fashion-model distortion, or adolescent proportions.
 
@@ -122,42 +125,28 @@ Use Min-jae's **locked present-day story outfit** in a dry, clean state:
 
 ## Pose
 
-Use a simple reusable character-reference pose:
+Use this **exact single reference pose**:
 
-- relaxed standing pose
-- shoulders naturally open
-- weight evenly balanced or shifted only slightly
-- one arm resting naturally at his side
-- the other arm relaxed or lightly bent
-- hands clearly formed and unobstructed where possible
-- no dramatic movement
+- full-body standing
+- body turned only slightly to a three-quarter angle
+- head facing the viewer
+- shoulders naturally open and level
+- both arms resting naturally at the sides
+- both hands fully visible and unobstructed
+- legs straight with a natural shoulder-width stance
+- both shoes fully visible
+- calm, grounded posture
 
-The pose should clearly show:
-- face
-- hairstyle
-- shoulder width
-- adult height impression
-- torso proportions
-- trousers
-- footwear
-- overall silhouette
+The pose must clearly show the face, hairstyle, shoulder width, adult height impression, torso proportions, trousers, footwear, and overall silhouette.
 
-Do not use:
-- crossed-arm cold pose
-- dramatic fashion pose
-- action pose
-- romantic pose
-- seated pose
-- hands in front of the face
+Do not use any alternate pose, crossed arms, dramatic fashion pose, action pose, romantic pose, seated pose, or hands hidden in pockets.
 
 ## Background
 
-Use a **simple neutral reference background**:
+Use **one plain soft light-gray background only**.
 
-Preferred:
-- soft light gray
-- soft warm gray
-- extremely subtle neutral gradient
+- No gradient strong enough to read as an environment.
+- No floor texture, scenery, props, or decorative framing.
 
 Do not use:
 - hotel room
@@ -175,9 +164,10 @@ Use clean neutral reference lighting:
 
 - soft and even
 - face fully readable
-- controlled cel/soft-cel shadowing
-- gentle dimensionality
+- depth created **only through simple cel/soft-cel shadow shapes**
+- simple graphic cheek, jaw, neck, and clothing shadow shapes
 - matte finish
+- **no volumetric rendering or realistic light transport**
 - no extreme contrast
 
 Do not use:
@@ -214,11 +204,11 @@ Match the project style exactly:
 - matte skin
 - matte fabric
 - clean color blocks
-- natural cloth folds
+- simplified illustrated cloth-fold shapes
 - restrained edge highlights
 - expressive eyes with small controlled catchlights
 - selected natural hair strands
-- consistent believable facial identity
+- consistent stylized facial identity
 
 Avoid:
 - generic same-face anime appearance
@@ -283,6 +273,6 @@ Dress him exactly in his dry canonical present-day outfit:
 - black casual leather shoes
 - minimal watch
 
-Use a relaxed standing reference pose, simple neutral background, clean neutral lighting, and the project's locked **premium flat 2D matte Korean webtoon/manhwa cartoon rendering style**.
+Use the exact single full-body three-quarter standing pose, plain soft light-gray background, simple cel/soft-cel reference lighting with no volumetric rendering, and the project's locked **premium flat 2D matte Korean webtoon/manhwa cartoon rendering style**.
 
 The result must be reusable as the **approved identity lock for Min-jae across every future story image**.
