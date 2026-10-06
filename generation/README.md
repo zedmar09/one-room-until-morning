@@ -30,6 +30,10 @@ Each packet is intentionally self-contained and includes:
 - the critical visual-style locks needed to reproduce the full project look without separately sending the style guide
 - hard generation constraints
 
+## Rendering Medium Lock
+
+Every packet uses the same non-negotiable medium: **flat 2D Korean manhwa/webtoon cartoon illustration**. Do not generate realistic people, semi-realistic digital portraits, 3D/CGI characters, game-character renders, photographic skin, realistic pores, or volumetric 3D musculature. Use crisp drawn linework, flat color blocks, simplified illustrated skin planes, and cel/soft-cel shading.
+
 ## Files
 
 - `IMAGE_01_LAST_ROOM.md` — Last Room
