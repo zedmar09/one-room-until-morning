@@ -10,9 +10,9 @@ Generate **Image 5 only**. Do not advance the story beyond this file.
 
 - `seo-jun-reference.png` — **required identity lock**.
 - `min-jae-reference.png` — **required identity lock**.
-- Approved **Image 4** — required continuity reference for the immediately preceding story state.
+**Do not attach a present-day story image as a continuity reference for Image 5.** This image starts the rooftop flashback and should use only the two approved character identity references plus the flashback outfit/environment instructions in this packet.
 
-**Do not generate this image if either approved character reference is missing.** For Images 2–17, do not generate without the required prior approved story image reference(s).
+**Do not generate this image if either approved character reference is missing.**
 
 ## Output
 
@@ -94,4 +94,4 @@ This is the first half of the exact same flashback moment continued in Image 7. 
 
 ## Generation Command
 
-Generate **Image 5 — Flashback — Almost** exactly from this packet. Treat both approved character references as mandatory identity locks and the required prior approved story image(s) as continuity locks. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
+Generate **Image 5 — Flashback — Almost** exactly from this packet. Treat both approved character references as mandatory identity locks. Do not use a present-day story image as a visual continuity lock for this flashback. Do not redesign faces, hair, body proportions, outfits, props, room geography, or dialogue.
