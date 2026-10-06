@@ -2,14 +2,28 @@
 
 ## Goal
 
-Produce polished vertical adult-romance manhwa artwork suitable for TikTok slideshow storytelling. The images should feel like finished serialized webtoon/manhwa panels: clean, dramatic, intimate, and emotionally readable without becoming glossy, 3D, photorealistic, or visually overworked.
+Produce polished vertical adult-romance manhwa artwork suitable for TikTok slideshow storytelling. The images must look like **flat 2D Korean manhwa/webtoon illustrations**: clean, dramatic, intimate, and emotionally readable. The characters are drawn cartoon/manhwa characters, **not realistic people, not 3D models, and not photoreal or semi-realistic portraits**.
+
+## Non-Negotiable Medium Lock
+
+- **2D flat/cel manhwa illustration only.**
+- Characters must look like stylized Korean webtoon/manhwa drawings, not real photographed people.
+- Use simplified illustrated skin planes, crisp linework, flat color blocks, and cel/soft-cel shadows.
+- Keep dimensionality graphic and drawn rather than volumetric or sculpted.
+- No 3D/CGI character rendering.
+- No photorealism.
+- No semi-realistic portrait painting.
+- No lifelike skin texture, pores, subsurface scattering, realistic photographic speculars, or rendered skin translucency.
+- No realistic 3D musculature or game-character body rendering.
+- Backgrounds may use believable perspective and spatial depth, but they must remain visibly illustrated and consistent with the flat manhwa characters.
+- When there is any conflict between “detail” and “flat manhwa,” **flat manhwa wins**.
 
 ## Core Rendering
 
 Use:
 
 - crisp controlled digital linework
-- refined adult masculine facial anatomy
+- stylized adult masculine manhwa facial anatomy
 - flat-to-cel-based coloring
 - controlled soft shadows
 - limited intentional gradients
@@ -21,7 +35,7 @@ Use:
 - strong facial continuity
 - cinematic framing without cinematic over-effects
 
-The artwork must remain visibly illustrated and matte.
+The artwork must remain visibly **2D, flat/cel illustrated, cartoon/manhwa, and matte**.
 
 ## Surface Finish
 
