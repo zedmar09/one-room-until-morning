@@ -211,33 +211,58 @@ Use Scene 4 from `SCRIPT.md`.
 
 ### Scene
 
+Page 4 ends on Min-jae saying:
+
+**"It's been six months, Seo-jun."**
+
+Cut into the memory from six months earlier.
+
 University festival lights glow distantly below. Seo-jun and Min-jae stand close after a private conversation.
 
-Min-jae's fingers lightly touch Seo-jun's wrist. Their faces are only inches apart. They are about to kiss.
+Min-jae's fingers lightly touch Seo-jun's wrist. The contact is gentle and non-restraining. Seo-jun does not pull away yet.
 
-Seo-jun whispers Min-jae's name and then abruptly pulls away.
+Their faces move within inches of each other.
 
-### Camera
+Seo-jun softly says:
 
-Intimate side-profile medium close-up with both faces visible.
+**"Min-jae..."**
+
+They almost kiss, but their lips remain visibly apart.
+
+Seo-jun suddenly breaks the moment and steps or leans back.
+
+Min-jae freezes, surprised and uncertain rather than angry.
+
+### Camera / Page Composition
+
+Use a four-beat vertical manhwa progression:
+
+1. rooftop establishing panel with both men already close
+2. gentle wrist-touch detail
+3. side-profile near-kiss panel — **"Min-jae..."**
+4. Seo-jun abruptly pulls away; Min-jae remains still
+
+Let the third panel hold the romantic tension, then make the fourth panel feel sudden.
 
 ### Emotional Beat
 
-Reveal what happened six months ago.
+Reveal the exact moment that created the six months of distance: they both wanted the closeness, but Seo-jun retreated before the kiss could happen.
 
 ### Dialogue
 
-Use Scene 5.
+Use Scene 5 from `SCRIPT.md`.
 
 ### Continuity
 
-- Memory should be visually distinct but still use the same character designs.
-- Do not change hairstyles or facial features.
 - Use the exact flashback outfits defined in both character files.
-- Seo-jun: light gray cardigan, white T-shirt, charcoal trousers, white/gray sneakers.
-- Min-jae: dark navy casual jacket, black T-shirt, dark charcoal trousers, black sneakers.
-- Image 7 must preserve these exact layers, colors, and accessories.
-- No kiss occurs in this flashback.
+- Seo-jun: light gray cardigan, white T-shirt, charcoal trousers, white/gray sneakers, silver wristwatch.
+- Min-jae: dark navy casual jacket, black T-shirt, dark charcoal trousers, black sneakers, minimal watch.
+- No kiss occurs.
+- The wrist touch is gentle and has already broken by the final panel.
+- Image 5 must end with Seo-jun having just pulled away and Min-jae still in place, surprised and uncertain.
+- Image 7 must resume from this exact physical and emotional state.
+- Preserve the same hairstyles, rooftop geography, lighting direction, relative positions, and clothing in Image 7.
+- Keep the flashback matte and flat/cel illustrated; no glow, sparkles, petals, blur haze, or glossy effects.
 
 ---
 
