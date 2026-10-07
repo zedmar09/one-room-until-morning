@@ -89,19 +89,19 @@ Do **not** carry over any solo reference-image rules into the story image. Speci
 
 ## Scenario
 
-University rooftop six months earlier during a festival night. Distant warm festival lights below, cooler night air, slightly softer memory treatment while retaining flat/cel rendering.
+University rooftop six months earlier during a festival night. The rooftop itself is quiet and private; festival activity is only visible as distant warm lights below. Cool night air, dry weather, and a slightly softer memory treatment while retaining crisp flat/cel rendering.
 
 ## Events / Blocking
 
 - This flashback begins immediately after Page 4's final line, **"It's been six months, Seo-jun."**
 - Seo-jun and Min-jae stand close on the university rooftop after a private conversation.
-- Min-jae's fingers make a **light, gentle touch at Seo-jun's wrist**. It must read as soft fingertip/finger contact, never a grip or restraint.
-- Seo-jun does not pull away from the wrist touch at first.
-- Their faces move within inches of each other; both are visibly affected but restrained.
+- Min-jae's fingers make a **light, open-handed touch at Seo-jun's wrist**. His fingers rest softly; there is no gripping, pulling, or restraint.
+- Seo-jun notices the touch and does not move away.
+- Their eye contact holds. Both lean in only slightly and mutually until their faces are within inches of each other.
 - Seo-jun softly says, **"Min-jae..."**
-- They do **not** kiss. Keep their lips visibly apart.
-- Immediately after the almost-kiss beat, Seo-jun abruptly breaks the moment and steps or leans back.
-- Min-jae freezes in place, surprised and uncertain rather than angry.
+- They do **not** kiss. Keep a clearly visible gap between their lips.
+- Seo-jun is the one who breaks the moment, suddenly drawing his upper body back and taking a small step away.
+- Min-jae stays where he is. His hand falls away naturally as the distance opens. His expression is surprised and uncertain, not angry or rejected-looking.
 - The emotional movement is: **memory → gentle touch → almost kiss → Seo-jun retreats**.
 - No additional dialogue.
 
@@ -115,14 +115,16 @@ University rooftop six months earlier during a festival night. Distant warm fest
 
 Use a **clean 4-beat vertical manhwa/webtoon page** with varied panel heights:
 
-1. **Flashback establishing panel** — university rooftop at festival night. Show both men already standing close in the exact flashback outfits. Distant warm festival lights below; cooler night air. No dialogue.
-2. **Wrist-touch detail** — close crop of Min-jae's fingers lightly touching Seo-jun's wrist. The touch is gentle and non-restraining. Seo-jun does not pull away yet.
-3. **Near-kiss panel** — intimate side-profile medium close-up with both faces visible, lips clearly apart, and only a small gap between them. Seo-jun says, **"Min-jae..."**
-4. **Pull-away panel** — Seo-jun abruptly breaks the moment and steps or leans back. Min-jae stays still, surprised and uncertain. No dialogue.
+1. **Rooftop establishing panel** — medium-wide view of the quiet university rooftop. Seo-jun and Min-jae already stand close in the exact flashback outfits. Keep the rooftop rail visible as simple context and festival lights distant below. No dialogue and no extra foreground characters.
+2. **Touch / reaction panel** — tighter crop that clearly shows Min-jae's relaxed fingers resting lightly at Seo-jun's wrist while also keeping enough of Seo-jun's face or upper body visible to show that he notices and stays. The hand contact must read as gentle, not as a grab.
+3. **Near-kiss panel** — the largest emotional panel. Intimate side-profile medium close-up with both faces clearly visible. They have leaned in mutually; eye contact is soft and tense. Keep a small but unmistakable gap between their lips. Seo-jun says, **"Min-jae..."**
+4. **Pull-away panel** — Seo-jun suddenly draws back and takes one small step away. Min-jae remains where he was; his hand has naturally dropped away. Show the new gap between them clearly. Min-jae looks caught off guard and uncertain. No dialogue.
 
-Keep gutters clean and phone-readable. Let the third panel hold the romantic tension, then make the fourth panel feel sudden and emotionally disruptive.
+Keep gutters clean and phone-readable. Let Panel 3 linger visually, then make Panel 4 feel abrupt through the change in distance rather than exaggerated motion lines.
 
-Do not add sparkles, petals, hearts, glow, blur haze, or decorative romance effects.
+Place the **"Min-jae..."** bubble close to Seo-jun with a clear tapered tail pointing to him. Keep it small enough that it does not cover either face or the gap between their lips.
+
+Do not add sparkles, petals, hearts, glow, blur haze, speed lines, or decorative romance effects.
 
 ## Exact Script
 
@@ -135,9 +137,9 @@ This is the first half of the exact same flashback moment continued in Image 7.
 **Image 5 must end on the exact continuity state that Image 7 resumes from:**
 - Seo-jun has just pulled away from the almost-kiss.
 - Min-jae is still in place, visibly surprised and uncertain.
-- Their physical distance has just increased by a small step.
+- Their physical distance has just increased by one small step, with Seo-jun now farther back and Min-jae still in his original position.
 - No kiss has occurred.
-- The wrist touch has already broken as Seo-jun pulls away.
+- Min-jae's hand is no longer touching Seo-jun; it has dropped naturally after Seo-jun moved away.
 
 Preserve the exact flashback outfits, hairstyles, lighting direction, rooftop geography, relative character positions, and emotional state for Image 7.
 
@@ -154,7 +156,7 @@ Preserve the exact flashback outfits, hairstyles, lighting direction, rooftop ge
 
 - Premium serialized Korean webtoon/manhwa finish; polished, flat 2D, cartoon/manhwa, and clearly non-photoreal.
 - Continue the approved Pages 1–4 visual direction: **matte 2D surfaces, restrained cel shading, minimal reflections, and no glossy or hyper-rendered finish**.
-- Flashback treatment may be slightly softer and cooler than present day, but it must remain crisp, flat/cel illustrated, and clearly drawn.
+- Flashback treatment may be slightly softer and cooler than present day, but **do not soften the linework or faces**. Keep the characters crisp, flat/cel illustrated, and clearly drawn; only the palette/contrast may be gentler.
 - **Do not use romantic glow, blur haze, bloom, sparkles, petals, heart graphics, lens flare, or glossy highlights.**
 - The single speech bubble for **"Min-jae..."** should be small, organic, and unobtrusive with a tapered tail and balanced padding. Avoid a large plain oval.
 - 9:16 vertical composition for TikTok.
@@ -179,7 +181,7 @@ Preserve the exact flashback outfits, hairstyles, lighting direction, rooftop ge
 
 ## Generation Command
 
-Generate **Image 5 — Flashback — Almost** exactly from this packet using the approved 4-beat vertical manhwa pacing, restrained gesture-led acting, a small organic speech bubble for **"Min-jae..."**, and the matte flat-2D rendering direction established by Pages 1–4.
+Generate **Image 5 — Flashback — Almost** exactly from this packet using the approved 4-beat vertical manhwa pacing, mutual restrained lean-in, gentle wrist contact, a clearly visible no-kiss gap, one small organic speech bubble for **"Min-jae..."**, and the matte flat-2D rendering direction established by Pages 1–4.
 
 Treat both approved character references as **mandatory identity locks only**. They lock only face, hair, skin tone, eye color, body proportions, height relationship, and overall character identity.
 
