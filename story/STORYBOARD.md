@@ -217,11 +217,11 @@ Page 4 ends on Min-jae saying:
 
 Cut into the memory from six months earlier.
 
-University festival lights glow distantly below. Seo-jun and Min-jae stand close after a private conversation.
+The rooftop is quiet and private; university festival lights glow only in the distance below. Seo-jun and Min-jae stand close after a private conversation.
 
-Min-jae's fingers lightly touch Seo-jun's wrist. The contact is gentle and non-restraining. Seo-jun does not pull away yet.
+Min-jae's relaxed fingers rest lightly at Seo-jun's wrist. There is no grip or pull. Seo-jun notices the touch and does not move away.
 
-Their faces move within inches of each other.
+They hold eye contact and lean in only slightly and mutually until their faces are within inches of each other.
 
 Seo-jun softly says:
 
@@ -229,20 +229,20 @@ Seo-jun softly says:
 
 They almost kiss, but their lips remain visibly apart.
 
-Seo-jun suddenly breaks the moment and steps or leans back.
+Seo-jun suddenly breaks the moment, drawing his upper body back and taking one small step away.
 
-Min-jae freezes, surprised and uncertain rather than angry.
+Min-jae remains in place. His hand drops away naturally as the distance opens. He looks surprised and uncertain rather than angry.
 
 ### Camera / Page Composition
 
 Use a four-beat vertical manhwa progression:
 
-1. rooftop establishing panel with both men already close
-2. gentle wrist-touch detail
-3. side-profile near-kiss panel — **"Min-jae..."**
-4. Seo-jun abruptly pulls away; Min-jae remains still
+1. medium-wide quiet rooftop establishing panel with both men already close
+2. touch/reaction panel showing Min-jae's relaxed fingers at Seo-jun's wrist and Seo-jun staying
+3. largest emotional panel: mutual side-profile near-kiss with a clearly visible lip gap — **"Min-jae..."**
+4. Seo-jun takes one small step back; Min-jae remains in place and his hand drops away
 
-Let the third panel hold the romantic tension, then make the fourth panel feel sudden.
+Let the third panel hold the romantic tension, then make the fourth panel feel sudden through the new physical distance rather than dramatic effects.
 
 ### Emotional Beat
 
